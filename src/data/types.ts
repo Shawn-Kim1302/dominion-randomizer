@@ -10,6 +10,15 @@ export type LandscapeType = 'Event' | 'Landmark' | 'Project' | 'Way' | 'Trait'
  */
 export type CardKind = 'kingdom' | 'landscape' | 'ally' | 'prophecy' | 'other'
 
+/**
+ * village — +2 Actions or more (or Villagers)
+ * buy     — +Buy
+ * draw    — +2 Cards or more
+ * trash   — trashes cards from your hand/deck
+ * defense — protects against or responds to Attacks (Moat, Lighthouse, ...)
+ */
+export type Ability = 'village' | 'buy' | 'draw' | 'trash' | 'defense'
+
 export interface Cost {
   /** Coin cost, null when the card has no coin cost (e.g. Ways). */
   coin: number | null
@@ -31,6 +40,8 @@ export interface Card {
   types: string[]
   kind: CardKind
   landscape?: LandscapeType
+  /** Abilities detected from the card text (Kingdom piles only). */
+  abilities?: Ability[]
 }
 
 export interface CardSet {

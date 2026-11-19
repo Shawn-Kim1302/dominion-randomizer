@@ -14,7 +14,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { existsSync } from 'node:fs'
 import { createHash } from 'node:crypto'
 import path from 'node:path'
-import type { Card, CardKind, CardSet, LandscapeType } from '../src/data/types'
+import type { Ability, Card, CardKind, CardSet, LandscapeType } from '../src/data/types'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const CACHE = path.join(ROOT, '.cache')
@@ -107,9 +107,24 @@ function kindOf(c: TabsCard, setIds: string[]): { kind: CardKind; landscape?: La
   return { kind: 'other' }
 }
 
+/**
+ * Kingdom abilities detected from the official English card text (heuristic, used by
+ * the "require a village / +Buy / trashing / draw" filters and the attack → defense rule).
+ */
+const ABILITY_PATTERNS: [Ability, RegExp][] = [
+  ['village', /\+\s?([2-9]|X)\s?Actions?\b|Villagers?/i],
+  ['buy', /\+\s?\d*\s?Buys?\b/i],
+  ['draw', /\+\s?([2-9]|X)\s?Cards?\b|draw until/i],
+  [
+    'trash',
+    /\btrash (?:up to \w+|any number of|a|an|one|two|\d+)?\s*(?:card|cards|Treasure|Copper|Curse|Action|of them)?.{0,40}?from your hand|trash a card from your hand|trash up to|trash and\/or|trash one of them|trash any number of them|from your discard pile or hand|trash your hand|return up to 2 copies/i,
+  ],
+  ['defense', /unaffected|immune|reveal this from your hand.{0,80}Attack|When another player plays an Attack/i],
+]
+
 async function main() {
   const cards: TabsCard[] = JSON.parse(await cached(TABS + 'cards_db.json', '.json'))
-  const enNames: Record<string, { name: string }> = JSON.parse(await cached(TABS + 'en_us/cards_en_us.json', '.json'))
+  const enNames: Record<string, { name: string; description?: string }> = JSON.parse(await cached(TABS + 'en_us/cards_en_us.json', '.json'))
   const overrides: Record<string, string> = JSON.parse(await readFile(path.join(ROOT, 'src/data/ko-overrides.json'), 'utf8'))
 
   const pages = [...new Set([...SETS.map((s) => s.namu), ...EXTRA_NAMU_PAGES])]
@@ -147,6 +162,13 @@ async function main() {
     if (!ko && /s$/.test(en)) ko = lookup(en.replace(/s$/, ''), sets) // pile names such as "Castles"
     if (!ko) unmatched.push(`${sets[0] ?? BASIC}: ${en}`)
 
+    // Split piles: the group entry has no text of its own, so read every card in the pile.
+    const text = [c, ...cards.filter((m) => m.group_tag === c.card_tag && m.card_tag !== c.card_tag)]
+      .map((m) => enNames[m.card_tag]?.description ?? '')
+      .join(' ')
+      .replace(/<[^>]+>/g, ' ')
+    const abilities = kind === 'kingdom' ? ABILITY_PATTERNS.filter(([, rx]) => rx.test(text)).map(([a]) => a) : []
+
     const coin = parseInt(c.cost, 10)
     out.push({
       id: c.card_tag,
@@ -162,6 +184,7 @@ async function main() {
       types: c.types,
       kind,
       ...(landscape ? { landscape } : {}),
+      ...(abilities.length ? { abilities } : {}),
     })
   }
 

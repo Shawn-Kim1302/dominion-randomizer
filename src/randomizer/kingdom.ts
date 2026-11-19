@@ -113,3 +113,8 @@ export function compareByCost(a: Card, b: Card): number {
   const cb = (b.cost.coin ?? 0) + b.cost.debt
   return ca - cb || a.cost.potion - b.cost.potion || a.en.localeCompare(b.en)
 }
+
+/** Sort key: Korean name in 가나다 order (English name when there is no Korean name). */
+export function compareByName(a: Card, b: Card): number {
+  return (a.ko ?? a.en).localeCompare(b.ko ?? b.en, 'ko')
+}

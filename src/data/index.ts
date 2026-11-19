@@ -34,3 +34,20 @@ export function getCard(id: string): Card | undefined {
 export function cardName(card: Card): string {
   return card.ko ?? card.en
 }
+
+/** Cornucopia and Guilds were merged into one box in the 2nd edition, so they form one group. */
+const MERGED_GROUPS: Record<string, string> = { cornucopia: 'cornucopia-guilds', guilds: 'cornucopia-guilds', cornucopiaGuilds: 'cornucopia-guilds' }
+
+/**
+ * Expansion group of a box (both editions share one group), used for per-expansion limits.
+ */
+export function groupOf(setId: string): string {
+  const expansion = getSet(setId)?.expansion ?? setId
+  return MERGED_GROUPS[expansion] ?? expansion
+}
+
+/** Korean title of an expansion group. */
+export function groupTitle(group: string): string {
+  if (group === 'cornucopia-guilds') return '풍요의 뿔 · 길드를 위하여'
+  return sets.find((s) => groupOf(s.id) === group)?.ko ?? group
+}

@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import CardTile from './components/CardTile.vue'
+import FiltersPanel from './components/FiltersPanel.vue'
 import SetPicker from './components/SetPicker.vue'
 import SetupPanel from './components/SetupPanel.vue'
 import { cardName, cards, sets } from './data'
 import type { Card } from './data/types'
-import { KINGDOM_SIZE, PROMO_SET, compareByCost, dealKingdom, isAvailable, kingdomPool, landscapePool, promoKey, type LandscapeRule } from './randomizer/kingdom'
+import { drawConstrainedKingdom, drawLandscapes, emptyConstraints, type Constraints } from './randomizer/constraints'
+import { PROMO_SET, compareByCost, compareByName, isAvailable, kingdomPool, landscapePool, promoKey, type LandscapeRule } from './randomizer/kingdom'
 import { resolveSetup, type GameSetup } from './randomizer/setup'
 
 const selected = ref<Set<string>>(new Set(['dominion2ndEdition']))
@@ -13,6 +15,9 @@ const players = ref(2)
 const landscapeChoice = ref('shuffled')
 const setup = ref<GameSetup | null>(null)
 const error = ref('')
+const constraints = ref<Constraints>(emptyConstraints())
+/** How the 10 Kingdom piles are ordered on screen. */
+const sortMode = ref<'cost' | 'name'>('cost')
 
 const LANDSCAPE_RULES: Record<string, { label: string; rule: LandscapeRule }> = {
   shuffled: { label: '랜더마이저에 섞기 · 최대 2장 (공식 기본)', rule: { mode: 'shuffled', max: 2 } },
@@ -34,7 +39,7 @@ const supply = computed(() => {
     const trait = traitOn.get(c.id)
     return [base, trait && `특성: ${cardName(trait)}`].filter(Boolean).join(' · ') || undefined
   }
-  const piles = s.kingdom.slice().sort(compareByCost).map((card) => ({ card, tag: tagFor(card) }))
+  const piles = s.kingdom.slice().sort(sortMode.value === 'name' ? compareByName : compareByCost).map((card) => ({ card, tag: tagFor(card) }))
   for (const e of s.extraPiles.filter((x) => x.inSupply)) {
     piles.push({ card: e.card, tag: tagFor(e.card, e.role === 'bane' ? 'Bane' : '공격 더미 추가') })
   }
@@ -56,17 +61,20 @@ const sideCards = computed(() => {
 
 function draw() {
   const rng = Math.random
-  const r = dealKingdom(pool.value, landscapes.value, rng, LANDSCAPE_RULES[landscapeChoice.value].rule)
+  const c = constraints.value
+  const r = drawConstrainedKingdom(pool.value, c, selected.value, rng)
   if (!r.ok) {
-    error.value = `왕국 카드가 ${KINGDOM_SIZE}종 필요한데 선택한 확장에는 ${r.available}종뿐이에요. 확장을 더 골라 주세요.`
+    error.value = `조건에 맞는 왕국을 만들 수 없어요: ${r.reasons.join(', ')}. 조건을 줄이거나 확장을 더 골라 주세요.`
     return
   }
   error.value = ''
-  setup.value = resolveSetup(r.kingdom, r.landscapes, {
+  const usablePool = pool.value.filter((k) => !c.exclude.has(k.id))
+  const ls = drawLandscapes(usablePool, landscapes.value, c, LANDSCAPE_RULES[landscapeChoice.value].rule, rng)
+  setup.value = resolveSetup(r.kingdom, ls, {
     allCards: cards,
-    kingdomPool: pool.value,
-    allies: cards.filter((c) => c.kind === 'ally' && isAvailable(c, selected.value)),
-    prophecies: cards.filter((c) => c.kind === 'prophecy' && isAvailable(c, selected.value)),
+    kingdomPool: usablePool,
+    allies: cards.filter((x) => x.kind === 'ally' && isAvailable(x, selected.value) && !c.exclude.has(x.id)),
+    prophecies: cards.filter((x) => x.kind === 'prophecy' && isAvailable(x, selected.value) && !c.exclude.has(x.id)),
     players: players.value,
     rng,
   })
@@ -117,6 +125,8 @@ function selectAll(on: boolean) {
           </div>
           <SetPicker v-model="selected" />
         </section>
+
+        <FiltersPanel v-model="constraints" :selected="selected" />
       </div>
 
       <section class="result" aria-labelledby="kingdom-h">
@@ -125,7 +135,13 @@ function selectAll(on: boolean) {
             <h2 id="kingdom-h">왕국</h2>
             <p class="pool">뽑을 수 있는 왕국 카드 {{ pool.length }}종 · 랜드스케이프 {{ landscapes.length }}종</p>
           </div>
-          <button type="button" class="primary" @click="draw">왕국 뽑기</button>
+          <div class="actions">
+            <div class="seg" role="group" aria-label="왕국 카드 정렬">
+              <button type="button" :aria-pressed="sortMode === 'cost'" @click="sortMode = 'cost'">비용순</button>
+              <button type="button" :aria-pressed="sortMode === 'name'" @click="sortMode = 'name'">가나다순</button>
+            </div>
+            <button type="button" class="primary" @click="draw">왕국 뽑기</button>
+          </div>
         </div>
         <p v-if="error" class="error" role="alert">{{ error }}</p>
         <template v-if="setup">
@@ -166,6 +182,11 @@ h2 { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color
   background: var(--gold); color: var(--surface); border: 0; border-radius: 8px;
   padding: 10px 22px; font-weight: 700; cursor: pointer;
 }
+.actions { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { background: var(--surface); color: var(--fg); border: 0; padding: 8px 12px; font: inherit; font-size: 0.85rem; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed='true'] { background: var(--gold-soft); color: var(--gold); font-weight: 700; }
 .primary:hover { filter: brightness(1.08); }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; }
 .grid.wide { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
