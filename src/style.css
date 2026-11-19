@@ -18,6 +18,7 @@
   --t-duration: #e8a060;
   --t-night: #3d3a4a;
   --t-reserve: #c9b28a;
+  --t-landscape: #b9a7d6;
 
   --font-display: 'Gowun Batang', 'Noto Serif KR', Georgia, serif;
   --font-body: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', system-ui, sans-serif;
@@ -41,6 +42,7 @@
     --t-duration: #a8642e;
     --t-night: #15131c;
     --t-reserve: #7f6b4a;
+    --t-landscape: #6a5a8a;
     color-scheme: dark;
   }
 }

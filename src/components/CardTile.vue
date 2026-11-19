@@ -3,7 +3,12 @@ import { computed } from 'vue'
 import { getSet, setLabel } from '../data'
 import type { Card } from '../data/types'
 
-const props = defineProps<{ card: Card; selectedSets: ReadonlySet<string> }>()
+const props = defineProps<{
+  card: Card
+  selectedSets: ReadonlySet<string>
+  /** Short label such as "Bane" or the Trait placed on this pile. */
+  tag?: string
+}>()
 
 /** Frame colours in the order the printed cards prioritise them. */
 const BANDS: [string, string][] = [
@@ -16,7 +21,10 @@ const BANDS: [string, string][] = [
   ['Action', 'var(--t-action)'],
 ]
 
+const LANDSCAPE_KINDS = new Set(['landscape', 'ally', 'prophecy'])
+
 const band = computed(() => {
+  if (LANDSCAPE_KINDS.has(props.card.kind)) return 'var(--t-landscape)'
   const colors = BANDS.filter(([t]) => props.card.types.includes(t)).map(([, c]) => c).slice(0, 2)
   if (colors.length === 0) return 'var(--t-action)'
   if (colors.length === 1) return colors[0]
@@ -35,6 +43,7 @@ const boxName = computed(() => {
   <article class="card">
     <div class="band" :style="{ background: band }"></div>
     <div class="body">
+      <span v-if="tag" class="tag">{{ tag }}</span>
       <h3 class="ko">{{ card.ko ?? card.en }}</h3>
       <p v-if="card.ko" class="en" lang="en">{{ card.en }}</p>
       <p class="types">{{ card.types.join(' · ') }}</p>
@@ -59,6 +68,10 @@ const boxName = computed(() => {
 }
 .band { height: 8px; }
 .body { padding: 12px 14px 6px; display: flex; flex-direction: column; gap: 2px; flex: 1; }
+.tag {
+  align-self: flex-start; font-size: 0.7rem; font-weight: 700; color: var(--gold);
+  background: var(--gold-soft); border-radius: 4px; padding: 1px 6px; margin-bottom: 4px;
+}
 .ko { font-family: var(--font-display); font-size: 1.15rem; line-height: 1.3; margin: 0; overflow-wrap: anywhere; }
 .en { margin: 0; color: var(--muted); font-size: 0.82rem; }
 .types { margin: 4px 0 0; font-size: 0.72rem; color: var(--muted); letter-spacing: 0.02em; }

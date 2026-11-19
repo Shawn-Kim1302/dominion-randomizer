@@ -20,3 +20,17 @@ export function setLabel(set: CardSet, lang: 'ko' | 'en'): string {
   if (set.edition === 0) return name
   return lang === 'ko' ? `${name} ${set.edition}판` : `${name} (${set.edition === 1 ? '1st' : '2nd'} ed.)`
 }
+
+const cardById = new Map(cards.map((c) => [c.id, c]))
+
+/**
+ * Looks up a card by id (dominiontabs card_tag).
+ */
+export function getCard(id: string): Card | undefined {
+  return cardById.get(id)
+}
+
+/** Display name: Korean when known, otherwise English. */
+export function cardName(card: Card): string {
+  return card.ko ?? card.en
+}
