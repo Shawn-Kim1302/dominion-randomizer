@@ -1,0 +1,58 @@
+/* Layout: settings column (boxes) beside the kingdom grid; stacks on narrow screens. */
+:root {
+  --bg: #eef1f4;
+  --surface: #ffffff;
+  --surface-2: #f6f8fa;
+  --fg: #1d2530;
+  --muted: #5d6877;
+  --line: #d5dbe3;
+  --gold: #a87a10;
+  --gold-soft: #f6e9c6;
+  --danger: #b3261e;
+
+  /* Card type bands, after the printed card frames */
+  --t-action: #d9dde2;
+  --t-treasure: #e9c75a;
+  --t-victory: #8fc27a;
+  --t-reaction: #7fa8d6;
+  --t-duration: #e8a060;
+  --t-night: #3d3a4a;
+  --t-reserve: #c9b28a;
+
+  --font-display: 'Gowun Batang', 'Noto Serif KR', Georgia, serif;
+  --font-body: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', system-ui, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12161c;
+    --surface: #1b212a;
+    --surface-2: #222a34;
+    --fg: #e6eaf0;
+    --muted: #9aa5b4;
+    --line: #2c3540;
+    --gold: #e0b443;
+    --gold-soft: #3a2f14;
+    --danger: #f2a39d;
+    --t-action: #4a525d;
+    --t-treasure: #a8862a;
+    --t-victory: #4f7f42;
+    --t-reaction: #3f6a99;
+    --t-duration: #a8642e;
+    --t-night: #15131c;
+    --t-reserve: #7f6b4a;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.5;
+}
+button { font: inherit; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }

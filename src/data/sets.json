@@ -1,0 +1,194 @@
+[
+ {
+  "id": "dominion1stEdition",
+  "expansion": "dominion",
+  "edition": 1,
+  "en": "Dominion",
+  "ko": "기본판",
+  "koPrint": true
+ },
+ {
+  "id": "dominion2ndEdition",
+  "expansion": "dominion",
+  "edition": 2,
+  "en": "Dominion",
+  "ko": "기본판",
+  "koPrint": true
+ },
+ {
+  "id": "intrigue1stEdition",
+  "expansion": "intrigue",
+  "edition": 1,
+  "en": "Intrigue",
+  "ko": "장막 뒤의 사람들",
+  "koPrint": true
+ },
+ {
+  "id": "intrigue2ndEdition",
+  "expansion": "intrigue",
+  "edition": 2,
+  "en": "Intrigue",
+  "ko": "장막 뒤의 사람들",
+  "koPrint": true
+ },
+ {
+  "id": "seaside1stEdition",
+  "expansion": "seaside",
+  "edition": 1,
+  "en": "Seaside",
+  "ko": "정복자의 바다",
+  "koPrint": true
+ },
+ {
+  "id": "seaside2ndEdition",
+  "expansion": "seaside",
+  "edition": 2,
+  "en": "Seaside",
+  "ko": "정복자의 바다",
+  "koPrint": false
+ },
+ {
+  "id": "alchemy",
+  "expansion": "alchemy",
+  "edition": 0,
+  "en": "Alchemy",
+  "ko": "현자의 연금술",
+  "koPrint": false
+ },
+ {
+  "id": "prosperity1stEdition",
+  "expansion": "prosperity",
+  "edition": 1,
+  "en": "Prosperity",
+  "ko": "약속된 번영",
+  "koPrint": true
+ },
+ {
+  "id": "prosperity2ndEdition",
+  "expansion": "prosperity",
+  "edition": 2,
+  "en": "Prosperity",
+  "ko": "약속된 번영",
+  "koPrint": false
+ },
+ {
+  "id": "cornucopia1stEdition",
+  "expansion": "cornucopia",
+  "edition": 1,
+  "en": "Cornucopia",
+  "ko": "풍요의 뿔",
+  "koPrint": false
+ },
+ {
+  "id": "hinterlands1stEdition",
+  "expansion": "hinterlands",
+  "edition": 1,
+  "en": "Hinterlands",
+  "ko": "오지의 사람들",
+  "koPrint": false
+ },
+ {
+  "id": "hinterlands2ndEdition",
+  "expansion": "hinterlands",
+  "edition": 2,
+  "en": "Hinterlands",
+  "ko": "오지의 사람들",
+  "koPrint": false
+ },
+ {
+  "id": "darkAges",
+  "expansion": "darkAges",
+  "edition": 0,
+  "en": "Dark Ages",
+  "ko": "암흑의 시대",
+  "koPrint": true
+ },
+ {
+  "id": "guilds1stEdition",
+  "expansion": "guilds",
+  "edition": 1,
+  "en": "Guilds",
+  "ko": "길드를 위하여",
+  "koPrint": true
+ },
+ {
+  "id": "cornucopiaAndGuilds2ndEdition",
+  "expansion": "cornucopiaGuilds",
+  "edition": 2,
+  "en": "Cornucopia & Guilds",
+  "ko": "풍요의 뿔 & 길드를 위하여",
+  "koPrint": false
+ },
+ {
+  "id": "adventures",
+  "expansion": "adventures",
+  "edition": 0,
+  "en": "Adventures",
+  "ko": "모험",
+  "koPrint": false
+ },
+ {
+  "id": "empires",
+  "expansion": "empires",
+  "edition": 0,
+  "en": "Empires",
+  "ko": "위대한 제국",
+  "koPrint": true
+ },
+ {
+  "id": "nocturne",
+  "expansion": "nocturne",
+  "edition": 0,
+  "en": "Nocturne",
+  "ko": "녹턴",
+  "koPrint": false
+ },
+ {
+  "id": "renaissance",
+  "expansion": "renaissance",
+  "edition": 0,
+  "en": "Renaissance",
+  "ko": "르네상스의 도래",
+  "koPrint": true
+ },
+ {
+  "id": "menagerie",
+  "expansion": "menagerie",
+  "edition": 0,
+  "en": "Menagerie",
+  "ko": "동물원",
+  "koPrint": false
+ },
+ {
+  "id": "allies",
+  "expansion": "allies",
+  "edition": 0,
+  "en": "Allies",
+  "ko": "굳건한 동맹",
+  "koPrint": true
+ },
+ {
+  "id": "plunder",
+  "expansion": "plunder",
+  "edition": 0,
+  "en": "Plunder",
+  "ko": "약탈",
+  "koPrint": false
+ },
+ {
+  "id": "risingSun",
+  "expansion": "risingSun",
+  "edition": 0,
+  "en": "Rising Sun",
+  "ko": "일출",
+  "koPrint": false
+ },
+ {
+  "id": "promo",
+  "expansion": "promo",
+  "edition": 0,
+  "en": "Promos",
+  "ko": "프로모션",
+  "koPrint": false
+ }
+]
