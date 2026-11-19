@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { cardName, cards, sets } from '../data'
+import { cards, sets } from '../data'
+import { primaryName } from '../lang'
 import type { CardSet } from '../data/types'
 import { PROMO_SET, promoKey } from '../randomizer/kingdom'
 
@@ -37,7 +38,7 @@ function chipLabel(s: CardSet, rowKey: string): string {
 const promos = cards
   .filter((c) => c.sets.includes(PROMO_SET) && (c.kind === 'kingdom' || c.kind === 'landscape'))
   .map((c) => ({ key: promoKey(c.id), card: c }))
-  .sort((a, b) => cardName(a.card).localeCompare(cardName(b.card), 'ko'))
+  .sort((a, b) => primaryName(a.card).localeCompare(primaryName(b.card), 'ko'))
 
 const allPromosOn = computed(() => promos.every((p) => props.modelValue.has(p.key)))
 
@@ -96,7 +97,7 @@ function toggle(id: string) {
           :title="p.card.en"
           @click="toggle(p.key)"
         >
-          {{ cardName(p.card) }}
+          {{ primaryName(p.card) }}
         </button>
       </div>
     </li>

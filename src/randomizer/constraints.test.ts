@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { cards } from '../data'
-import { drawConstrainedKingdom, drawLandscapes, emptyConstraints, groupsOf, violations } from './constraints'
+import { drawConstrainedKingdom, drawLandscapes, emptyConstraints, groupsOf, rerollSlot, violations } from './constraints'
 import { compareByName, kingdomPool, landscapePool, promoKey } from './kingdom'
 import { createRng } from './rng'
 
@@ -70,5 +70,27 @@ describe('compareByName', () => {
     const names = ['Witch', 'Moat', 'Village', 'Chapel'].map((id) => cards.find((c) => c.id === id)!)
     const sorted = names.slice().sort(compareByName).map((c) => c.ko)
     expect(sorted).toEqual(['마녀', '마을', '예배당', '해자'])
+  })
+})
+
+describe('rerollSlot', () => {
+  it('replaces only the chosen pile and keeps the rules', () => {
+    const c = { ...emptyConstraints(), requireAbilities: ['village' as const] }
+    const r = drawConstrainedKingdom(pool, c, selected, createRng(3))
+    if (!r.ok) throw new Error('draw')
+    for (let i = 0; i < 10; i++) {
+      const next = rerollSlot(r.kingdom, i, pool, c, selected, createRng(i))
+      if (!next) continue
+      expect(next.filter((_, j) => j !== i)).toEqual(r.kingdom.filter((_, j) => j !== i))
+      expect(next[i].id).not.toBe(r.kingdom[i].id)
+      expect(violations(next, c, selected)).toEqual([])
+    }
+  })
+
+  it('refuses to replace a required pile', () => {
+    const c = { ...emptyConstraints(), require: new Set(['Witch']) }
+    const r = drawConstrainedKingdom(pool, c, selected, createRng(1))
+    if (!r.ok) throw new Error('draw')
+    expect(rerollSlot(r.kingdom, r.kingdom.findIndex((k) => k.id === 'Witch'), pool, c, selected, createRng(1))).toBeNull()
   })
 })

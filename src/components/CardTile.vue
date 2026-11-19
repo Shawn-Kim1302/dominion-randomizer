@@ -2,13 +2,17 @@
 import { computed } from 'vue'
 import { getSet, setLabel } from '../data'
 import type { Card } from '../data/types'
+import { primaryName, secondaryName } from '../lang'
 
 const props = defineProps<{
   card: Card
   selectedSets: ReadonlySet<string>
   /** Short label such as "Bane" or the Trait placed on this pile. */
   tag?: string
+  /** Shows a "다시 뽑기" button that emits `reroll`. */
+  rerollable?: boolean
 }>()
+defineEmits<{ reroll: [] }>()
 
 /** Frame colours in the order the printed cards prioritise them. */
 const BANDS: [string, string][] = [
@@ -44,8 +48,8 @@ const boxName = computed(() => {
     <div class="band" :style="{ background: band }"></div>
     <div class="body">
       <span v-if="tag" class="tag">{{ tag }}</span>
-      <h3 class="ko">{{ card.ko ?? card.en }}</h3>
-      <p v-if="card.ko" class="en" lang="en">{{ card.en }}</p>
+      <h3 class="ko">{{ primaryName(card) }}</h3>
+      <p v-if="secondaryName(card)" class="en">{{ secondaryName(card) }}</p>
       <p class="types">{{ card.types.join(' · ') }}</p>
     </div>
     <footer class="foot">
@@ -58,11 +62,13 @@ const boxName = computed(() => {
       </span>
       <span class="box">{{ boxName }}</span>
     </footer>
+    <button v-if="rerollable" type="button" class="reroll" :aria-label="`${primaryName(card)} 다시 뽑기`" title="이 카드만 다시 뽑기" @click="$emit('reroll')">↻</button>
   </article>
 </template>
 
 <style scoped>
 .card {
+  position: relative;
   background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
   overflow: hidden; display: flex; flex-direction: column; min-width: 0;
 }
@@ -85,5 +91,10 @@ const boxName = computed(() => {
 .coin sup { font-size: 0.6rem; }
 .potion { border-radius: 50% 50% 40% 40%; background: #4b7bd1; color: #fff; }
 .debt { clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%); background: #b55a3c; color: #fff; }
+.reroll {
+  position: absolute; top: 12px; right: 8px; width: 28px; height: 28px; border-radius: 50%;
+  border: 1px solid var(--line); background: var(--surface); color: var(--muted); cursor: pointer; font-size: 0.95rem;
+}
+.reroll:hover { color: var(--gold); border-color: var(--gold); }
 .box { font-size: 0.72rem; color: var(--muted); text-align: right; }
 </style>

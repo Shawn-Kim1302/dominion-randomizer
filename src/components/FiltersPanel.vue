@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
-import { cardName, cards, groupTitle } from '../data'
+import { cards, groupTitle } from '../data'
+import { primaryName, secondaryName } from '../lang'
 import type { Card } from '../data/types'
 import { COST_BANDS, groupsOf, type Constraints, type GroupLimit, type RequirableAbility } from '../randomizer/constraints'
 import { isAvailable } from '../randomizer/kingdom'
@@ -124,7 +125,7 @@ const named = (ids: Set<string>) => [...ids].map((id) => byId.get(id)).filter((c
       <input v-model="query" type="search" class="search" placeholder="카드 이름 검색 (한글/영문)" aria-label="카드 이름 검색" />
       <ul v-if="results.length" class="results">
         <li v-for="c in results" :key="c.id">
-          <span class="rname">{{ cardName(c) }} <small v-if="c.ko" lang="en">{{ c.en }}</small></span>
+          <span class="rname">{{ primaryName(c) }} <small v-if="secondaryName(c)">{{ secondaryName(c) }}</small></span>
           <button type="button" class="mini" @click="mark(c, 'require')">필수</button>
           <button type="button" class="mini" @click="mark(c, 'exclude')">제외</button>
         </li>
@@ -132,11 +133,11 @@ const named = (ids: Set<string>) => [...ids].map((id) => byId.get(id)).filter((c
       <p v-else-if="query.trim()" class="hint">일치하는 카드가 없어요.</p>
       <div v-if="modelValue.require.size" class="marked">
         <span class="mlabel">필수</span>
-        <button v-for="c in named(modelValue.require)" :key="c.id" type="button" class="tagchip req" :aria-label="`${cardName(c)} 필수 해제`" @click="unmark(c.id)">{{ cardName(c) }} ×</button>
+        <button v-for="c in named(modelValue.require)" :key="c.id" type="button" class="tagchip req" :aria-label="`${primaryName(c)} 필수 해제`" @click="unmark(c.id)">{{ primaryName(c) }} ×</button>
       </div>
       <div v-if="modelValue.exclude.size" class="marked">
         <span class="mlabel">제외</span>
-        <button v-for="c in named(modelValue.exclude)" :key="c.id" type="button" class="tagchip" :aria-label="`${cardName(c)} 제외 해제`" @click="unmark(c.id)">{{ cardName(c) }} ×</button>
+        <button v-for="c in named(modelValue.exclude)" :key="c.id" type="button" class="tagchip" :aria-label="`${primaryName(c)} 제외 해제`" @click="unmark(c.id)">{{ primaryName(c) }} ×</button>
       </div>
     </fieldset>
   </section>

@@ -147,3 +147,25 @@ export function drawLandscapes(
   }
   return out
 }
+
+/**
+ * Replaces one Kingdom pile with another random pile so the result still meets the
+ * constraints. Returns null when no replacement works (or the pile is required).
+ */
+export function rerollSlot(
+  kingdom: readonly Card[],
+  index: number,
+  pool: readonly Card[],
+  c: Constraints,
+  selected: ReadonlySet<string>,
+  rng: Rng,
+): Card[] | null {
+  if (c.require.has(kingdom[index].id)) return null
+  const taken = new Set(kingdom.map((k) => k.id))
+  for (const candidate of shuffle(pool.filter((k) => !taken.has(k.id) && !c.exclude.has(k.id)), rng)) {
+    const next = kingdom.slice()
+    next[index] = candidate
+    if (violations(next, c, selected).length === 0) return next
+  }
+  return null
+}

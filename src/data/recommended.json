@@ -1,0 +1,11394 @@
+[
+ {
+  "name": "First Game",
+  "source": "base-set",
+  "sets": [
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Market",
+   "Militia",
+   "Mine",
+   "Moat",
+   "Remodel",
+   "Smithy",
+   "Village",
+   "Woodcutter",
+   "Workshop"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Big Money",
+  "source": "base-set",
+  "sets": [
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Adventurer",
+   "Bureaucrat",
+   "Chancellor",
+   "Chapel",
+   "Feast",
+   "Laboratory",
+   "Market",
+   "Mine",
+   "Moneylender",
+   "Throne Room"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Interaction",
+  "source": "base-set",
+  "sets": [
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Chancellor",
+   "Council Room",
+   "Festival",
+   "Library",
+   "Militia",
+   "Moat",
+   "Spy",
+   "Thief",
+   "Village"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Size Distortion",
+  "source": "base-set",
+  "sets": [
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Chapel",
+   "Feast",
+   "Gardens",
+   "Laboratory",
+   "Thief",
+   "Village",
+   "Witch",
+   "Woodcutter",
+   "Workshop"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Village Square",
+  "source": "base-set",
+  "sets": [
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Cellar",
+   "Festival",
+   "Library",
+   "Market",
+   "Remodel",
+   "Smithy",
+   "Throne Room",
+   "Village",
+   "Woodcutter"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "First Game (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Market",
+   "Merchant",
+   "Militia",
+   "Mine",
+   "Moat",
+   "Remodel",
+   "Smithy",
+   "Village",
+   "Workshop"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Size Distortion (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Bandit",
+   "Bureaucrat",
+   "Chapel",
+   "Festival",
+   "Gardens",
+   "Sentry",
+   "Throne Room",
+   "Witch",
+   "Workshop"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Deck Top",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Bureaucrat",
+   "Council Room",
+   "Festival",
+   "Harbinger",
+   "Laboratory",
+   "Moneylender",
+   "Sentry",
+   "Vassal",
+   "Village"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Sleight of Hand",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Council Room",
+   "Festival",
+   "Gardens",
+   "Library",
+   "Harbinger",
+   "Militia",
+   "Poacher",
+   "Smithy",
+   "Throne Room"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Improvements",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Cellar",
+   "Market",
+   "Merchant",
+   "Mine",
+   "Moat",
+   "Moneylender",
+   "Poacher",
+   "Remodel",
+   "Witch"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Silver & Gold",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Bureaucrat",
+   "Chapel",
+   "Harbinger",
+   "Laboratory",
+   "Merchant",
+   "Mine",
+   "Moneylender",
+   "Throne Room",
+   "Vassal"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Underlings (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Library",
+   "Sentry",
+   "Vassal",
+   "Courtier",
+   "Diplomat",
+   "Minion",
+   "Nobles",
+   "Pawn"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Grand Scheme",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Council Room",
+   "Market",
+   "Militia",
+   "Workshop",
+   "Bridge",
+   "Mill",
+   "Mining Village",
+   "Patrol",
+   "Shanty Town"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Deconstruction (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Mine",
+   "Remodel",
+   "Throne Room",
+   "Village",
+   "Diplomat",
+   "Harem",
+   "Lurker",
+   "Replace",
+   "Swindler"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Reach for Tomorrow (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Cellar",
+   "Council Room",
+   "Vassal",
+   "Village",
+   "Cutpurse",
+   "Ghost Ship",
+   "Lookout",
+   "Sea Hag",
+   "Treasure Map"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Repetition (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Festival",
+   "Harbinger",
+   "Militia",
+   "Workshop",
+   "Caravan",
+   "Explorer",
+   "Outpost",
+   "Pearl Diver",
+   "Pirate Ship",
+   "Treasury"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Give and Take",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Library",
+   "Market",
+   "Moneylender",
+   "Witch",
+   "Ambassador",
+   "Fishing Village",
+   "Haven",
+   "Island",
+   "Salvager",
+   "Smugglers"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Forbidden Arts (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Cellar",
+   "Council Room",
+   "Gardens",
+   "Laboratory",
+   "Throne Room",
+   "Apprentice",
+   "Familiar",
+   "Possession",
+   "University"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Potion Mixers (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Militia",
+   "Poacher",
+   "Smithy",
+   "Alchemist",
+   "Apothecary",
+   "Golem",
+   "Herbalist",
+   "Transmute"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Chemistry Lesson (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Market",
+   "Moat",
+   "Remodel",
+   "Vassal",
+   "Witch",
+   "Alchemist",
+   "Golem",
+   "Philosopher's Stone",
+   "University"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Biggest Money (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Harbinger",
+   "Laboratory",
+   "Mine",
+   "Moneylender",
+   "Bank",
+   "Grand Market",
+   "Mint",
+   "Royal Seal",
+   "Venture"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The King’s Army (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Council Room",
+   "Merchant",
+   "Moat",
+   "Village",
+   "Expand",
+   "Goons",
+   "King's Court",
+   "Rabble",
+   "Vault"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "The Good Life (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Bureaucrat",
+   "Cellar",
+   "Gardens",
+   "Village",
+   "Contraband",
+   "Counting House",
+   "Hoard",
+   "Monument",
+   "Mountebank"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Bounty of the Hunt",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Militia",
+   "Moneylender",
+   "Smithy",
+   "Harvest",
+   "Horn of Plenty",
+   "Hunting Party",
+   "Menagerie",
+   "Tournament"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bad Omens (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Laboratory",
+   "Merchant",
+   "Poacher",
+   "Throne Room",
+   "Fortune Teller",
+   "Hamlet",
+   "Horn of Plenty",
+   "Jester",
+   "Remake"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Jester’s Workshop (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Laboratory",
+   "Market",
+   "Remodel",
+   "Workshop",
+   "Fairgrounds",
+   "Farming Village",
+   "Horse Traders",
+   "Jester",
+   "Young Witch"
+  ],
+  "landscapes": [],
+  "bane": "Merchant"
+ },
+ {
+  "name": "Arts and Crafts",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Laboratory",
+   "Cellar",
+   "Workshop",
+   "Festival",
+   "Moneylender",
+   "Stonemason",
+   "Advisor",
+   "Baker",
+   "Journeyman",
+   "Merchant Guild"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Clean Living (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Militia",
+   "Moneylender",
+   "Gardens",
+   "Village",
+   "Butcher",
+   "Baker",
+   "Candlestick Maker",
+   "Doctor",
+   "Soothsayer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Gilding the Lily (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Library",
+   "Merchant",
+   "Remodel",
+   "Market",
+   "Sentry",
+   "Plaza",
+   "Masterpiece",
+   "Candlestick Maker",
+   "Taxman",
+   "Herald"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Highway Robbery",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Library",
+   "Moneylender",
+   "Throne Room",
+   "Workshop",
+   "Highway",
+   "Inn",
+   "Margrave",
+   "Noble Brigand",
+   "Oasis"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Adventures Abroad (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Festival",
+   "Laboratory",
+   "Remodel",
+   "Sentry",
+   "Vassal",
+   "Crossroads",
+   "Farmland",
+   "Fool's Gold",
+   "Oracle",
+   "Spice Merchant"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "High and Low",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Moneylender",
+   "Throne Room",
+   "Witch",
+   "Workshop",
+   "Hermit",
+   "Hunting Grounds",
+   "Mystic",
+   "Poor House",
+   "Wandering Minstrel"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Chivalry and Revelry",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Festival",
+   "Gardens",
+   "Laboratory",
+   "Library",
+   "Remodel",
+   "Altar",
+   "Knights",
+   "Rats",
+   "Scavenger",
+   "Squire"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Level Up (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "adventures"
+  ],
+  "kingdom": [
+   "Market",
+   "Merchant",
+   "Militia",
+   "Throne Room",
+   "Workshop",
+   "Dungeon",
+   "Gear",
+   "Guide",
+   "Lost City",
+   "Miser"
+  ],
+  "landscapes": [
+   "Training"
+  ]
+ },
+ {
+  "name": "Son of Size Distortion (2nd)",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "adventures"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Bureaucrat",
+   "Gardens",
+   "Moneylender",
+   "Witch",
+   "Amulet",
+   "Duplicate",
+   "Giant",
+   "Messenger",
+   "Treasure Trove"
+  ],
+  "landscapes": [
+   "Bonfire",
+   "Raid"
+  ]
+ },
+ {
+  "name": "Everything in Moderation",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Library",
+   "Remodel",
+   "Village",
+   "Workshop",
+   "Enchantress",
+   "Forum",
+   "Legionary",
+   "Overlord",
+   "Temple"
+  ],
+  "landscapes": [
+   "Windfall",
+   "Orchard"
+  ]
+ },
+ {
+  "name": "Silver Bullets",
+  "source": "base-set-2",
+  "sets": [
+   "dominion2ndEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Gardens",
+   "Laboratory",
+   "Market",
+   "Moneylender",
+   "Catapult - Rocks",
+   "Charm",
+   "Farmers' Market",
+   "Groundskeeper",
+   "Patrician - Emporium"
+  ],
+  "landscapes": [
+   "Conquest",
+   "Aqueduct"
+  ]
+ },
+ {
+  "name": "Victory Dance",
+  "source": "intrigue",
+  "sets": [
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Duke",
+   "Harem",
+   "Ironworks",
+   "Masquerade",
+   "Nobles",
+   "Pawn",
+   "Upgrade",
+   "Great Hall",
+   "Scout"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Secret Schemes",
+  "source": "intrigue",
+  "sets": [
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Harem",
+   "Ironworks",
+   "Pawn",
+   "Shanty Town",
+   "Steward",
+   "Swindler",
+   "Trading Post",
+   "Saboteur",
+   "Tribute"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Best Wishes",
+  "source": "intrigue",
+  "sets": [
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Courtyard",
+   "Masquerade",
+   "Shanty Town",
+   "Steward",
+   "Torturer",
+   "Trading Post",
+   "Upgrade",
+   "Wishing Well",
+   "Coppersmith",
+   "Scout"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Deconstruction",
+  "source": "intrigue",
+  "sets": [
+   "dominion1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Remodel",
+   "Throne Room",
+   "Spy",
+   "Thief",
+   "Bridge",
+   "Mining Village",
+   "Swindler",
+   "Torturer",
+   "Saboteur",
+   "Secret Chamber"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Hand Madness",
+  "source": "intrigue",
+  "sets": [
+   "dominion1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Council Room",
+   "Militia",
+   "Mine",
+   "Chancellor",
+   "Courtyard",
+   "Minion",
+   "Nobles",
+   "Steward",
+   "Torturer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Underlings",
+  "source": "intrigue",
+  "sets": [
+   "dominion1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Library",
+   "Witch",
+   "Baron",
+   "Masquerade",
+   "Minion",
+   "Nobles",
+   "Pawn",
+   "Steward"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Victory Dance",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Baron",
+   "Courtier",
+   "Duke",
+   "Harem",
+   "Ironworks",
+   "Masquerade",
+   "Mill",
+   "Nobles",
+   "Patrol",
+   "Replace"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Plot Thickens",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Ironworks",
+   "Lurker",
+   "Pawn",
+   "Mining Village",
+   "Secret Passage",
+   "Steward",
+   "Swindler",
+   "Torturer",
+   "Trading Post"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Best Wishes",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Baron",
+   "Conspirator",
+   "Courtyard",
+   "Diplomat",
+   "Duke",
+   "Secret Passage",
+   "Shanty Town",
+   "Torturer",
+   "Upgrade",
+   "Wishing Well"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Underlings (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Courtier",
+   "Diplomat",
+   "Minion",
+   "Nobles",
+   "Pawn",
+   "Cellar",
+   "Festival",
+   "Library",
+   "Sentry",
+   "Vassal"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Grand Scheme (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Mill",
+   "Mining Village",
+   "Patrol",
+   "Shanty Town",
+   "Artisan",
+   "Council Room",
+   "Market",
+   "Militia",
+   "Workshop"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Deconstruction (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Diplomat",
+   "Harem",
+   "Lurker",
+   "Replace",
+   "Swindler",
+   "Bandit",
+   "Mine",
+   "Remodel",
+   "Throne Room",
+   "Village"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "A Star to Steer By",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Secret Passage",
+   "Diplomat",
+   "Swindler",
+   "Wishing Well",
+   "Courtier",
+   "Lookout",
+   "Treasure Map",
+   "Ghost Ship",
+   "Haven",
+   "Outpost"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Shore Patrol",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Patrol",
+   "Replace",
+   "Shanty Town",
+   "Trading Post",
+   "Pawn",
+   "Island",
+   "Wharf",
+   "Cutpurse",
+   "Lighthouse",
+   "Warehouse"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bridge Crossing",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Lurker",
+   "Nobles",
+   "Duke",
+   "Conspirator",
+   "Bridge",
+   "Salvager",
+   "Embargo",
+   "Smugglers",
+   "Native Village",
+   "Treasury"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Servants (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Mill",
+   "Minion",
+   "Pawn",
+   "Steward",
+   "Golem",
+   "Possession",
+   "Scrying Pool",
+   "Transmute",
+   "Vineyard"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Secret Research",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Masquerade",
+   "Minion",
+   "Nobles",
+   "Shanty Town",
+   "Torturer",
+   "Familiar",
+   "Herbalist",
+   "Philosopher's Stone",
+   "University"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Pools, Tools, and Fools (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Baron",
+   "Ironworks",
+   "Lurker",
+   "Nobles",
+   "Trading Post",
+   "Wishing Well",
+   "Apothecary",
+   "Apprentice",
+   "Golem",
+   "Scrying Pool"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Paths to Victory",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Baron",
+   "Harem",
+   "Pawn",
+   "Shanty Town",
+   "Upgrade",
+   "Bishop",
+   "Counting House",
+   "Goons",
+   "Monument",
+   "Peddler"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "All Along the Watchtower (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Mill",
+   "Mining Village",
+   "Pawn",
+   "Torturer",
+   "Hoard",
+   "Talisman",
+   "Trade Route",
+   "Vault",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Lucky Seven (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Lurker",
+   "Patrol",
+   "Swindler",
+   "Wishing Well",
+   "Bank",
+   "Expand",
+   "Forge",
+   "King's Court",
+   "Vault"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Last Laughs",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Minion",
+   "Nobles",
+   "Pawn",
+   "Steward",
+   "Swindler",
+   "Farming Village",
+   "Harvest",
+   "Horse Traders",
+   "Hunting Party",
+   "Jester"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Spice of Life (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Courtier",
+   "Courtyard",
+   "Diplomat",
+   "Mining Village",
+   "Replace",
+   "Fairgrounds",
+   "Horn of Plenty",
+   "Remake",
+   "Tournament",
+   "Young Witch"
+  ],
+  "landscapes": [],
+  "bane": "Wishing Well"
+ },
+ {
+  "name": "Small Victories (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Duke",
+   "Harem",
+   "Pawn",
+   "Secret Passage",
+   "Fortune Teller",
+   "Hamlet",
+   "Hunting Party",
+   "Remake",
+   "Tournament"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Name that Card (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Courtyard",
+   "Harem",
+   "Nobles",
+   "Replace",
+   "Wishing Well",
+   "Baker",
+   "Doctor",
+   "Plaza",
+   "Advisor",
+   "Masterpiece"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Tricks of the Trade (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Masquerade",
+   "Mill",
+   "Nobles",
+   "Secret Passage",
+   "Stonemason",
+   "Herald",
+   "Soothsayer",
+   "Journeyman",
+   "Butcher"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Decisions, Decisions",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Pawn",
+   "Mining Village",
+   "Upgrade",
+   "Duke",
+   "Merchant Guild",
+   "Candlestick Maker",
+   "Masterpiece",
+   "Taxman",
+   "Butcher"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Money for Nothing (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Replace",
+   "Patrol",
+   "Pawn",
+   "Shanty Town",
+   "Torturer",
+   "Cache",
+   "Cartographer",
+   "Jack of All Trades",
+   "Silk Road",
+   "Tunnel"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Duke's Ball",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue1stEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Duchess",
+   "Haggler",
+   "Inn",
+   "Noble Brigand",
+   "Scheme",
+   "Conspirator",
+   "Duke",
+   "Harem",
+   "Masquerade",
+   "Upgrade"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Prophecy (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Baron",
+   "Conspirator",
+   "Nobles",
+   "Secret Passage",
+   "Wishing Well",
+   "Armory",
+   "Ironmonger",
+   "Mystic",
+   "Rebuild",
+   "Vagrant"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Invasion (2nd)",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Diplomat",
+   "Harem",
+   "Swindler",
+   "Torturer",
+   "Upgrade",
+   "Beggar",
+   "Marauder",
+   "Rogue",
+   "Squire",
+   "Urchin"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Royalty Factory",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "adventures"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Courtier",
+   "Harem",
+   "Nobles",
+   "Swindler",
+   "Bridge Troll",
+   "Duplicate",
+   "Page",
+   "Raze",
+   "Royal Carriage"
+  ],
+  "landscapes": [
+   "Pilgrimage"
+  ]
+ },
+ {
+  "name": "Masters of Finance",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue1stEdition",
+   "adventures"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Distant Lands",
+   "Gear",
+   "Transmogrify",
+   "Wine Merchant",
+   "Bridge",
+   "Pawn",
+   "Shanty Town",
+   "Steward",
+   "Upgrade"
+  ],
+  "landscapes": [
+   "Ball",
+   "Borrow"
+  ]
+ },
+ {
+  "name": "Delicious Torture",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue1stEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Castles",
+   "Crown",
+   "Enchantress",
+   "Sacrifice",
+   "Settlers - Bustling Village",
+   "Baron",
+   "Bridge",
+   "Harem",
+   "Ironworks",
+   "Torturer"
+  ],
+  "landscapes": [
+   "Banquet",
+   "Arena"
+  ]
+ },
+ {
+  "name": "Buddy System",
+  "source": "intrigue-2",
+  "sets": [
+   "intrigue1stEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Archive",
+   "Capital",
+   "Catapult - Rocks",
+   "Engineer",
+   "Forum",
+   "Masquerade",
+   "Mining Village",
+   "Nobles",
+   "Pawn",
+   "Trading Post"
+  ],
+  "landscapes": [
+   "Salt the Earth",
+   "Wolf Den"
+  ]
+ },
+ {
+  "name": "High Seas",
+  "source": "seaside",
+  "sets": [
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Bazaar",
+   "Caravan",
+   "Embargo",
+   "Explorer",
+   "Haven",
+   "Island",
+   "Lookout",
+   "Pirate Ship",
+   "Smugglers",
+   "Wharf"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Buried Treasure",
+  "source": "seaside",
+  "sets": [
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Ambassador",
+   "Cutpurse",
+   "Fishing Village",
+   "Lighthouse",
+   "Outpost",
+   "Pearl Diver",
+   "Tactician",
+   "Treasure Map",
+   "Warehouse",
+   "Wharf"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Shipwrecks",
+  "source": "seaside",
+  "sets": [
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Ghost Ship",
+   "Merchant Ship",
+   "Native Village",
+   "Navigator",
+   "Pearl Diver",
+   "Salvager",
+   "Sea Hag",
+   "Smugglers",
+   "Treasury",
+   "Warehouse"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Reach for Tomorrow",
+  "source": "seaside",
+  "sets": [
+   "dominion1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Council Room",
+   "Village",
+   "Adventurer",
+   "Spy",
+   "Cutpurse",
+   "Ghost Ship",
+   "Lookout",
+   "Sea Hag",
+   "Treasure Map"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Repetition",
+  "source": "seaside",
+  "sets": [
+   "dominion1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Festival",
+   "Militia",
+   "Workshop",
+   "Chancellor",
+   "Caravan",
+   "Explorer",
+   "Outpost",
+   "Pearl Diver",
+   "Pirate Ship",
+   "Treasury"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Give and Take",
+  "source": "seaside",
+  "sets": [
+   "dominion1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Library",
+   "Market",
+   "Moneylender",
+   "Witch",
+   "Ambassador",
+   "Fishing Village",
+   "Haven",
+   "Island",
+   "Salvager",
+   "Smugglers"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "High Seas (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Bazaar",
+   "Caravan",
+   "Blockade",
+   "Corsair",
+   "Haven",
+   "Island",
+   "Lookout",
+   "Pirate",
+   "Warehouse",
+   "Wharf"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Buried Treasure (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Astrolabe",
+   "Cutpurse",
+   "Fishing Village",
+   "Lighthouse",
+   "Outpost",
+   "Monkey",
+   "Tactician",
+   "Treasure Map",
+   "Sailor",
+   "Sea Chart"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Reach for Tomorrow (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "dominion2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Council Room",
+   "Village",
+   "Artisan",
+   "Vassal",
+   "Cutpurse",
+   "Monkey",
+   "Lookout",
+   "Sea Witch",
+   "Treasure Map"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Repetition (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "dominion2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Festival",
+   "Militia",
+   "Workshop",
+   "Harbinger",
+   "Remodel",
+   "Caravan",
+   "Sea Chart",
+   "Outpost",
+   "Pirate",
+   "Treasury"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "A Star to Steer by (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Courtier",
+   "Diplomat",
+   "Secret Passage",
+   "Swindler",
+   "Wishing Well",
+   "Bazaar",
+   "Lookout",
+   "Monkey",
+   "Tide Pools",
+   "Treasure Map"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Shore Patrol (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Patrol",
+   "Pawn",
+   "Replace",
+   "Shanty Town",
+   "Trading Post",
+   "Cutpurse",
+   "Island",
+   "Lighthouse",
+   "Sea Chart",
+   "Wharf"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Gummed Up (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "alchemy",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Apprentice",
+   "Familiar",
+   "Herbalist",
+   "Philosopher's Stone",
+   "Vineyard",
+   "Haven",
+   "Sailor",
+   "Sea Witch",
+   "Sea Chart",
+   "Warehouse"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Exploding Kingdom (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "prosperity2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Bishop",
+   "City",
+   "Grand Market",
+   "King's Court",
+   "Quarry",
+   "Fishing Village",
+   "Lookout",
+   "Outpost",
+   "Tactician",
+   "Wharf"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Pirate Bay (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "prosperity2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Charlatan",
+   "Hoard",
+   "Investment",
+   "Magnate",
+   "Mint",
+   "Corsair",
+   "Astrolabe",
+   "Monkey",
+   "Native Village",
+   "Treasury"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Travelers (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Crossroads",
+   "Farmland",
+   "Souk",
+   "Stables",
+   "Cutpurse",
+   "Island",
+   "Lookout",
+   "Merchant Ship",
+   "Warehouse"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Runners (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Berserker",
+   "Cauldron",
+   "Guard Dog",
+   "Nomads",
+   "Wheelwright",
+   "Bazaar",
+   "Blockade",
+   "Caravan",
+   "Smugglers",
+   "Sailor"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Collector (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "cornucopia1stEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Farming Village",
+   "Fortune Teller",
+   "Harvest",
+   "Hunting Party",
+   "Blockade",
+   "Fishing Village",
+   "Merchant Ship",
+   "Smugglers",
+   "Tide Pools"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Island Builder (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "guilds1stEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Advisor",
+   "Baker",
+   "Merchant Guild",
+   "Plaza",
+   "Stonemason",
+   "Island",
+   "Native Village",
+   "Salvager",
+   "Sea Chart",
+   "Treasury"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Watery Graves (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "darkAges",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Count",
+   "Graverobber",
+   "Hermit",
+   "Rats",
+   "Scavenger",
+   "Corsair",
+   "Native Village",
+   "Salvager",
+   "Treasure Map",
+   "Treasury"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Peasants (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "darkAges",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Armory",
+   "Band of Misfits",
+   "Poor House",
+   "Forager",
+   "Vagrant",
+   "Fishing Village",
+   "Haven",
+   "Island",
+   "Lighthouse",
+   "Warehouse"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Prince of Orange (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "adventures",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Dungeon",
+   "Haunted Woods",
+   "Page",
+   "Swamp Hag",
+   "Astrolabe",
+   "Caravan",
+   "Merchant Ship",
+   "Fishing Village",
+   "Sailor"
+  ],
+  "landscapes": [
+   "Mission"
+  ]
+ },
+ {
+  "name": "Gifts and Mathoms (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "adventures",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Bridge Troll",
+   "Caravan Guard",
+   "Hireling",
+   "Lost City",
+   "Messenger",
+   "Blockade",
+   "Haven",
+   "Sailor",
+   "Salvager",
+   "Smugglers"
+  ],
+  "landscapes": [
+   "Expedition",
+   "Quest"
+  ]
+ },
+ {
+  "name": "Boxed In",
+  "source": "seaside-2",
+  "sets": [
+   "empires",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "Chariot Race",
+   "Encampment - Plunder",
+   "Enchantress",
+   "Gladiator - Fortune",
+   "Salvager",
+   "Smugglers",
+   "Tactician",
+   "Warehouse",
+   "Wharf"
+  ],
+  "landscapes": [
+   "Tax",
+   "Wall"
+  ]
+ },
+ {
+  "name": "King of the Sea (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "empires",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Archive",
+   "Farmers' Market",
+   "Overlord",
+   "Temple",
+   "Wild Hunt",
+   "Corsair",
+   "Haven",
+   "Native Village",
+   "Pirate",
+   "Sea Witch"
+  ],
+  "landscapes": [
+   "Delve",
+   "Fountain"
+  ]
+ },
+ {
+  "name": "The New Black (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "nocturne",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Cobbler",
+   "Den of Sin",
+   "Ghost Town",
+   "Raider",
+   "Secret Cave",
+   "Caravan",
+   "Corsair",
+   "Merchant Ship",
+   "Sailor",
+   "Tactician"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Forbidden Isle (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "nocturne",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Cemetery",
+   "Idol",
+   "Tracker",
+   "Tragic Hero",
+   "Bazaar",
+   "Monkey",
+   "Pirate",
+   "Salvager",
+   "Tide Pools"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Free Shipping (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "renaissance",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Acting Troupe",
+   "Cargo Ship",
+   "Lackeys",
+   "Research",
+   "Spices",
+   "Blockade",
+   "Island",
+   "Outpost",
+   "Smugglers",
+   "Wharf"
+  ],
+  "landscapes": [
+   "Innovation"
+  ]
+ },
+ {
+  "name": "Digging for Treasure (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "renaissance",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Border Guard",
+   "Flag Bearer",
+   "Inventor",
+   "Sculptor",
+   "Swashbuckler",
+   "Caravan",
+   "Native Village",
+   "Salvager",
+   "Astrolabe",
+   "Treasure Map"
+  ],
+  "landscapes": [
+   "Crop Rotation",
+   "Silos"
+  ]
+ },
+ {
+  "name": "Innsmouth (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "menagerie",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Animal Fair",
+   "Barge",
+   "Coven",
+   "Fisherman",
+   "Sheepdog",
+   "Caravan",
+   "Lighthouse",
+   "Fishing Village",
+   "Tide Pools",
+   "Pirate"
+  ],
+  "landscapes": [
+   "Invest",
+   "Way of the Goat"
+  ]
+ },
+ {
+  "name": "Ruritania (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "menagerie",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Bounty Hunter",
+   "Cavalry",
+   "Falconer",
+   "Sleigh",
+   "Village Green",
+   "Astrolabe",
+   "Outpost",
+   "Tide Pools",
+   "Tactician",
+   "Warehouse"
+  ],
+  "landscapes": [
+   "Alliance",
+   "Way of the Monkey"
+  ]
+ },
+ {
+  "name": "Forward Thinking (2nd)",
+  "source": "seaside-2",
+  "sets": [
+   "allies",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Sentinel",
+   "Guildmaster",
+   "Highwayman",
+   "Odysseys",
+   "Royal Galley",
+   "Cutpurse",
+   "Native Village",
+   "Sea Witch",
+   "Tactician",
+   "Warehouse"
+  ],
+  "landscapes": [],
+  "ally": "Cave Dwellers"
+ },
+ {
+  "name": "Treasure Hunt",
+  "source": "seaside-2",
+  "sets": [
+   "allies",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Emissary",
+   "Forts",
+   "Marquis",
+   "Swap",
+   "Town",
+   "Haven",
+   "Lookout",
+   "Outpost",
+   "Treasure Map",
+   "Treasury"
+  ],
+  "landscapes": [],
+  "ally": "Market Towns"
+ },
+ {
+  "name": "Forbidden Arts",
+  "source": "alchemy",
+  "sets": [
+   "alchemy",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Apprentice",
+   "Familiar",
+   "Possession",
+   "University",
+   "Cellar",
+   "Council Room",
+   "Gardens",
+   "Laboratory",
+   "Thief",
+   "Throne Room"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Potion Mixers",
+  "source": "alchemy",
+  "sets": [
+   "alchemy",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Apothecary",
+   "Golem",
+   "Herbalist",
+   "Transmute",
+   "Cellar",
+   "Chancellor",
+   "Festival",
+   "Militia",
+   "Smithy"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Chemistry Lesson",
+  "source": "alchemy",
+  "sets": [
+   "alchemy",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Golem",
+   "Philosopher's Stone",
+   "University",
+   "Bureaucrat",
+   "Market",
+   "Moat",
+   "Remodel",
+   "Witch",
+   "Woodcutter"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Servants",
+  "source": "alchemy",
+  "sets": [
+   "alchemy",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Golem",
+   "Possession",
+   "Scrying Pool",
+   "Transmute",
+   "Vineyard",
+   "Conspirator",
+   "Great Hall",
+   "Minion",
+   "Pawn",
+   "Steward"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Secret Research",
+  "source": "alchemy",
+  "sets": [
+   "alchemy",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Familiar",
+   "Herbalist",
+   "Philosopher's Stone",
+   "University",
+   "Bridge",
+   "Masquerade",
+   "Minion",
+   "Nobles",
+   "Shanty Town",
+   "Torturer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Pools, Tools, and Fools",
+  "source": "alchemy",
+  "sets": [
+   "alchemy",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Apothecary",
+   "Apprentice",
+   "Golem",
+   "Scrying Pool",
+   "Baron",
+   "Coppersmith",
+   "Ironworks",
+   "Nobles",
+   "Trading Post",
+   "Wishing Well"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Beginners",
+  "source": "prosperity",
+  "sets": [
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bank",
+   "Counting House",
+   "Expand",
+   "Goons",
+   "Monument",
+   "Rabble",
+   "Royal Seal",
+   "Venture",
+   "Watchtower",
+   "Worker's Village"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Friendly Interactive",
+  "source": "prosperity",
+  "sets": [
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bishop",
+   "City",
+   "Contraband",
+   "Forge",
+   "Hoard",
+   "Peddler",
+   "Royal Seal",
+   "Trade Route",
+   "Vault",
+   "Worker's Village"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Big Actions",
+  "source": "prosperity",
+  "sets": [
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "City",
+   "Expand",
+   "Grand Market",
+   "King's Court",
+   "Loan",
+   "Mint",
+   "Quarry",
+   "Rabble",
+   "Talisman",
+   "Vault"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Biggest Money",
+  "source": "prosperity",
+  "sets": [
+   "dominion1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Laboratory",
+   "Mine",
+   "Moneylender",
+   "Adventurer",
+   "Spy",
+   "Bank",
+   "Grand Market",
+   "Mint",
+   "Royal Seal",
+   "Venture"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "The King's Army",
+  "source": "prosperity",
+  "sets": [
+   "dominion1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Council Room",
+   "Moat",
+   "Village",
+   "Spy",
+   "Expand",
+   "Goons",
+   "King's Court",
+   "Rabble",
+   "Vault"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "The Good Life",
+  "source": "prosperity",
+  "sets": [
+   "dominion1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Cellar",
+   "Gardens",
+   "Village",
+   "Chancellor",
+   "Contraband",
+   "Counting House",
+   "Hoard",
+   "Monument",
+   "Mountebank"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Paths to Victory",
+  "source": "prosperity",
+  "sets": [
+   "intrigue1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Baron",
+   "Harem",
+   "Pawn",
+   "Shanty Town",
+   "Upgrade",
+   "Bishop",
+   "Counting House",
+   "Goons",
+   "Monument",
+   "Peddler"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "All Along the Watchtower",
+  "source": "prosperity",
+  "sets": [
+   "intrigue1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Mining Village",
+   "Pawn",
+   "Torturer",
+   "Great Hall",
+   "Hoard",
+   "Talisman",
+   "Trade Route",
+   "Vault",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Lucky Seven",
+  "source": "prosperity",
+  "sets": [
+   "intrigue1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Swindler",
+   "Wishing Well",
+   "Coppersmith",
+   "Tribute",
+   "Bank",
+   "Expand",
+   "Forge",
+   "King's Court",
+   "Vault"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Beginners (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Bank",
+   "Clerk",
+   "Crystal Ball",
+   "Expand",
+   "Magnate",
+   "Monument",
+   "Rabble",
+   "Tiara",
+   "Watchtower",
+   "Worker's Village"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Friendly Interactive (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Bishop",
+   "City",
+   "Collection",
+   "Forge",
+   "Hoard",
+   "Peddler",
+   "Tiara",
+   "Vault",
+   "War Chest",
+   "Worker's Village"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Biggest Money (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "dominion2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Harbinger",
+   "Laboratory",
+   "Mine",
+   "Moneylender",
+   "Bank",
+   "Crystal Ball",
+   "Grand Market",
+   "Mint",
+   "Tiara"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "The King's Army (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "dominion2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Council Room",
+   "Merchant",
+   "Moat",
+   "Village",
+   "Collection",
+   "Expand",
+   "King's Court",
+   "Rabble",
+   "Vault"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Paths to Victory (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Baron",
+   "Harem",
+   "Pawn",
+   "Shanty Town",
+   "Upgrade",
+   "Bishop",
+   "Collection",
+   "Magnate",
+   "Monument",
+   "Peddler"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Lucky Seven (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "intrigue2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Baron",
+   "Mining Village",
+   "Patrol",
+   "Upgrade",
+   "Wishing Well",
+   "Bank",
+   "Expand",
+   "Forge",
+   "King's Court",
+   "Tiara"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Exploding Kingdom (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "prosperity2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Bishop",
+   "City",
+   "Grand Market",
+   "King's Court",
+   "Quarry",
+   "Fishing Village",
+   "Lookout",
+   "Outpost",
+   "Tactician",
+   "Wharf"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Pirate Bay (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "prosperity2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Charlatan",
+   "Hoard",
+   "Investment",
+   "Magnate",
+   "Mint",
+   "Astrolabe",
+   "Corsair",
+   "Monkey",
+   "Native Village",
+   "Treasury"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Lower Learning",
+  "source": "prosperity-2",
+  "sets": [
+   "alchemy",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Apprentice",
+   "Familiar",
+   "University",
+   "Vineyard",
+   "Anvil",
+   "Bishop",
+   "Charlatan",
+   "Mint",
+   "Peddler",
+   "Worker's Village"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Detours (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "cornucopia1stEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Farming Village",
+   "Horn of Plenty",
+   "Jester",
+   "Remake",
+   "Tournament",
+   "Clerk",
+   "Crystal Ball",
+   "Forge",
+   "Hoard",
+   "Magnate"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Quarrymen (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "guilds1stEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Baker",
+   "Butcher",
+   "Candlestick Maker",
+   "Merchant Guild",
+   "Soothsayer",
+   "Charlatan",
+   "City",
+   "Expand",
+   "Grand Market",
+   "Quarry"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Instant Gratification (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Berserker",
+   "Cauldron",
+   "Haggler",
+   "Oasis",
+   "Trail",
+   "Bishop",
+   "Expand",
+   "Hoard",
+   "Mint",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Treasure Trove (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Cauldron",
+   "Develop",
+   "Fool's Gold",
+   "Guard Dog",
+   "Inn",
+   "Bank",
+   "Clerk",
+   "Crystal Ball",
+   "Monument",
+   "Tiara"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "One Man's Trash (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "darkAges",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Counterfeit",
+   "Forager",
+   "Market Square",
+   "Pillage",
+   "Squire",
+   "Anvil",
+   "City",
+   "Crystal Ball",
+   "Magnate",
+   "War Chest"
+  ],
+  "landscapes": [],
+  "colonies": true,
+  "shelters": true
+ },
+ {
+  "name": "Honor Among Thieves (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "darkAges",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Bandit Camp",
+   "Marauder",
+   "Procession",
+   "Rogue",
+   "Squire",
+   "Collection",
+   "Forge",
+   "Hoard",
+   "Quarry",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true,
+  "shelters": true
+ },
+ {
+  "name": "Last Will and Monument (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "adventures",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Coin of the Realm",
+   "Dungeon",
+   "Messenger",
+   "Port",
+   "Relic",
+   "Bishop",
+   "Collection",
+   "Magnate",
+   "Monument",
+   "Vault"
+  ],
+  "landscapes": [
+   "Inheritance"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Think Big (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "adventures",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Distant Lands",
+   "Giant",
+   "Hireling",
+   "Miser",
+   "Storyteller",
+   "Expand",
+   "Hoard",
+   "King's Court",
+   "Peddler",
+   "War Chest"
+  ],
+  "landscapes": [
+   "Ball",
+   "Ferry"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Big Time (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "empires",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Capital",
+   "Gladiator - Fortune",
+   "Patrician - Emporium",
+   "Royal Blacksmith",
+   "Villa",
+   "Bank",
+   "Forge",
+   "Grand Market",
+   "Investment",
+   "Tiara"
+  ],
+  "landscapes": [
+   "Dominate",
+   "Obelisk"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Gilded Gates (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "empires",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Chariot Race",
+   "City Quarter",
+   "Encampment - Plunder",
+   "Groundskeeper",
+   "Wild Hunt",
+   "Anvil",
+   "Collection",
+   "Mint",
+   "Peddler",
+   "War Chest"
+  ],
+  "landscapes": [
+   "Basilica",
+   "Palace"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Treasures of the Night (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "nocturne",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Crypt",
+   "Guardian",
+   "Night Watchman",
+   "Raider",
+   "Vampire",
+   "Charlatan",
+   "Crystal Ball",
+   "Investment",
+   "Tiara",
+   "War Chest"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Day at the Races (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "nocturne",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Cemetery",
+   "Druid",
+   "Tormentor",
+   "Tragic Hero",
+   "Anvil",
+   "Bishop",
+   "Clerk",
+   "Peddler",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Dreamers of Dreams (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "prosperity2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Charlatan",
+   "Monument",
+   "Vault",
+   "Watchtower",
+   "Worker's Village",
+   "Cargo Ship",
+   "Old Witch",
+   "Priest",
+   "Scepter",
+   "Scholar"
+  ],
+  "landscapes": [
+   "Academy"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Movers and Shakers (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "prosperity2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Bank",
+   "City",
+   "Grand Market",
+   "Investment",
+   "Rabble",
+   "Hideout",
+   "Patron",
+   "Research",
+   "Treasurer",
+   "Villain"
+  ],
+  "landscapes": [
+   "Capitalism",
+   "Citadel"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Limited Time Offer (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "menagerie",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Destrier",
+   "Displace",
+   "Fisherman",
+   "Supplies",
+   "Wayfarer",
+   "Anvil",
+   "Grand Market",
+   "Mint",
+   "Peddler",
+   "Worker's Village"
+  ],
+  "landscapes": [
+   "Desperation",
+   "Way of the Frog"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Otter Chaos",
+  "source": "prosperity-2",
+  "sets": [
+   "menagerie",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Animal Fair",
+   "Camel Train",
+   "Hunting Lodge",
+   "Mastermind",
+   "Paddock",
+   "City",
+   "Clerk",
+   "Monument",
+   "Quarry",
+   "War Chest"
+  ],
+  "landscapes": [
+   "Reap",
+   "Way of the Otter"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Inventing Mania (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "allies",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Augurs",
+   "Bauble",
+   "Capital City",
+   "Carpenter",
+   "Importer",
+   "Anvil",
+   "Expand",
+   "King's Court",
+   "Quarry",
+   "Rabble"
+  ],
+  "landscapes": [],
+  "ally": "Family of Inventors",
+  "colonies": true
+ },
+ {
+  "name": "Bank of Toadies (2nd)",
+  "source": "prosperity-2",
+  "sets": [
+   "allies",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Broker",
+   "Marquis",
+   "Odysseys",
+   "Sycophant",
+   "Town",
+   "Bank",
+   "City",
+   "Clerk",
+   "Investment",
+   "Vault"
+  ],
+  "landscapes": [],
+  "ally": "League of Bankers",
+  "colonies": true
+ },
+ {
+  "name": "Bounty of the Hunt",
+  "source": "cornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Harvest",
+   "Horn of Plenty",
+   "Hunting Party",
+   "Menagerie",
+   "Tournament",
+   "Cellar",
+   "Festival",
+   "Militia",
+   "Moneylender",
+   "Smithy"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bad Omens",
+  "source": "cornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Fortune Teller",
+   "Hamlet",
+   "Horn of Plenty",
+   "Jester",
+   "Remake",
+   "Adventurer",
+   "Bureaucrat",
+   "Laboratory",
+   "Spy",
+   "Throne Room"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Jester's Workshop",
+  "source": "cornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Farming Village",
+   "Horse Traders",
+   "Jester",
+   "Young Witch",
+   "Feast",
+   "Laboratory",
+   "Market",
+   "Remodel",
+   "Workshop"
+  ],
+  "landscapes": [],
+  "bane": "Chancellor"
+ },
+ {
+  "name": "Last Laughs",
+  "source": "cornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Farming Village",
+   "Harvest",
+   "Horse Traders",
+   "Hunting Party",
+   "Jester",
+   "Minion",
+   "Nobles",
+   "Pawn",
+   "Steward",
+   "Swindler"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Spice of Life",
+  "source": "cornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Horn of Plenty",
+   "Remake",
+   "Tournament",
+   "Young Witch",
+   "Coppersmith",
+   "Courtyard",
+   "Great Hall",
+   "Mining Village",
+   "Tribute"
+  ],
+  "landscapes": [],
+  "bane": "Wishing Well"
+ },
+ {
+  "name": "Small Victories",
+  "source": "cornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Fortune Teller",
+   "Hamlet",
+   "Hunting Party",
+   "Remake",
+   "Tournament",
+   "Conspirator",
+   "Duke",
+   "Great Hall",
+   "Harem",
+   "Pawn"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Introduction",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Cache",
+   "Crossroads",
+   "Develop",
+   "Haggler",
+   "Jack of All Trades",
+   "Margrave",
+   "Nomad Camp",
+   "Oasis",
+   "Spice Merchant",
+   "Stables"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Fair Trades",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Border Village",
+   "Cartographer",
+   "Develop",
+   "Duchess",
+   "Farmland",
+   "Ill-Gotten Gains",
+   "Noble Brigand",
+   "Silk Road",
+   "Stables",
+   "Trader"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bargains",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Border Village",
+   "Cache",
+   "Duchess",
+   "Fool's Gold",
+   "Haggler",
+   "Highway",
+   "Nomad Camp",
+   "Scheme",
+   "Spice Merchant",
+   "Trader"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Gambits",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Crossroads",
+   "Embassy",
+   "Inn",
+   "Jack of All Trades",
+   "Mandarin",
+   "Nomad Camp",
+   "Oasis",
+   "Oracle",
+   "Tunnel"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Adventures Abroad",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Crossroads",
+   "Farmland",
+   "Fool's Gold",
+   "Oracle",
+   "Spice Merchant",
+   "Adventurer",
+   "Chancellor",
+   "Festival",
+   "Laboratory",
+   "Remodel"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Highway Robbery",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Highway",
+   "Inn",
+   "Margrave",
+   "Noble Brigand",
+   "Oasis",
+   "Cellar",
+   "Library",
+   "Moneylender",
+   "Throne Room",
+   "Workshop"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Money for Nothing",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Cache",
+   "Cartographer",
+   "Jack of All Trades",
+   "Silk Road",
+   "Tunnel",
+   "Coppersmith",
+   "Great Hall",
+   "Pawn",
+   "Shanty Town",
+   "Torturer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Duke's Ball",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Duchess",
+   "Haggler",
+   "Inn",
+   "Noble Brigand",
+   "Scheme",
+   "Conspirator",
+   "Duke",
+   "Harem",
+   "Masquerade",
+   "Upgrade"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Adventures Abroad (2nd)",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Crossroads",
+   "Farmland",
+   "Fool's Gold",
+   "Oracle",
+   "Spice Merchant",
+   "Festival",
+   "Laboratory",
+   "Remodel",
+   "Sentry",
+   "Vassal"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Money for Nothing (2nd)",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Cache",
+   "Cartographer",
+   "Jack of All Trades",
+   "Silk Road",
+   "Tunnel",
+   "Replace",
+   "Patrol",
+   "Pawn",
+   "Shanty Town",
+   "Torturer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Duke's Ball (2nd)",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Duchess",
+   "Haggler",
+   "Inn",
+   "Noble Brigand",
+   "Scheme",
+   "Conspirator",
+   "Duke",
+   "Harem",
+   "Masquerade",
+   "Upgrade"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Travelers",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Crossroads",
+   "Farmland",
+   "Silk Road",
+   "Stables",
+   "Cutpurse",
+   "Island",
+   "Lookout",
+   "Merchant Ship",
+   "Warehouse"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Diplomacy",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Embassy",
+   "Farmland",
+   "Ill-Gotten Gains",
+   "Noble Brigand",
+   "Trader",
+   "Ambassador",
+   "Bazaar",
+   "Caravan",
+   "Embargo",
+   "Smugglers"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Schemes and Dreams",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Duchess",
+   "Fool's Gold",
+   "Ill-Gotten Gains",
+   "Jack of All Trades",
+   "Scheme",
+   "Apothecary",
+   "Apprentice",
+   "Herbalist",
+   "Philosopher's Stone",
+   "Transmute"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Wine Country",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Crossroads",
+   "Farmland",
+   "Haggler",
+   "Highway",
+   "Nomad Camp",
+   "Apprentice",
+   "Familiar",
+   "Golem",
+   "University",
+   "Vineyard"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Instant Gratification",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Farmland",
+   "Haggler",
+   "Ill-Gotten Gains",
+   "Noble Brigand",
+   "Trader",
+   "Bishop",
+   "Expand",
+   "Hoard",
+   "Mint",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Treasure Trove",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Cache",
+   "Develop",
+   "Fool's Gold",
+   "Ill-Gotten Gains",
+   "Mandarin",
+   "Bank",
+   "Monument",
+   "Royal Seal",
+   "Trade Route",
+   "Venture"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Blue Harvest",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Fool's Gold",
+   "Mandarin",
+   "Noble Brigand",
+   "Trader",
+   "Tunnel",
+   "Hamlet",
+   "Horn of Plenty",
+   "Horse Traders",
+   "Jester",
+   "Tournament"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Traveling Circus",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Border Village",
+   "Embassy",
+   "Fool's Gold",
+   "Nomad Camp",
+   "Oasis",
+   "Fairgrounds",
+   "Farming Village",
+   "Hunting Party",
+   "Jester",
+   "Menagerie"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Exchanges",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Border Village",
+   "Develop",
+   "Ill-Gotten Gains",
+   "Stables",
+   "Trader",
+   "Butcher",
+   "Herald",
+   "Masterpiece",
+   "Soothsayer",
+   "Stonemason"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Road to Riches",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Crossroads",
+   "Farmland",
+   "Highway",
+   "Spice Merchant",
+   "Tunnel",
+   "Advisor",
+   "Baker",
+   "Candlestick Maker",
+   "Journeyman",
+   "Merchant Guild"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Far From Home",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Develop",
+   "Embassy",
+   "Fool's Gold",
+   "Haggler",
+   "Beggar",
+   "Count",
+   "Feodum",
+   "Marauder",
+   "Wandering Minstrel"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Expeditions",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Crossroads",
+   "Farmland",
+   "Highway",
+   "Spice Merchant",
+   "Tunnel",
+   "Altar",
+   "Catacombs",
+   "Ironmonger",
+   "Poor House",
+   "Storeroom"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Traders and Raiders",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "adventures"
+  ],
+  "kingdom": [
+   "Develop",
+   "Farmland",
+   "Haggler",
+   "Spice Merchant",
+   "Trader",
+   "Haunted Woods",
+   "Lost City",
+   "Page",
+   "Port",
+   "Wine Merchant"
+  ],
+  "landscapes": [
+   "Raid"
+  ]
+ },
+ {
+  "name": "Journeys",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "adventures"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Crossroads",
+   "Highway",
+   "Inn",
+   "Silk Road",
+   "Bridge Troll",
+   "Distant Lands",
+   "Giant",
+   "Guide",
+   "Ranger"
+  ],
+  "landscapes": [
+   "Expedition",
+   "Inheritance"
+  ]
+ },
+ {
+  "name": "Simple Plans",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Border Village",
+   "Develop",
+   "Haggler",
+   "Ill-Gotten Gains",
+   "Stables",
+   "Catapult - Rocks",
+   "Forum",
+   "Patrician - Emporium",
+   "Temple",
+   "Villa"
+  ],
+  "landscapes": [
+   "Donate",
+   "Labyrinth"
+  ]
+ },
+ {
+  "name": "Expansion",
+  "source": "hinterlands",
+  "sets": [
+   "hinterlands1stEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Cache",
+   "Farmland",
+   "Highway",
+   "Spice Merchant",
+   "Tunnel",
+   "Castles",
+   "Charm",
+   "Encampment - Plunder",
+   "Engineer",
+   "Legionary"
+  ],
+  "landscapes": [
+   "Battlefield",
+   "Fountain"
+  ]
+ },
+ {
+  "name": "Introduction (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Crossroads",
+   "Develop",
+   "Jack of All Trades",
+   "Margrave",
+   "Nomads",
+   "Oasis",
+   "Spice Merchant",
+   "Stables",
+   "Weaver"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bargains (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Border Village",
+   "Cauldron",
+   "Fool's Gold",
+   "Haggler",
+   "Highway",
+   "Scheme",
+   "Souk",
+   "Trader",
+   "Trail",
+   "Wheelwright"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Happy Trails",
+  "source": "hinterlands-2",
+  "sets": [
+   "dominion2ndEdition",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Library",
+   "Moneylender",
+   "Throne Room",
+   "Workshop",
+   "Berserker",
+   "Highway",
+   "Nomads",
+   "Oasis",
+   "Trail"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Adventures Abroad (3rd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "dominion2ndEdition",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Festival",
+   "Laboratory",
+   "Remodel",
+   "Sentry",
+   "Vassal",
+   "Crossroads",
+   "Fool's Gold",
+   "Guard Dog",
+   "Souk",
+   "Witch's Hut"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Money for Nothing (3rd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Jack of All Trades",
+   "Tunnel",
+   "Weaver",
+   "Wheelwright",
+   "Patrol",
+   "Pawn",
+   "Replace",
+   "Shanty Town",
+   "Torturer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Duke's Ball (3rd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Guard Dog",
+   "Inn",
+   "Scheme",
+   "Trail",
+   "Wheelwright",
+   "Conspirator",
+   "Duke",
+   "Harem",
+   "Masquerade",
+   "Upgrade"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Travelers (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Crossroads",
+   "Farmland",
+   "Souk",
+   "Stables",
+   "Cutpurse",
+   "Island",
+   "Lookout",
+   "Merchant Ship",
+   "Warehouse"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Runners",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Berserker",
+   "Cauldron",
+   "Guard Dog",
+   "Nomads",
+   "Wheelwright",
+   "Bazaar",
+   "Blockade",
+   "Caravan",
+   "Sailor",
+   "Smugglers"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Wine Country (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "alchemy",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Apprentice",
+   "Familiar",
+   "Golem",
+   "University",
+   "Vineyard",
+   "Farmland",
+   "Guard Dog",
+   "Highway",
+   "Margrave",
+   "Nomads"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Instant Gratification (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Berserker",
+   "Cauldron",
+   "Haggler",
+   "Oasis",
+   "Trail",
+   "Bishop",
+   "Expand",
+   "Hoard",
+   "Mint",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Treasure Trove (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Cauldron",
+   "Develop",
+   "Fool's Gold",
+   "Guard Dog",
+   "Inn",
+   "Bank",
+   "Clerk",
+   "Crystal Ball",
+   "Monument",
+   "Tiara"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Blue Harvest (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "cornucopia1stEdition",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Horn of Plenty",
+   "Horse Traders",
+   "Jester",
+   "Tournament",
+   "Fool's Gold",
+   "Trail",
+   "Tunnel",
+   "Weaver",
+   "Witch's Hut"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Exchanges (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "guilds1stEdition",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Herald",
+   "Masterpiece",
+   "Soothsayer",
+   "Stonemason",
+   "Border Village",
+   "Cauldron",
+   "Develop",
+   "Stables",
+   "Trader"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Far From Home (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "darkAges",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Catacombs",
+   "Count",
+   "Feodum",
+   "Fortress",
+   "Wandering Minstrel",
+   "Cartographer",
+   "Develop",
+   "Fool's Gold",
+   "Weaver",
+   "Witch's Hut"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Expeditions (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "darkAges",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Altar",
+   "Catacombs",
+   "Ironmonger",
+   "Poor House",
+   "Storeroom",
+   "Highway",
+   "Nomads",
+   "Oasis",
+   "Scheme",
+   "Spice Merchant"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Traders and Raiders (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "adventures",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Haunted Woods",
+   "Lost City",
+   "Page",
+   "Port",
+   "Wine Merchant",
+   "Berserker",
+   "Guard Dog",
+   "Haggler",
+   "Spice Merchant",
+   "Trader"
+  ],
+  "landscapes": [
+   "Raid"
+  ]
+ },
+ {
+  "name": "Journeys (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "adventures",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Bridge Troll",
+   "Distant Lands",
+   "Giant",
+   "Guide",
+   "Ranger",
+   "Cartographer",
+   "Crossroads",
+   "Highway",
+   "Inn",
+   "Trail"
+  ],
+  "landscapes": [
+   "Expedition",
+   "Inheritance"
+  ]
+ },
+ {
+  "name": "Simple Plans (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "empires",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Catapult - Rocks",
+   "Enchantress",
+   "Forum",
+   "Patrician - Emporium",
+   "Villa",
+   "Border Village",
+   "Cauldron",
+   "Haggler",
+   "Stables",
+   "Wheelwright"
+  ],
+  "landscapes": [
+   "Donate",
+   "Labyrinth"
+  ]
+ },
+ {
+  "name": "Expansion (2nd)",
+  "source": "hinterlands-2",
+  "sets": [
+   "empires",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "Charm",
+   "Encampment - Plunder",
+   "Engineer",
+   "Legionary",
+   "Farmland",
+   "Oasis",
+   "Spice Merchant",
+   "Stables",
+   "Tunnel"
+  ],
+  "landscapes": [
+   "Battlefield",
+   "Fountain"
+  ]
+ },
+ {
+  "name": "Search Party",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Inn",
+   "Oasis",
+   "Scheme",
+   "Souk",
+   "Cobbler",
+   "Conclave",
+   "Druid",
+   "Faithful Hound",
+   "Werewolf"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Counting Sheep",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Crossroads",
+   "Farmland",
+   "Oasis",
+   "Tunnel",
+   "Weaver",
+   "Crypt",
+   "Leprechaun",
+   "Pooka",
+   "Secret Cave",
+   "Shepherd"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Sweetened Deals",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Develop",
+   "Guard Dog",
+   "Haggler",
+   "Spice Merchant",
+   "Witch's Hut",
+   "Flag Bearer",
+   "Lackeys",
+   "Mountain Village",
+   "Silk Merchant",
+   "Spices"
+  ],
+  "landscapes": [
+   "Silos"
+  ]
+ },
+ {
+  "name": "A Penny Saved",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Berserker",
+   "Border Village",
+   "Oasis",
+   "Souk",
+   "Trader",
+   "Ducat",
+   "Patron",
+   "Scepter",
+   "Seer",
+   "Swashbuckler"
+  ],
+  "landscapes": [
+   "Barracks",
+   "Guildhall"
+  ]
+ },
+ {
+  "name": "Big Blue",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Trader",
+   "Trail",
+   "Tunnel",
+   "Weaver",
+   "Witch's Hut",
+   "Black Cat",
+   "Falconer",
+   "Sheepdog",
+   "Sleigh",
+   "Village Green"
+  ],
+  "landscapes": [
+   "Banish",
+   "Way of the Turtle"
+  ]
+ },
+ {
+  "name": "Intersection",
+  "source": "hinterlands-2",
+  "sets": [
+   "hinterlands2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Develop",
+   "Farmland",
+   "Nomads",
+   "Stables",
+   "Wheelwright",
+   "Cardinal",
+   "Hostelry",
+   "Livery",
+   "Mastermind",
+   "Supplies"
+  ],
+  "landscapes": [
+   "Gamble",
+   "Way of the Mouse"
+  ]
+ },
+ {
+  "name": "Longest Tunnel",
+  "source": "hinterlands-2",
+  "sets": [
+   "allies",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Bauble",
+   "Capital City",
+   "Carpenter",
+   "Contract",
+   "Innkeeper",
+   "Haggler",
+   "Jack of All Trades",
+   "Margrave",
+   "Trail",
+   "Tunnel"
+  ],
+  "landscapes": [],
+  "ally": "Fellowship of Scribes"
+ },
+ {
+  "name": "Expertise",
+  "source": "hinterlands-2",
+  "sets": [
+   "allies",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Barbarian",
+   "Highwayman",
+   "Specialist",
+   "Townsfolk",
+   "Underling",
+   "Border Village",
+   "Crossroads",
+   "Highway",
+   "Inn",
+   "Spice Merchant"
+  ],
+  "landscapes": [],
+  "ally": "Order of Masons"
+ },
+ {
+  "name": "Grim Parade",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges"
+  ],
+  "kingdom": [
+   "Armory",
+   "Band of Misfits",
+   "Catacombs",
+   "Cultist",
+   "Forager",
+   "Fortress",
+   "Knights",
+   "Market Square",
+   "Procession",
+   "Hunting Grounds"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Playing Chess With Death",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges"
+  ],
+  "kingdom": [
+   "Bandit Camp",
+   "Graverobber",
+   "Junk Dealer",
+   "Mystic",
+   "Pillage",
+   "Rats",
+   "Sage",
+   "Scavenger",
+   "Storeroom",
+   "Vagrant"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "High and Low",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Hermit",
+   "Hunting Grounds",
+   "Mystic",
+   "Poor House",
+   "Wandering Minstrel",
+   "Cellar",
+   "Moneylender",
+   "Throne Room",
+   "Witch",
+   "Workshop"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Chivalry and Revelry",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Altar",
+   "Knights",
+   "Rats",
+   "Scavenger",
+   "Squire",
+   "Festival",
+   "Gardens",
+   "Laboratory",
+   "Library",
+   "Remodel"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Prophecy",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Armory",
+   "Ironmonger",
+   "Mystic",
+   "Rebuild",
+   "Vagrant",
+   "Baron",
+   "Conspirator",
+   "Great Hall",
+   "Nobles",
+   "Wishing Well"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Invasion",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Beggar",
+   "Marauder",
+   "Rogue",
+   "Squire",
+   "Urchin",
+   "Harem",
+   "Mining Village",
+   "Swindler",
+   "Torturer",
+   "Upgrade"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Watery Grave",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Count",
+   "Graverobber",
+   "Hermit",
+   "Scavenger",
+   "Urchin",
+   "Native Village",
+   "Pirate Ship",
+   "Salvager",
+   "Treasure Map",
+   "Treasury"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Peasants",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Death Cart",
+   "Feodum",
+   "Poor House",
+   "Urchin",
+   "Vagrant",
+   "Fishing Village",
+   "Haven",
+   "Island",
+   "Lookout",
+   "Warehouse"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Infestations",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Armory",
+   "Cultist",
+   "Feodum",
+   "Market Square",
+   "Rats",
+   "Wandering Minstrel",
+   "Apprentice",
+   "Scrying Pool",
+   "Transmute",
+   "Vineyard"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Lamentations",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Beggar",
+   "Catacombs",
+   "Counterfeit",
+   "Forager",
+   "Ironmonger",
+   "Pillage",
+   "Apothecary",
+   "Golem",
+   "Herbalist",
+   "University"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "One Man's Trash",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Counterfeit",
+   "Forager",
+   "Graverobber",
+   "Market Square",
+   "Rogue",
+   "City",
+   "Grand Market",
+   "Monument",
+   "Talisman",
+   "Venture"
+  ],
+  "landscapes": [],
+  "colonies": true,
+  "shelters": true
+ },
+ {
+  "name": "Honor Among Thieves",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Bandit Camp",
+   "Procession",
+   "Rebuild",
+   "Rogue",
+   "Squire",
+   "Forge",
+   "Hoard",
+   "Peddler",
+   "Quarry",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true,
+  "shelters": true
+ },
+ {
+  "name": "Dark Carnival",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Band of Misfits",
+   "Cultist",
+   "Fortress",
+   "Hermit",
+   "Junk Dealer",
+   "Knights",
+   "Fairgrounds",
+   "Hamlet",
+   "Horn of Plenty",
+   "Menagerie"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "To the Victor",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Bandit Camp",
+   "Counterfeit",
+   "Death Cart",
+   "Marauder",
+   "Pillage",
+   "Sage",
+   "Harvest",
+   "Hunting Party",
+   "Remake",
+   "Tournament"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Far From Home",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Beggar",
+   "Count",
+   "Feodum",
+   "Marauder",
+   "Wandering Minstrel",
+   "Cartographer",
+   "Develop",
+   "Embassy",
+   "Fool's Gold",
+   "Haggler"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Expeditions",
+  "source": "dark-ages",
+  "sets": [
+   "darkAges",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Altar",
+   "Catacombs",
+   "Ironmonger",
+   "Poor House",
+   "Storeroom",
+   "Crossroads",
+   "Farmland",
+   "Highway",
+   "Spice Merchant",
+   "Tunnel"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Arts and Crafts",
+  "source": "guilds",
+  "sets": [
+   "dominion1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Laboratory",
+   "Moneylender",
+   "Workshop",
+   "Advisor",
+   "Baker",
+   "Journeyman",
+   "Merchant Guild",
+   "Stonemason"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Clean Living",
+  "source": "guilds",
+  "sets": [
+   "dominion1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Gardens",
+   "Militia",
+   "Moneylender",
+   "Village",
+   "Thief",
+   "Baker",
+   "Butcher",
+   "Candlestick Maker",
+   "Doctor",
+   "Soothsayer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Gilding the Lily",
+  "source": "guilds",
+  "sets": [
+   "dominion1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Library",
+   "Market",
+   "Remodel",
+   "Adventurer",
+   "Chancellor",
+   "Candlestick Maker",
+   "Herald",
+   "Masterpiece",
+   "Plaza",
+   "Taxman"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Name That Card",
+  "source": "guilds",
+  "sets": [
+   "guilds1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Advisor",
+   "Baker",
+   "Doctor",
+   "Masterpiece",
+   "Plaza",
+   "Courtyard",
+   "Harem",
+   "Nobles",
+   "Wishing Well",
+   "Tribute"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Tricks of the Trade",
+  "source": "guilds",
+  "sets": [
+   "guilds1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Herald",
+   "Journeyman",
+   "Soothsayer",
+   "Stonemason",
+   "Conspirator",
+   "Masquerade",
+   "Nobles",
+   "Coppersmith",
+   "Great Hall"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Decisions, Decisions",
+  "source": "guilds",
+  "sets": [
+   "guilds1stEdition",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Candlestick Maker",
+   "Masterpiece",
+   "Merchant Guild",
+   "Taxman",
+   "Bridge",
+   "Duke",
+   "Mining Village",
+   "Pawn",
+   "Upgrade"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Misfortune",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Farming Village",
+   "Fortune Teller",
+   "Horse Traders",
+   "Jester",
+   "Advisor",
+   "Candlestick Maker",
+   "Doctor",
+   "Soothsayer",
+   "Taxman"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Baking Contest",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Farming Village",
+   "Harvest",
+   "Menagerie",
+   "Remake",
+   "Tournament",
+   "Baker",
+   "Herald",
+   "Journeyman",
+   "Masterpiece",
+   "Stonemason"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bounty of the Hunt",
+  "source": "guildscornucopia",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Militia",
+   "Moneylender",
+   "Smithy",
+   "Harvest",
+   "Horn of Plenty",
+   "Hunting Party",
+   "Menagerie",
+   "Tournament"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bad Omens",
+  "source": "guildscornucopia",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Laboratory",
+   "Merchant",
+   "Poacher",
+   "Throne Room",
+   "Fortune Teller",
+   "Hamlet",
+   "Horn of Plenty",
+   "Jester",
+   "Remake"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Jester's Workshop",
+  "source": "guildscornucopia",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Laboratory",
+   "Market",
+   "Remodel",
+   "Workshop",
+   "Fairgrounds",
+   "Farming Village",
+   "Horse Traders",
+   "Jester",
+   "Young Witch"
+  ],
+  "landscapes": [],
+  "bane": "Merchant"
+ },
+ {
+  "name": "Arts & Crafts",
+  "source": "guildscornucopia",
+  "sets": [
+   "dominion2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Laboratory",
+   "Moneylender",
+   "Workshop",
+   "Advisor",
+   "Baker",
+   "Journeyman",
+   "Merchant Guild",
+   "Stonemason"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Clean Living",
+  "source": "guildscornucopia",
+  "sets": [
+   "dominion2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Gardens",
+   "Militia",
+   "Moneylender",
+   "Village",
+   "Baker",
+   "Butcher",
+   "Candlestick Maker",
+   "Doctor",
+   "Soothsayer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Gilding the Lily",
+  "source": "guildscornucopia",
+  "sets": [
+   "dominion2ndEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Library",
+   "Market",
+   "Merchant",
+   "Remodel",
+   "Sentry",
+   "Candlestick Maker",
+   "Herald",
+   "Masterpiece",
+   "Plaza",
+   "Taxman"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Last Laughs",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Farming Village",
+   "Harvest",
+   "Horse Traders",
+   "Hunting Party",
+   "Jester",
+   "Minion",
+   "Nobles",
+   "Pawn",
+   "Steward",
+   "Swindler"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The Spice of Life",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Horn of Plenty",
+   "Remake",
+   "Tournament",
+   "Young Witch",
+   "Courtier",
+   "Courtyard",
+   "Diplomat",
+   "Mining Village",
+   "Replace"
+  ],
+  "landscapes": [],
+  "bane": "Wishing Well"
+ },
+ {
+  "name": "Small Victories",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Fortune Teller",
+   "Hamlet",
+   "Hunting Party",
+   "Remake",
+   "Tournament",
+   "Conspirator",
+   "Duke",
+   "Harem",
+   "Pawn",
+   "Secret Passage"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Name That Card",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Advisor",
+   "Baker",
+   "Doctor",
+   "Masterpiece",
+   "Plaza",
+   "Courtyard",
+   "Harem",
+   "Nobles",
+   "Replace",
+   "Wishing Well"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Tricks of the Trade",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Herald",
+   "Journeyman",
+   "Soothsayer",
+   "Stonemason",
+   "Conspirator",
+   "Masquerade",
+   "Mill",
+   "Nobles",
+   "Secret Passage"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Decisions, Decisions",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Candlestick Maker",
+   "Masterpiece",
+   "Merchant Guild",
+   "Taxman",
+   "Bridge",
+   "Duke",
+   "Mining Village",
+   "Pawn",
+   "Upgrade"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Collector",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Farming Village",
+   "Fortune Teller",
+   "Harvest",
+   "Hunting Party",
+   "Embargo",
+   "Fishing Village",
+   "Merchant Ship",
+   "Navigator",
+   "Smugglers"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Collider",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Horn of Plenty",
+   "Horse Traders",
+   "Jester",
+   "Menagerie",
+   "Tournament",
+   "Lighthouse",
+   "Salvager",
+   "Treasure Map",
+   "Treasury",
+   "Warehouse"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Ghosts & Taxes",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Candlestick Maker",
+   "Herald",
+   "Soothsayer",
+   "Taxman",
+   "Cutpurse",
+   "Ghost Ship",
+   "Haven",
+   "Outpost",
+   "Smugglers"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Island Builder",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Baker",
+   "Doctor",
+   "Merchant Guild",
+   "Plaza",
+   "Stonemason",
+   "Island",
+   "Native Village",
+   "Salvager",
+   "Tactician",
+   "Treasury"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Clown College",
+  "source": "guildscornucopia",
+  "sets": [
+   "alchemy",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Familiar",
+   "Golem",
+   "Philosopher's Stone",
+   "University",
+   "Jester",
+   "Harvest",
+   "Horse Traders",
+   "Menagerie",
+   "Remake"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Wine & Dine",
+  "source": "guildscornucopia",
+  "sets": [
+   "alchemy",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Apothecary",
+   "Apprentice",
+   "Scrying Pool",
+   "Transmute",
+   "Vineyard",
+   "Fairgrounds",
+   "Hamlet",
+   "Horn of Plenty",
+   "Hunting Party",
+   "Young Witch"
+  ],
+  "landscapes": [],
+  "bane": "Herbalist"
+ },
+ {
+  "name": "Illuminati",
+  "source": "guildscornucopia",
+  "sets": [
+   "alchemy",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Apprentice",
+   "Golem",
+   "Philosopher's Stone",
+   "Scrying Pool",
+   "University",
+   "Butcher",
+   "Herald",
+   "Masterpiece",
+   "Merchant Guild",
+   "Stonemason"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Tonics & Toxins",
+  "source": "guildscornucopia",
+  "sets": [
+   "alchemy",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Familiar",
+   "Herbalist",
+   "Transmute",
+   "Vineyard",
+   "Baker",
+   "Candlestick Maker",
+   "Doctor",
+   "Plaza",
+   "Soothsayer"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Detours",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Farming Village",
+   "Horn of Plenty",
+   "Jester",
+   "Remake",
+   "Tournament",
+   "Hoard",
+   "Peddler",
+   "Rabble",
+   "Trade Route",
+   "Venture"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Quarrymen",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Baker",
+   "Merchant Guild",
+   "Soothsayer",
+   "Stonemason",
+   "Taxman",
+   "City",
+   "Expand",
+   "Grand Market",
+   "Mountebank",
+   "Quarry"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Metal & Meat",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Candlestick Maker",
+   "Plaza",
+   "Stonemason",
+   "Taxman",
+   "Forge",
+   "King's Court",
+   "Monument",
+   "Venture",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Penny Pinching",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Advisor",
+   "Doctor",
+   "Herald",
+   "Journeyman",
+   "Merchant Guild",
+   "Bank",
+   "Counting House",
+   "Goons",
+   "Peddler",
+   "Royal Seal"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Blue Harvest",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Horn of Plenty",
+   "Horse Traders",
+   "Jester",
+   "Tournament",
+   "Fool's Gold",
+   "Mandarin",
+   "Noble Brigand",
+   "Trader",
+   "Tunnel"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Traveling Circus",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Farming Village",
+   "Hunting Party",
+   "Jester",
+   "Menagerie",
+   "Border Village",
+   "Embassy",
+   "Fool's Gold",
+   "Nomad Camp",
+   "Oasis"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Exchanges",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Herald",
+   "Masterpiece",
+   "Soothsayer",
+   "Stonemason",
+   "Border Village",
+   "Develop",
+   "Ill-Gotten Gains",
+   "Stables",
+   "Trader"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Road to Riches",
+  "source": "guildscornucopia",
+  "sets": [
+   "guilds1stEdition",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Advisor",
+   "Baker",
+   "Candlestick Maker",
+   "Journeyman",
+   "Merchant Guild",
+   "Crossroads",
+   "Farmland",
+   "Highway",
+   "Spice Merchant",
+   "Tunnel"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Dark Carnival",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Hamlet",
+   "Horn of Plenty",
+   "Menagerie",
+   "Band of Misfits",
+   "Cultist",
+   "Fortress",
+   "Hermit",
+   "Junk Dealer",
+   "Knights"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "To the Victor",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Harvest",
+   "Hunting Party",
+   "Remake",
+   "Tournament",
+   "Bandit Camp",
+   "Counterfeit",
+   "Death Cart",
+   "Marauder",
+   "Pillage",
+   "Sage"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Stoneground",
+  "source": "guildscornucopia",
+  "sets": [
+   "darkAges",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Hunting Grounds",
+   "Ironmonger",
+   "Marauder",
+   "Procession",
+   "Rogue",
+   "Advisor",
+   "Baker",
+   "Candlestick Maker",
+   "Plaza",
+   "Stonemason"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Class Struggle",
+  "source": "guildscornucopia",
+  "sets": [
+   "darkAges",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Feodum",
+   "Fortress",
+   "Knights",
+   "Market Square",
+   "Poor House",
+   "Butcher",
+   "Doctor",
+   "Journeyman",
+   "Merchant Guild",
+   "Taxman"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "The Hero's Return",
+  "source": "guildscornucopia",
+  "sets": [
+   "adventures",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Miser",
+   "Page",
+   "Ranger",
+   "Relic",
+   "Fairgrounds",
+   "Farming Village",
+   "Horse Traders",
+   "Jester",
+   "Menagerie"
+  ],
+  "landscapes": [
+   "Travelling Fair"
+  ]
+ },
+ {
+  "name": "Seacraft and Witchcraft",
+  "source": "guildscornucopia",
+  "sets": [
+   "adventures",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Peasant",
+   "Storyteller",
+   "Swamp Hag",
+   "Transmogrify",
+   "Wine Merchant",
+   "Fortune Teller",
+   "Hamlet",
+   "Horn of Plenty",
+   "Tournament",
+   "Young Witch"
+  ],
+  "landscapes": [
+   "Ferry",
+   "Seaway"
+  ],
+  "bane": "Guide"
+ },
+ {
+  "name": "Spendthrift",
+  "source": "guildscornucopia",
+  "sets": [
+   "adventures",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Gear",
+   "Magpie",
+   "Miser",
+   "Storyteller",
+   "Doctor",
+   "Masterpiece",
+   "Merchant Guild",
+   "Soothsayer",
+   "Stonemason"
+  ],
+  "landscapes": [
+   "Lost Arts"
+  ]
+ },
+ {
+  "name": "Queen of Tan",
+  "source": "guildscornucopia",
+  "sets": [
+   "adventures",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Coin of the Realm",
+   "Duplicate",
+   "Guide",
+   "Ratcatcher",
+   "Royal Carriage",
+   "Advisor",
+   "Butcher",
+   "Candlestick Maker",
+   "Herald",
+   "Journeyman"
+  ],
+  "landscapes": [
+   "Pathfinding",
+   "Save"
+  ]
+ },
+ {
+  "name": "Cash Flow",
+  "source": "guildscornucopia",
+  "sets": [
+   "empires",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "City Quarter",
+   "Engineer",
+   "Gladiator - Fortune",
+   "Royal Blacksmith",
+   "Baker",
+   "Butcher",
+   "Doctor",
+   "Herald",
+   "Soothsayer"
+  ],
+  "landscapes": [
+   "Baths",
+   "Mountain Pass"
+  ]
+ },
+ {
+  "name": "Simple Plans",
+  "source": "guildscornucopia",
+  "sets": [
+   "empires",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Catapult - Rocks",
+   "Forum",
+   "Patrician - Emporium",
+   "Temple",
+   "Villa",
+   "Border Village",
+   "Develop",
+   "Haggler",
+   "Ill-Gotten Gains",
+   "Stables"
+  ],
+  "landscapes": [
+   "Donate",
+   "Labyrinth"
+  ]
+ },
+ {
+  "name": "The Endless Fair",
+  "source": "guildscornucopia",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Farming Village",
+   "Fortune Teller",
+   "Baker",
+   "Merchant Guild",
+   "Devil's Workshop",
+   "Exorcist",
+   "Monastery",
+   "Pixie",
+   "Shepherd"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Happy Chaos",
+  "source": "guildscornucopia",
+  "sets": [
+   "nocturne",
+   "cornucopia1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Harvest",
+   "Jester",
+   "Doctor",
+   "Herald",
+   "Masterpiece",
+   "Blessed Village",
+   "Changeling",
+   "Fool",
+   "Faithful Hound",
+   "Sacred Grove"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Misfortune",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Horn of Plenty",
+   "Jester",
+   "Advisor",
+   "Candlestick Maker",
+   "Merchant Guild",
+   "Soothsayer",
+   "Carnival",
+   "Farmhands",
+   "Infirmary"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Baking Contest",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Hunting Party",
+   "Menagerie",
+   "Remake",
+   "Baker",
+   "Herald",
+   "Stonemason",
+   "Farrier",
+   "Joust",
+   "Shop"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Bounty of the Hunt",
+  "source": "guildscornucopia2",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Militia",
+   "Moneylender",
+   "Smithy",
+   "Horn of Plenty",
+   "Hunting Party",
+   "Menagerie",
+   "Ferryman",
+   "Joust"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Gilding the Lily",
+  "source": "guildscornucopia2",
+  "sets": [
+   "dominion2ndEdition",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Library",
+   "Market",
+   "Remodel",
+   "Merchant",
+   "Sentry",
+   "Remake",
+   "Young Witch",
+   "Candlestick Maker",
+   "Plaza",
+   "Footpad"
+  ],
+  "landscapes": [],
+  "bane": "Vassal"
+ },
+ {
+  "name": "The Spice of Life",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Horn of Plenty",
+   "Remake",
+   "Young Witch",
+   "Joust",
+   "Courtyard",
+   "Mining Village",
+   "Courtier",
+   "Diplomat",
+   "Replace"
+  ],
+  "landscapes": [],
+  "bane": "Wishing Well"
+ },
+ {
+  "name": "Tricks of the Trade",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Butcher",
+   "Herald",
+   "Journeyman",
+   "Soothsayer",
+   "Stonemason",
+   "Conspirator",
+   "Masquerade",
+   "Nobles",
+   "Mill",
+   "Secret Passage"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Collecting",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Hunting Party",
+   "Farmhands",
+   "Farrier",
+   "Footpad",
+   "Fishing Village",
+   "Smugglers",
+   "Blockade",
+   "Monkey",
+   "Tide Pools"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Island Builder",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Advisor",
+   "Baker",
+   "Merchant Guild",
+   "Plaza",
+   "Stonemason",
+   "Island",
+   "Native Village",
+   "Salvager",
+   "Treasury",
+   "Sea Chart"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Clown College",
+  "source": "guildscornucopia2",
+  "sets": [
+   "alchemy",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Apothecary",
+   "Familiar",
+   "Golem",
+   "University",
+   "Jester",
+   "Menagerie",
+   "Candlestick Maker",
+   "Herald",
+   "Carnival",
+   "Infirmary"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Detours",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Horn of Plenty",
+   "Jester",
+   "Remake",
+   "Farmhands",
+   "Joust",
+   "Forge",
+   "Hoard",
+   "Clerk",
+   "Crystal Ball",
+   "Magnate"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Quarrymen",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Baker",
+   "Butcher",
+   "Candlestick Maker",
+   "Merchant Guild",
+   "Soothsayer",
+   "City",
+   "Expand",
+   "Grand Market",
+   "Quarry",
+   "Charlatan"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Blue Harvest",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Horn of Plenty",
+   "Farrier",
+   "Ferryman",
+   "Joust",
+   "Fool's Gold",
+   "Tunnel",
+   "Trail",
+   "Weaver",
+   "Witch's Hut"
+  ],
+  "landscapes": [],
+  "ferryman": "Guard Dog"
+ },
+ {
+  "name": "Exchanges",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "hinterlands2ndEdition"
+  ],
+  "kingdom": [
+   "Young Witch",
+   "Butcher",
+   "Herald",
+   "Soothsayer",
+   "Stonemason",
+   "Border Village",
+   "Develop",
+   "Stables",
+   "Trader",
+   "Cauldron"
+  ],
+  "landscapes": [],
+  "bane": "Oasis"
+ },
+ {
+  "name": "Dark Carnival",
+  "source": "guildscornucopia2",
+  "sets": [
+   "darkAges",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Hamlet",
+   "Horn of Plenty",
+   "Menagerie",
+   "Cultist",
+   "Death Cart",
+   "Hermit",
+   "Junk Dealer",
+   "Knights",
+   "Ferryman"
+  ],
+  "landscapes": [],
+  "ferryman": "Fortress",
+  "shelters": true
+ },
+ {
+  "name": "Stoneground",
+  "source": "guildscornucopia2",
+  "sets": [
+   "darkAges",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Hunting Grounds",
+   "Ironmonger",
+   "Marauder",
+   "Procession",
+   "Rogue",
+   "Advisor",
+   "Plaza",
+   "Stonemason",
+   "Farrier",
+   "Shop"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "The Hero's Return",
+  "source": "guildscornucopia2",
+  "sets": [
+   "adventures",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Miser",
+   "Page",
+   "Ranger",
+   "Relic",
+   "Menagerie",
+   "Carnival",
+   "Farmhands",
+   "Footpad",
+   "Shop"
+  ],
+  "landscapes": [
+   "Travelling Fair"
+  ]
+ },
+ {
+  "name": "Queen of Tan",
+  "source": "guildscornucopia2",
+  "sets": [
+   "adventures",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Duplicate",
+   "Guide",
+   "Ratcatcher",
+   "Royal Carriage",
+   "Transmogrify",
+   "Young Witch",
+   "Advisor",
+   "Herald",
+   "Journeyman",
+   "Merchant Guild"
+  ],
+  "landscapes": [
+   "Pathfinding",
+   "Save"
+  ],
+  "bane": "Coin of the Realm"
+ },
+ {
+  "name": "Zookeepers",
+  "source": "guildscornucopia2",
+  "sets": [
+   "empires",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Jester",
+   "Menagerie",
+   "Remake",
+   "Groundskeeper",
+   "Overlord",
+   "Sacrifice",
+   "Settlers - Bustling Village",
+   "Wild Hunt",
+   "Ferryman",
+   "Shop"
+  ],
+  "landscapes": [
+   "Annex",
+   "Colonnade"
+  ],
+  "ferryman": "Villa"
+ },
+ {
+  "name": "Cash Flow",
+  "source": "guildscornucopia2",
+  "sets": [
+   "empires",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "City Quarter",
+   "Engineer",
+   "Gladiator - Fortune",
+   "Royal Blacksmith",
+   "Baker",
+   "Herald",
+   "Soothsayer",
+   "Carnival",
+   "Infirmary"
+  ],
+  "landscapes": [
+   "Baths",
+   "Mountain Pass"
+  ]
+ },
+ {
+  "name": "The Endless Fair",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Baker",
+   "Merchant Guild",
+   "Carnival",
+   "Farmhands",
+   "Devil's Workshop",
+   "Exorcist",
+   "Monastery",
+   "Pixie",
+   "Shepherd"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Happy Chaos",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Jester",
+   "Young Witch",
+   "Carnival",
+   "Infirmary",
+   "Shop",
+   "Blessed Village",
+   "Changeling",
+   "Faithful Hound",
+   "Sacred Grove",
+   "Secret Cave"
+  ],
+  "landscapes": [],
+  "bane": "Leprechaun"
+ },
+ {
+  "name": "Combo Corner",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Horn of Plenty",
+   "Jester",
+   "Stonemason",
+   "Farrier",
+   "Ferryman",
+   "Ducat",
+   "Experiment",
+   "Hideout",
+   "Sculptor",
+   "Seer"
+  ],
+  "landscapes": [
+   "Canal"
+  ],
+  "ferryman": "Mountain Village"
+ },
+ {
+  "name": "Filling the Coffers",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Baker",
+   "Butcher",
+   "Merchant Guild",
+   "Plaza",
+   "Farrier",
+   "Priest",
+   "Recruiter",
+   "Spices",
+   "Swashbuckler",
+   "Treasurer"
+  ],
+  "landscapes": [
+   "City Gate",
+   "Star Chart"
+  ]
+ },
+ {
+  "name": "Living in Exile",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Journeyman",
+   "Farmhands",
+   "Footpad",
+   "Infirmary",
+   "Gatekeeper",
+   "Hostelry",
+   "Livery",
+   "Scrap",
+   "Stockpile"
+  ],
+  "landscapes": [
+   "Enclave"
+  ]
+ },
+ {
+  "name": "Thrill of the Hunt",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Hunting Party",
+   "Butcher",
+   "Carnival",
+   "Joust",
+   "Black Cat",
+   "Bounty Hunter",
+   "Camel Train",
+   "Mastermind",
+   "Village Green"
+  ],
+  "landscapes": [
+   "Pursue"
+  ]
+ },
+ {
+  "name": "Huge Collections",
+  "source": "guildscornucopia2",
+  "sets": [
+   "allies",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Clashes",
+   "Contract",
+   "Forts",
+   "Galleria",
+   "Sentinel",
+   "Fairgrounds",
+   "Hunting Party",
+   "Advisor",
+   "Plaza",
+   "Shop"
+  ],
+  "landscapes": [],
+  "ally": "Woodworkers' Guild"
+ },
+ {
+  "name": "Forest Scouts",
+  "source": "guildscornucopia2",
+  "sets": [
+   "allies",
+   "cornucopiaAndGuilds2ndEdition"
+  ],
+  "kingdom": [
+   "Augurs",
+   "Emissary",
+   "Innkeeper",
+   "Royal Galley",
+   "Sentinel",
+   "Butcher",
+   "Candlestick Maker",
+   "Journeyman",
+   "Farmhands",
+   "Footpad"
+  ],
+  "landscapes": [],
+  "ally": "Forest Dwellers"
+ },
+ {
+  "name": "Of Heralds and Hunters",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Herald",
+   "Soothsayer",
+   "Stonemason",
+   "Infirmary",
+   "Cabin Boy",
+   "Flagship",
+   "Fortune Hunter",
+   "Pendant",
+   "Pickaxe"
+  ],
+  "landscapes": [
+   "Inspiring"
+  ],
+  "traits": [
+   {
+    "trait": "Inspiring",
+    "pile": "Fortune Hunter"
+   }
+  ]
+ },
+ {
+  "name": "Through the Swamp",
+  "source": "guildscornucopia2",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Horn of Plenty",
+   "Menagerie",
+   "Baker",
+   "Merchant Guild",
+   "Cage",
+   "Pilgrim",
+   "Swamp Shacks",
+   "Taskmaster",
+   "Tools"
+  ],
+  "landscapes": [
+   "Journey",
+   "Patient"
+  ],
+  "traits": [
+   {
+    "trait": "Patient",
+    "pile": "Pilgrim"
+   }
+  ]
+ },
+ {
+  "name": "Gentle Intro",
+  "source": "adventures",
+  "sets": [
+   "adventures"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Distant Lands",
+   "Dungeon",
+   "Duplicate",
+   "Giant",
+   "Hireling",
+   "Port",
+   "Ranger",
+   "Ratcatcher",
+   "Treasure Trove"
+  ],
+  "landscapes": [
+   "Scouting Party"
+  ]
+ },
+ {
+  "name": "Expert Intro",
+  "source": "adventures",
+  "sets": [
+   "adventures"
+  ],
+  "kingdom": [
+   "Caravan Guard",
+   "Coin of the Realm",
+   "Haunted Woods",
+   "Lost City",
+   "Magpie",
+   "Peasant",
+   "Raze",
+   "Swamp Hag",
+   "Transmogrify",
+   "Wine Merchant"
+  ],
+  "landscapes": [
+   "Mission",
+   "Plan"
+  ]
+ },
+ {
+  "name": "Level Up",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Dungeon",
+   "Gear",
+   "Guide",
+   "Lost City",
+   "Miser",
+   "Market",
+   "Militia",
+   "Spy",
+   "Throne Room",
+   "Workshop"
+  ],
+  "landscapes": [
+   "Training"
+  ]
+ },
+ {
+  "name": "Son of Size Distortion",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "dominion1stEdition"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Duplicate",
+   "Giant",
+   "Messenger",
+   "Treasure Trove",
+   "Bureaucrat",
+   "Gardens",
+   "Moneylender",
+   "Thief",
+   "Witch"
+  ],
+  "landscapes": [
+   "Bonfire",
+   "Raid"
+  ]
+ },
+ {
+  "name": "Royalty Factory",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Bridge Troll",
+   "Duplicate",
+   "Page",
+   "Raze",
+   "Royal Carriage",
+   "Conspirator",
+   "Harem",
+   "Nobles",
+   "Secret Chamber",
+   "Swindler"
+  ],
+  "landscapes": [
+   "Pilgrimage"
+  ]
+ },
+ {
+  "name": "Masters of Finance",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "intrigue1stEdition"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Distant Lands",
+   "Gear",
+   "Transmogrify",
+   "Wine Merchant",
+   "Bridge",
+   "Pawn",
+   "Shanty Town",
+   "Steward",
+   "Upgrade"
+  ],
+  "landscapes": [
+   "Ball",
+   "Borrow"
+  ]
+ },
+ {
+  "name": "Prince of Orange",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Dungeon",
+   "Haunted Woods",
+   "Page",
+   "Swamp Hag",
+   "Caravan",
+   "Fishing Village",
+   "Merchant Ship",
+   "Tactician",
+   "Treasure Map"
+  ],
+  "landscapes": [
+   "Mission"
+  ]
+ },
+ {
+  "name": "Gifts and Mathoms",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Bridge Troll",
+   "Caravan Guard",
+   "Hireling",
+   "Lost City",
+   "Messenger",
+   "Ambassador",
+   "Embargo",
+   "Haven",
+   "Salvager",
+   "Smugglers"
+  ],
+  "landscapes": [
+   "Expedition",
+   "Quest"
+  ]
+ },
+ {
+  "name": "Haste Potion",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Magpie",
+   "Messenger",
+   "Port",
+   "Royal Carriage",
+   "Treasure Trove",
+   "Apprentice",
+   "Scrying Pool",
+   "Transmute",
+   "University",
+   "Vineyard"
+  ],
+  "landscapes": [
+   "Plan"
+  ]
+ },
+ {
+  "name": "Cursecatchers",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Bridge Troll",
+   "Caravan Guard",
+   "Peasant",
+   "Ratcatcher",
+   "Apothecary",
+   "Familiar",
+   "Golem",
+   "Herbalist",
+   "Philosopher's Stone"
+  ],
+  "landscapes": [
+   "Save",
+   "Trade"
+  ]
+ },
+ {
+  "name": "Last Will and Monument",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Coin of the Realm",
+   "Dungeon",
+   "Messenger",
+   "Relic",
+   "Treasure Trove",
+   "Bishop",
+   "Counting House",
+   "Monument",
+   "Rabble",
+   "Vault"
+  ],
+  "landscapes": [
+   "Inheritance"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Think Big",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Distant Lands",
+   "Giant",
+   "Hireling",
+   "Miser",
+   "Storyteller",
+   "Contraband",
+   "Expand",
+   "Hoard",
+   "King's Court",
+   "Peddler"
+  ],
+  "landscapes": [
+   "Ball",
+   "Ferry"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "The Hero's Return",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Miser",
+   "Page",
+   "Ranger",
+   "Relic",
+   "Fairgrounds",
+   "Farming Village",
+   "Horse Traders",
+   "Jester",
+   "Menagerie"
+  ],
+  "landscapes": [
+   "Travelling Fair"
+  ]
+ },
+ {
+  "name": "Seacraft and Witchcraft",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "cornucopia1stEdition"
+  ],
+  "kingdom": [
+   "Peasant",
+   "Storyteller",
+   "Swamp Hag",
+   "Transmogrify",
+   "Wine Merchant",
+   "Fortune Teller",
+   "Hamlet",
+   "Horn of Plenty",
+   "Tournament",
+   "Young Witch"
+  ],
+  "landscapes": [
+   "Ferry",
+   "Seaway"
+  ],
+  "bane": "Guide"
+ },
+ {
+  "name": "Traders and Raiders",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Haunted Woods",
+   "Lost City",
+   "Page",
+   "Port",
+   "Wine Merchant",
+   "Develop",
+   "Farmland",
+   "Haggler",
+   "Spice Merchant",
+   "Trader"
+  ],
+  "landscapes": [
+   "Raid"
+  ]
+ },
+ {
+  "name": "Journeys",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Bridge Troll",
+   "Distant Lands",
+   "Giant",
+   "Guide",
+   "Ranger",
+   "Cartographer",
+   "Crossroads",
+   "Highway",
+   "Inn",
+   "Silk Road"
+  ],
+  "landscapes": [
+   "Expedition",
+   "Inheritance"
+  ]
+ },
+ {
+  "name": "Cemetery Polka",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Caravan Guard",
+   "Hireling",
+   "Peasant",
+   "Relic",
+   "Graverobber",
+   "Marauder",
+   "Procession",
+   "Rogue",
+   "Wandering Minstrel"
+  ],
+  "landscapes": [
+   "Alms"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Groovy Decay",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Dungeon",
+   "Haunted Woods",
+   "Ratcatcher",
+   "Raze",
+   "Transmogrify",
+   "Cultist",
+   "Death Cart",
+   "Fortress",
+   "Knights",
+   "Rats"
+  ],
+  "landscapes": [
+   "Lost Arts",
+   "Pathfinding"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Spendthrift",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Gear",
+   "Magpie",
+   "Miser",
+   "Storyteller",
+   "Doctor",
+   "Masterpiece",
+   "Merchant Guild",
+   "Soothsayer",
+   "Stonemason"
+  ],
+  "landscapes": [
+   "Lost Arts"
+  ]
+ },
+ {
+  "name": "Queen of Tan",
+  "source": "adventures",
+  "sets": [
+   "adventures",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Coin of the Realm",
+   "Duplicate",
+   "Guide",
+   "Ratcatcher",
+   "Royal Carriage",
+   "Advisor",
+   "Butcher",
+   "Candlestick Maker",
+   "Herald",
+   "Journeyman"
+  ],
+  "landscapes": [
+   "Pathfinding",
+   "Save"
+  ]
+ },
+ {
+  "name": "Basic Intro",
+  "source": "empires",
+  "sets": [
+   "empires"
+  ],
+  "kingdom": [
+   "Castles",
+   "Chariot Race",
+   "City Quarter",
+   "Engineer",
+   "Farmers' Market",
+   "Forum",
+   "Legionary",
+   "Patrician - Emporium",
+   "Sacrifice",
+   "Villa"
+  ],
+  "landscapes": [
+   "Wedding",
+   "Tower"
+  ]
+ },
+ {
+  "name": "Advanced Intro",
+  "source": "empires",
+  "sets": [
+   "empires"
+  ],
+  "kingdom": [
+   "Archive",
+   "Capital",
+   "Catapult - Rocks",
+   "Crown",
+   "Enchantress",
+   "Gladiator - Fortune",
+   "Groundskeeper",
+   "Royal Blacksmith",
+   "Settlers - Bustling Village",
+   "Temple"
+  ],
+  "landscapes": [
+   "Arena",
+   "Triumphal Arch"
+  ]
+ },
+ {
+  "name": "Everything in Moderation",
+  "source": "empires",
+  "sets": [
+   "dominion2ndEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Library",
+   "Remodel",
+   "Village",
+   "Workshop",
+   "Enchantress",
+   "Forum",
+   "Legionary",
+   "Overlord",
+   "Temple"
+  ],
+  "landscapes": [
+   "Windfall",
+   "Orchard"
+  ]
+ },
+ {
+  "name": "Silver Bullets",
+  "source": "empires",
+  "sets": [
+   "dominion2ndEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Gardens",
+   "Laboratory",
+   "Market",
+   "Moneylender",
+   "Catapult - Rocks",
+   "Charm",
+   "Farmers' Market",
+   "Groundskeeper",
+   "Patrician - Emporium"
+  ],
+  "landscapes": [
+   "Conquest",
+   "Aqueduct"
+  ]
+ },
+ {
+  "name": "Delicious Torture",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "Crown",
+   "Enchantress",
+   "Sacrifice",
+   "Settlers - Bustling Village",
+   "Baron",
+   "Bridge",
+   "Harem",
+   "Ironworks",
+   "Torturer"
+  ],
+  "landscapes": [
+   "Banquet",
+   "Arena"
+  ]
+ },
+ {
+  "name": "Buddy System",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Archive",
+   "Capital",
+   "Catapult - Rocks",
+   "Engineer",
+   "Forum",
+   "Masquerade",
+   "Mining Village",
+   "Nobles",
+   "Pawn",
+   "Trading Post"
+  ],
+  "landscapes": [
+   "Salt the Earth",
+   "Wolf Den"
+  ]
+ },
+ {
+  "name": "Boxed In",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "Chariot Race",
+   "Encampment - Plunder",
+   "Enchantress",
+   "Gladiator - Fortune",
+   "Salvager",
+   "Smugglers",
+   "Tactician",
+   "Warehouse",
+   "Wharf"
+  ],
+  "landscapes": [
+   "Tax",
+   "Wall"
+  ]
+ },
+ {
+  "name": "King of the Sea",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Archive",
+   "Farmers' Market",
+   "Overlord",
+   "Temple",
+   "Wild Hunt",
+   "Explorer",
+   "Haven",
+   "Native Village",
+   "Pirate Ship",
+   "Sea Hag"
+  ],
+  "landscapes": [
+   "Delve",
+   "Fountain"
+  ]
+ },
+ {
+  "name": "Collectors",
+  "source": "empires",
+  "sets": [
+   "alchemy",
+   "empires"
+  ],
+  "kingdom": [
+   "Apothecary",
+   "Apprentice",
+   "Herbalist",
+   "Transmute",
+   "University",
+   "City Quarter",
+   "Crown",
+   "Encampment - Plunder",
+   "Enchantress",
+   "Farmers' Market"
+  ],
+  "landscapes": [
+   "Colonnade",
+   "Museum"
+  ]
+ },
+ {
+  "name": "Big Time",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Capital",
+   "Gladiator - Fortune",
+   "Patrician - Emporium",
+   "Royal Blacksmith",
+   "Villa",
+   "Bank",
+   "Forge",
+   "Grand Market",
+   "Loan",
+   "Royal Seal"
+  ],
+  "landscapes": [
+   "Dominate",
+   "Obelisk"
+  ],
+  "obelisk": "Patrician - Emporium",
+  "colonies": true
+ },
+ {
+  "name": "Gilded Gates",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Chariot Race",
+   "City Quarter",
+   "Encampment - Plunder",
+   "Groundskeeper",
+   "Wild Hunt",
+   "Bishop",
+   "Mint",
+   "Monument",
+   "Peddler",
+   "Talisman"
+  ],
+  "landscapes": [
+   "Basilica",
+   "Palace"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Zookeepers",
+  "source": "empires",
+  "sets": [
+   "cornucopia1stEdition",
+   "empires"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Horse Traders",
+   "Jester",
+   "Menagerie",
+   "Tournament",
+   "Overlord",
+   "Sacrifice",
+   "Settlers - Bustling Village",
+   "Villa",
+   "Wild Hunt"
+  ],
+  "landscapes": [
+   "Annex",
+   "Colonnade"
+  ]
+ },
+ {
+  "name": "Cash Flow",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "City Quarter",
+   "Engineer",
+   "Gladiator - Fortune",
+   "Royal Blacksmith",
+   "Baker",
+   "Butcher",
+   "Doctor",
+   "Herald",
+   "Soothsayer"
+  ],
+  "landscapes": [
+   "Baths",
+   "Mountain Pass"
+  ]
+ },
+ {
+  "name": "Simple Plans",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Catapult - Rocks",
+   "Forum",
+   "Patrician - Emporium",
+   "Temple",
+   "Villa",
+   "Border Village",
+   "Develop",
+   "Haggler",
+   "Ill-Gotten Gains",
+   "Stables"
+  ],
+  "landscapes": [
+   "Donate",
+   "Labyrinth"
+  ]
+ },
+ {
+  "name": "Expansion",
+  "source": "empires",
+  "sets": [
+   "empires",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Castles",
+   "Charm",
+   "Encampment - Plunder",
+   "Engineer",
+   "Legionary",
+   "Cache",
+   "Farmland",
+   "Highway",
+   "Spice Merchant",
+   "Tunnel"
+  ],
+  "landscapes": [
+   "Battlefield",
+   "Fountain"
+  ]
+ },
+ {
+  "name": "Tomb of the Rat King",
+  "source": "empires",
+  "sets": [
+   "darkAges",
+   "empires"
+  ],
+  "kingdom": [
+   "Death Cart",
+   "Fortress",
+   "Pillage",
+   "Rats",
+   "Storeroom",
+   "Castles",
+   "Chariot Race",
+   "City Quarter",
+   "Legionary",
+   "Sacrifice"
+  ],
+  "landscapes": [
+   "Advance",
+   "Tomb"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Triumph of the Bandit King",
+  "source": "empires",
+  "sets": [
+   "darkAges",
+   "empires"
+  ],
+  "kingdom": [
+   "Bandit Camp",
+   "Catacombs",
+   "Hunting Grounds",
+   "Market Square",
+   "Procession",
+   "Capital",
+   "Charm",
+   "Engineer",
+   "Groundskeeper",
+   "Legionary"
+  ],
+  "landscapes": [
+   "Triumph",
+   "Defiled Shrine"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "The Squire's Ritual",
+  "source": "empires",
+  "sets": [
+   "darkAges",
+   "empires"
+  ],
+  "kingdom": [
+   "Feodum",
+   "Hermit",
+   "Ironmonger",
+   "Rogue",
+   "Squire",
+   "Archive",
+   "Catapult - Rocks",
+   "Crown",
+   "Patrician - Emporium",
+   "Settlers - Bustling Village"
+  ],
+  "landscapes": [
+   "Ritual",
+   "Museum"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Area Control",
+  "source": "empires",
+  "sets": [
+   "adventures",
+   "empires"
+  ],
+  "kingdom": [
+   "Coin of the Realm",
+   "Page",
+   "Relic",
+   "Treasure Trove",
+   "Wine Merchant",
+   "Capital",
+   "Catapult - Rocks",
+   "Charm",
+   "Crown",
+   "Farmers' Market"
+  ],
+  "landscapes": [
+   "Banquet",
+   "Keep"
+  ]
+ },
+ {
+  "name": "No Money No Problems",
+  "source": "empires",
+  "sets": [
+   "adventures",
+   "empires"
+  ],
+  "kingdom": [
+   "Dungeon",
+   "Duplicate",
+   "Hireling",
+   "Peasant",
+   "Transmogrify",
+   "Archive",
+   "Encampment - Plunder",
+   "Royal Blacksmith",
+   "Temple",
+   "Villa"
+  ],
+  "landscapes": [
+   "Mission",
+   "Bandit Fort"
+  ]
+ },
+ {
+  "name": "Dusk",
+  "source": "nocturne",
+  "sets": [
+   "nocturne"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Cobbler",
+   "Den of Sin",
+   "Faithful Hound",
+   "Fool",
+   "Monastery",
+   "Night Watchman",
+   "Shepherd",
+   "Tormentor",
+   "Tragic Hero"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Midnight",
+  "source": "nocturne",
+  "sets": [
+   "nocturne"
+  ],
+  "kingdom": [
+   "Conclave",
+   "Crypt",
+   "Cursed Village",
+   "Devil's Workshop",
+   "Druid",
+   "Exorcist",
+   "Leprechaun",
+   "Pooka",
+   "Raider",
+   "Secret Cave"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Night Shift",
+  "source": "nocturne",
+  "sets": [
+   "dominion2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Gardens",
+   "Mine",
+   "Poacher",
+   "Smithy",
+   "Druid",
+   "Exorcist",
+   "Ghost Town",
+   "Idol",
+   "Night Watchman"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Idle Hands",
+  "source": "nocturne",
+  "sets": [
+   "dominion2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Harbinger",
+   "Market",
+   "Merchant",
+   "Moneylender",
+   "Bard",
+   "Conclave",
+   "Cursed Village",
+   "Devil's Workshop",
+   "Tragic Hero"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Shadowy Figures",
+  "source": "nocturne",
+  "sets": [
+   "intrigue2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Bridge",
+   "Conspirator",
+   "Mill",
+   "Nobles",
+   "Secret Passage",
+   "Cobbler",
+   "Conclave",
+   "Faithful Hound",
+   "Shepherd",
+   "Tragic Hero"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Impending Doom",
+  "source": "nocturne",
+  "sets": [
+   "intrigue2ndEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Courtier",
+   "Lurker",
+   "Mining Village",
+   "Swindler",
+   "Upgrade",
+   "Leprechaun",
+   "Monastery",
+   "Necromancer",
+   "Tormentor",
+   "Werewolf"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "The New Black",
+  "source": "nocturne",
+  "sets": [
+   "nocturne",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Cobbler",
+   "Den of Sin",
+   "Ghost Town",
+   "Raider",
+   "Secret Cave",
+   "Caravan",
+   "Haven",
+   "Merchant Ship",
+   "Outpost",
+   "Tactician"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Forbidden Isle",
+  "source": "nocturne",
+  "sets": [
+   "nocturne",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Cemetery",
+   "Idol",
+   "Tracker",
+   "Tragic Hero",
+   "Fishing Village",
+   "Ghost Ship",
+   "Lookout",
+   "Salvager",
+   "Treasure Map"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Nightmare Fuel",
+  "source": "nocturne",
+  "sets": [
+   "alchemy",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Apprentice",
+   "Transmute",
+   "Vineyard",
+   "Bard",
+   "Blessed Village",
+   "Cemetery",
+   "Sacred Grove",
+   "Skulk",
+   "Tracker"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Treasures of the Night",
+  "source": "nocturne",
+  "sets": [
+   "nocturne",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Crypt",
+   "Guardian",
+   "Night Watchman",
+   "Raider",
+   "Vampire",
+   "Bank",
+   "Contraband",
+   "Loan",
+   "Royal Seal",
+   "Venture"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "Day at the Races",
+  "source": "nocturne",
+  "sets": [
+   "nocturne",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Cemetery",
+   "Druid",
+   "Tormentor",
+   "Tragic Hero",
+   "Bishop",
+   "Peddler",
+   "Talisman",
+   "Trade Route",
+   "Watchtower"
+  ],
+  "landscapes": [],
+  "colonies": true
+ },
+ {
+  "name": "The Endless Fair",
+  "source": "nocturne",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Farming Village",
+   "Fortune Teller",
+   "Baker",
+   "Merchant Guild",
+   "Devil's Workshop",
+   "Exorcist",
+   "Monastery",
+   "Pixie",
+   "Shepherd"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Happy Chaos",
+  "source": "nocturne",
+  "sets": [
+   "nocturne",
+   "cornucopia1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Harvest",
+   "Jester",
+   "Doctor",
+   "Herald",
+   "Masterpiece",
+   "Blessed Village",
+   "Changeling",
+   "Fool",
+   "Faithful Hound",
+   "Sacred Grove"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Search Party",
+  "source": "nocturne",
+  "sets": [
+   "hinterlands1stEdition",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Highway",
+   "Inn",
+   "Oasis",
+   "Scheme",
+   "Cobbler",
+   "Conclave",
+   "Druid",
+   "Faithful Hound",
+   "Werewolf"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Counting Sheep",
+  "source": "nocturne",
+  "sets": [
+   "nocturne",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Crossroads",
+   "Farmland",
+   "Haggler",
+   "Noble Brigand",
+   "Tunnel",
+   "Bard",
+   "Crypt",
+   "Leprechaun",
+   "Pooka",
+   "Shepherd"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "Grave Matters",
+  "source": "nocturne",
+  "sets": [
+   "darkAges",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Armory",
+   "Forager",
+   "Graverobber",
+   "Market Square",
+   "Squire",
+   "Cemetery",
+   "Cursed Village",
+   "Necromancer",
+   "Skulk",
+   "Tormentor"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Rats and Bats",
+  "source": "nocturne",
+  "sets": [
+   "darkAges",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Catacombs",
+   "Count",
+   "Fortress",
+   "Hermit",
+   "Rats",
+   "Changeling",
+   "Devil's Workshop",
+   "Sacred Grove",
+   "Tracker",
+   "Vampire"
+  ],
+  "landscapes": [],
+  "shelters": true
+ },
+ {
+  "name": "Monster Mash",
+  "source": "nocturne",
+  "sets": [
+   "adventures",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Bridge Troll",
+   "Giant",
+   "Messenger",
+   "Ratcatcher",
+   "Storyteller",
+   "Conclave",
+   "Guardian",
+   "Pixie",
+   "Vampire",
+   "Werewolf"
+  ],
+  "landscapes": [
+   "Quest"
+  ]
+ },
+ {
+  "name": "Lost in the Woods",
+  "source": "nocturne",
+  "sets": [
+   "adventures",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Caravan Guard",
+   "Guide",
+   "Haunted Woods",
+   "Hireling",
+   "Ranger",
+   "Blessed Village",
+   "Druid",
+   "Fool",
+   "Sacred Grove",
+   "Tracker"
+  ],
+  "landscapes": [
+   "Pilgrimage"
+  ]
+ },
+ {
+  "name": "Luftschloss",
+  "source": "nocturne",
+  "sets": [
+   "empires",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Archive",
+   "Castles",
+   "Catapult - Rocks",
+   "Engineer",
+   "Temple",
+   "Cemetery",
+   "Changeling",
+   "Exorcist",
+   "Fool",
+   "Shepherd"
+  ],
+  "landscapes": [
+   "Tomb"
+  ]
+ },
+ {
+  "name": "Pooka Pranks",
+  "source": "nocturne",
+  "sets": [
+   "empires",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Chariot Race",
+   "Forum",
+   "Groundskeeper",
+   "Sacrifice",
+   "Settlers - Bustling Village",
+   "Faithful Hound",
+   "Ghost Town",
+   "Pixie",
+   "Pooka",
+   "Skulk"
+  ],
+  "landscapes": [
+   "Banquet"
+  ]
+ },
+ {
+  "name": "Overture",
+  "source": "renaissance",
+  "sets": [
+   "renaissance"
+  ],
+  "kingdom": [
+   "Acting Troupe",
+   "Experiment",
+   "Flag Bearer",
+   "Hideout",
+   "Improve",
+   "Inventor",
+   "Lackeys",
+   "Old Witch",
+   "Seer",
+   "Treasurer"
+  ],
+  "landscapes": [
+   "Fair"
+  ]
+ },
+ {
+  "name": "Prelude",
+  "source": "renaissance",
+  "sets": [
+   "renaissance"
+  ],
+  "kingdom": [
+   "Border Guard",
+   "Cargo Ship",
+   "Ducat",
+   "Mountain Village",
+   "Priest",
+   "Recruiter",
+   "Sculptor",
+   "Silk Merchant",
+   "Swashbuckler",
+   "Villain"
+  ],
+  "landscapes": [
+   "Citadel",
+   "Star Chart"
+  ]
+ },
+ {
+  "name": "It Takes a Villager",
+  "source": "renaissance",
+  "sets": [
+   "dominion2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Market",
+   "Merchant",
+   "Mine",
+   "Smithy",
+   "Vassal",
+   "Acting Troupe",
+   "Cargo Ship",
+   "Recruiter",
+   "Seer",
+   "Treasurer"
+  ],
+  "landscapes": [
+   "Road Network"
+  ]
+ },
+ {
+  "name": "Capture the Flag",
+  "source": "renaissance",
+  "sets": [
+   "dominion2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Festival",
+   "Harbinger",
+   "Remodel",
+   "Workshop",
+   "Flag Bearer",
+   "Lackeys",
+   "Scholar",
+   "Swashbuckler",
+   "Villain"
+  ],
+  "landscapes": [
+   "Barracks",
+   "Pageant"
+  ]
+ },
+ {
+  "name": "Memento Mori",
+  "source": "renaissance",
+  "sets": [
+   "intrigue2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Ironworks",
+   "Lurker",
+   "Patrol",
+   "Swindler",
+   "Upgrade",
+   "Experiment",
+   "Flag Bearer",
+   "Patron",
+   "Recruiter",
+   "Silk Merchant"
+  ],
+  "landscapes": [
+   "Citadel"
+  ]
+ },
+ {
+  "name": "Clockwork Court",
+  "source": "renaissance",
+  "sets": [
+   "intrigue2ndEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Courtier",
+   "Mining Village",
+   "Nobles",
+   "Replace",
+   "Steward",
+   "Acting Troupe",
+   "Inventor",
+   "Research",
+   "Scepter",
+   "Scholar"
+  ],
+  "landscapes": [
+   "Fleet",
+   "Sinister Plot"
+  ]
+ },
+ {
+  "name": "Free Shipping",
+  "source": "renaissance",
+  "sets": [
+   "renaissance",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Acting Troupe",
+   "Cargo Ship",
+   "Lackeys",
+   "Research",
+   "Spices",
+   "Embargo",
+   "Island",
+   "Outpost",
+   "Smugglers",
+   "Wharf"
+  ],
+  "landscapes": [
+   "Innovation"
+  ]
+ },
+ {
+  "name": "Digging for Treasure",
+  "source": "renaissance",
+  "sets": [
+   "renaissance",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Border Guard",
+   "Flag Bearer",
+   "Inventor",
+   "Sculptor",
+   "Swashbuckler",
+   "Caravan",
+   "Native Village",
+   "Salvager",
+   "Tactician",
+   "Treasure Map"
+  ],
+  "landscapes": [
+   "Crop Rotation",
+   "Silos"
+  ]
+ },
+ {
+  "name": "Peek-a-boo",
+  "source": "renaissance",
+  "sets": [
+   "alchemy",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Apothecary",
+   "Golem",
+   "Scrying Pool",
+   "Cargo Ship",
+   "Improve",
+   "Lackeys",
+   "Patron",
+   "Sculptor",
+   "Silk Merchant"
+  ],
+  "landscapes": [
+   "Cathedral"
+  ]
+ },
+ {
+  "name": "Dreamers of Dreams",
+  "source": "renaissance",
+  "sets": [
+   "prosperity1stEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Expand",
+   "Monument",
+   "Vault",
+   "Watchtower",
+   "Worker's Village",
+   "Cargo Ship",
+   "Old Witch",
+   "Priest",
+   "Scepter",
+   "Scholar"
+  ],
+  "landscapes": [
+   "Academy"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Movers and Shakers",
+  "source": "renaissance",
+  "sets": [
+   "prosperity1stEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Bank",
+   "City",
+   "Grand Market",
+   "Loan",
+   "Rabble",
+   "Hideout",
+   "Patron",
+   "Research",
+   "Treasurer",
+   "Villain"
+  ],
+  "landscapes": [
+   "Capitalism",
+   "Citadel"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Sweetened Deals",
+  "source": "renaissance",
+  "sets": [
+   "hinterlands1stEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Develop",
+   "Farmland",
+   "Haggler",
+   "Spice Merchant",
+   "Flag Bearer",
+   "Lackeys",
+   "Mountain Village",
+   "Silk Merchant",
+   "Spices"
+  ],
+  "landscapes": [
+   "Silos"
+  ]
+ },
+ {
+  "name": "A Penny Saved",
+  "source": "renaissance",
+  "sets": [
+   "hinterlands1stEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Cache",
+   "Crossroads",
+   "Noble Brigand",
+   "Oasis",
+   "Trader",
+   "Ducat",
+   "Patron",
+   "Scepter",
+   "Seer",
+   "Swashbuckler"
+  ],
+  "landscapes": [
+   "Barracks",
+   "Guildhall"
+  ]
+ },
+ {
+  "name": "Stargazing",
+  "source": "renaissance",
+  "sets": [
+   "darkAges",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Hermit",
+   "Mystic",
+   "Procession",
+   "Sage",
+   "Wandering Minstrel",
+   "Border Guard",
+   "Patron",
+   "Seer",
+   "Silk Merchant",
+   "Swashbuckler"
+  ],
+  "landscapes": [
+   "Star Chart"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Sewer Rats",
+  "source": "renaissance",
+  "sets": [
+   "darkAges",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Count",
+   "Counterfeit",
+   "Cultist",
+   "Graverobber",
+   "Rats",
+   "Flag Bearer",
+   "Improve",
+   "Lackeys",
+   "Mountain Village",
+   "Research"
+  ],
+  "landscapes": [
+   "Crop Rotation",
+   "Sewers"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Combo Corner",
+  "source": "renaissance",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Horn of Plenty",
+   "Horse Traders",
+   "Jester",
+   "Herald",
+   "Stonemason",
+   "Ducat",
+   "Experiment",
+   "Hideout",
+   "Sculptor",
+   "Seer"
+  ],
+  "landscapes": [
+   "Canal"
+  ]
+ },
+ {
+  "name": "Filling the Coffers",
+  "source": "renaissance",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Menagerie",
+   "Baker",
+   "Butcher",
+   "Merchant Guild",
+   "Plaza",
+   "Priest",
+   "Recruiter",
+   "Spices",
+   "Swashbuckler",
+   "Treasurer"
+  ],
+  "landscapes": [
+   "City Gate",
+   "Star Chart"
+  ]
+ },
+ {
+  "name": "Progress",
+  "source": "renaissance",
+  "sets": [
+   "adventures",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Hireling",
+   "Ranger",
+   "Raze",
+   "Swamp Hag",
+   "Transmogrify",
+   "Experiment",
+   "Improve",
+   "Recruiter",
+   "Seer",
+   "Silk Merchant"
+  ],
+  "landscapes": [
+   "Training",
+   "Piazza"
+  ]
+ },
+ {
+  "name": "Once Upon a Time",
+  "source": "renaissance",
+  "sets": [
+   "adventures",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Distant Lands",
+   "Duplicate",
+   "Haunted Woods",
+   "Royal Carriage",
+   "Storyteller",
+   "Acting Troupe",
+   "Lackeys",
+   "Priest",
+   "Sculptor",
+   "Spices"
+  ],
+  "landscapes": [
+   "Ferry",
+   "Innovation"
+  ]
+ },
+ {
+  "name": "Exploring the City",
+  "source": "renaissance",
+  "sets": [
+   "empires",
+   "renaissance"
+  ],
+  "kingdom": [
+   "City Quarter",
+   "Farmers' Market",
+   "Groundskeeper",
+   "Sacrifice",
+   "Wild Hunt",
+   "Cargo Ship",
+   "Experiment",
+   "Mountain Village",
+   "Priest",
+   "Sculptor"
+  ],
+  "landscapes": [
+   "Battlefield",
+   "Exploration"
+  ]
+ },
+ {
+  "name": "Navigating the Sewers",
+  "source": "renaissance",
+  "sets": [
+   "empires",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Chariot Race",
+   "Enchantress",
+   "Gladiator - Fortune",
+   "Patrician - Emporium",
+   "Villa",
+   "Acting Troupe",
+   "Flag Bearer",
+   "Improve",
+   "Old Witch",
+   "Scepter"
+  ],
+  "landscapes": [
+   "Ritual",
+   "Sewers"
+  ]
+ },
+ {
+  "name": "Becoming a Monster",
+  "source": "renaissance",
+  "sets": [
+   "nocturne",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Devil's Workshop",
+   "Monastery",
+   "Shepherd",
+   "Skulk",
+   "Tragic Hero",
+   "Experiment",
+   "Mountain Village",
+   "Old Witch",
+   "Research",
+   "Spices"
+  ],
+  "landscapes": [
+   "Exploration"
+  ]
+ },
+ {
+  "name": "True Believers",
+  "source": "renaissance",
+  "sets": [
+   "nocturne",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Crypt",
+   "Faithful Hound",
+   "Sacred Grove",
+   "Secret Cave",
+   "Border Guard",
+   "Cargo Ship",
+   "Scholar",
+   "Sculptor",
+   "Villain"
+  ],
+  "landscapes": [
+   "Cathedral",
+   "Piazza"
+  ]
+ },
+ {
+  "name": "Intro to Horses",
+  "source": "menagerie",
+  "sets": [
+   "menagerie"
+  ],
+  "kingdom": [
+   "Animal Fair",
+   "Barge",
+   "Destrier",
+   "Goatherd",
+   "Hostelry",
+   "Livery",
+   "Paddock",
+   "Scrap",
+   "Sheepdog",
+   "Supplies"
+  ],
+  "landscapes": [
+   "Enhance",
+   "Way of the Sheep"
+  ]
+ },
+ {
+  "name": "Intro to Exile",
+  "source": "menagerie",
+  "sets": [
+   "menagerie"
+  ],
+  "kingdom": [
+   "Black Cat",
+   "Bounty Hunter",
+   "Camel Train",
+   "Cardinal",
+   "Falconer",
+   "Mastermind",
+   "Sanctuary",
+   "Snowy Village",
+   "Stockpile",
+   "Wayfarer"
+  ],
+  "landscapes": [
+   "March",
+   "Way of the Worm"
+  ]
+ },
+ {
+  "name": "Pony Express",
+  "source": "menagerie",
+  "sets": [
+   "dominion2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Cellar",
+   "Market",
+   "Mine",
+   "Village",
+   "Barge",
+   "Destrier",
+   "Paddock",
+   "Stockpile",
+   "Supplies"
+  ],
+  "landscapes": [
+   "Stampede",
+   "Way of the Seal"
+  ]
+ },
+ {
+  "name": "Garden of Cats",
+  "source": "menagerie",
+  "sets": [
+   "dominion2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Bandit",
+   "Gardens",
+   "Harbinger",
+   "Merchant",
+   "Moat",
+   "Black Cat",
+   "Displace",
+   "Sanctuary",
+   "Scrap",
+   "Snowy Village"
+  ],
+  "landscapes": [
+   "Toil",
+   "Way of the Mole"
+  ]
+ },
+ {
+  "name": "Dog & Pony Show",
+  "source": "menagerie",
+  "sets": [
+   "intrigue2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Mill",
+   "Nobles",
+   "Pawn",
+   "Torturer",
+   "Upgrade",
+   "Camel Train",
+   "Cavalry",
+   "Goatherd",
+   "Paddock",
+   "Sheepdog"
+  ],
+  "landscapes": [
+   "Commerce",
+   "Way of the Horse"
+  ]
+ },
+ {
+  "name": "Explosions",
+  "source": "menagerie",
+  "sets": [
+   "intrigue2ndEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Courtyard",
+   "Diplomat",
+   "Lurker",
+   "Replace",
+   "Wishing Well",
+   "Animal Fair",
+   "Bounty Hunter",
+   "Coven",
+   "Hunting Lodge",
+   "Scrap"
+  ],
+  "landscapes": [
+   "Populate",
+   "Way of the Squirrel"
+  ]
+ },
+ {
+  "name": "Innsmouth",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Animal Fair",
+   "Barge",
+   "Coven",
+   "Fisherman",
+   "Sheepdog",
+   "Caravan",
+   "Explorer",
+   "Fishing Village",
+   "Haven",
+   "Treasure Map"
+  ],
+  "landscapes": [
+   "Invest",
+   "Way of the Goat"
+  ]
+ },
+ {
+  "name": "Ruritania",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Bounty Hunter",
+   "Cavalry",
+   "Falconer",
+   "Sleigh",
+   "Village Green",
+   "Lookout",
+   "Outpost",
+   "Smugglers",
+   "Tactician",
+   "Warehouse"
+  ],
+  "landscapes": [
+   "Alliance",
+   "Way of the Monkey"
+  ]
+ },
+ {
+  "name": "Class of '20",
+  "source": "menagerie",
+  "sets": [
+   "alchemy",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Transmute",
+   "University",
+   "Vineyard",
+   "Cavalry",
+   "Coven",
+   "Hunting Lodge",
+   "Kiln",
+   "Livery",
+   "Snowy Village",
+   "Wayfarer"
+  ],
+  "landscapes": [
+   "Delay",
+   "Way of the Owl"
+  ]
+ },
+ {
+  "name": "Limited Time Offer",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Destrier",
+   "Displace",
+   "Fisherman",
+   "Supplies",
+   "Wayfarer",
+   "Grand Market",
+   "Mint",
+   "Peddler",
+   "Talisman",
+   "Worker's Village"
+  ],
+  "landscapes": [
+   "Desperation",
+   "Way of the Frog"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Birth of a Nation",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Animal Fair",
+   "Camel Train",
+   "Mastermind",
+   "Paddock",
+   "Stockpile",
+   "City",
+   "Monument",
+   "Quarry",
+   "Rabble",
+   "Trade Route"
+  ],
+  "landscapes": [
+   "Reap",
+   "Way of the Otter"
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Living in Exile",
+  "source": "menagerie",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Hamlet",
+   "Jester",
+   "Journeyman",
+   "Taxman",
+   "Gatekeeper",
+   "Hostelry",
+   "Livery",
+   "Scrap",
+   "Stockpile"
+  ],
+  "landscapes": [
+   "Enclave",
+   "Way of the Mule"
+  ]
+ },
+ {
+  "name": "Thrill of the Hunt",
+  "source": "menagerie",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Horse Traders",
+   "Hunting Party",
+   "Menagerie",
+   "Tournament",
+   "Butcher",
+   "Black Cat",
+   "Bounty Hunter",
+   "Camel Train",
+   "Mastermind",
+   "Village Green"
+  ],
+  "landscapes": [
+   "Pursue",
+   "Way of the Rat"
+  ]
+ },
+ {
+  "name": "Big Blue",
+  "source": "menagerie",
+  "sets": [
+   "hinterlands1stEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Cartographer",
+   "Fool's Gold",
+   "Margrave",
+   "Trader",
+   "Tunnel",
+   "Black Cat",
+   "Falconer",
+   "Sheepdog",
+   "Sleigh",
+   "Village Green"
+  ],
+  "landscapes": [
+   "Banish",
+   "Way of the Turtle"
+  ]
+ },
+ {
+  "name": "Intersection",
+  "source": "menagerie",
+  "sets": [
+   "hinterlands1stEdition",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Develop",
+   "Farmland",
+   "Haggler",
+   "Nomad Camp",
+   "Stables",
+   "Cardinal",
+   "Hostelry",
+   "Livery",
+   "Mastermind",
+   "Supplies"
+  ],
+  "landscapes": [
+   "Gamble",
+   "Way of the Mouse"
+  ],
+  "mouse": "Crossroads"
+ },
+ {
+  "name": "Friendly Carnage",
+  "source": "menagerie",
+  "sets": [
+   "darkAges",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Altar",
+   "Beggar",
+   "Catacombs",
+   "Fortress",
+   "Market Square",
+   "Animal Fair",
+   "Cardinal",
+   "Falconer",
+   "Goatherd",
+   "Hunting Lodge"
+  ],
+  "landscapes": [
+   "Ride",
+   "Way of the Camel"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Gift Horses",
+  "source": "menagerie",
+  "sets": [
+   "darkAges",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Hunting Grounds",
+   "Pillage",
+   "Rats",
+   "Sage",
+   "Squire",
+   "Camel Train",
+   "Destrier",
+   "Displace",
+   "Paddock",
+   "Scrap"
+  ],
+  "landscapes": [
+   "Bargain",
+   "Way of the Butterfly"
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Horse Feathers",
+  "source": "menagerie",
+  "sets": [
+   "adventures",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Magpie",
+   "Ranger",
+   "Ratcatcher",
+   "Relic",
+   "Royal Carriage",
+   "Destrier",
+   "Displace",
+   "Falconer",
+   "Sleigh",
+   "Stockpile"
+  ],
+  "landscapes": [
+   "Pilgrimage",
+   "Way of the Ox"
+  ]
+ },
+ {
+  "name": "Sooner or Later",
+  "source": "menagerie",
+  "sets": [
+   "adventures",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Caravan Guard",
+   "Dungeon",
+   "Giant",
+   "Raze",
+   "Barge",
+   "Gatekeeper",
+   "Groom",
+   "Mastermind",
+   "Village Green"
+  ],
+  "landscapes": [
+   "Mission",
+   "Toil"
+  ]
+ },
+ {
+  "name": "No Money Down",
+  "source": "menagerie",
+  "sets": [
+   "empires",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Catapult - Rocks",
+   "City Quarter",
+   "Crown",
+   "Engineer",
+   "Villa",
+   "Animal Fair",
+   "Cavalry",
+   "Sleigh",
+   "Stockpile",
+   "Wayfarer"
+  ],
+  "landscapes": [
+   "Advance",
+   "Way of the Pig"
+  ]
+ },
+ {
+  "name": "Detours and Shortcuts",
+  "source": "menagerie",
+  "sets": [
+   "empires",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Enchantress",
+   "Overlord",
+   "Sacrifice",
+   "Settlers - Bustling Village",
+   "Wild Hunt",
+   "Camel Train",
+   "Fisherman",
+   "Gatekeeper",
+   "Sanctuary",
+   "Snowy Village"
+  ],
+  "landscapes": [
+   "Transport",
+   "Triumphal Arch"
+  ]
+ },
+ {
+  "name": "Seize the Night",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Barge",
+   "Falconer",
+   "Hostelry",
+   "Sheepdog",
+   "Supplies",
+   "Cobbler",
+   "Devil's Workshop",
+   "Exorcist",
+   "Monastery",
+   "Skulk"
+  ],
+  "landscapes": [
+   "Seize the Day",
+   "Way of the Sheep"
+  ]
+ },
+ {
+  "name": "Animal Crackers",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Black Cat",
+   "Goatherd",
+   "Groom",
+   "Hunting Lodge",
+   "Kiln",
+   "Faithful Hound",
+   "Pixie",
+   "Pooka",
+   "Sacred Grove",
+   "Shepherd"
+  ],
+  "landscapes": [
+   "Enhance",
+   "Way of the Chameleon"
+  ]
+ },
+ {
+  "name": "Biding Time",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Cavalry",
+   "Coven",
+   "Displace",
+   "Fisherman",
+   "Goatherd",
+   "Ducat",
+   "Priest",
+   "Recruiter",
+   "Scepter",
+   "Swashbuckler"
+  ],
+  "landscapes": [
+   "Sinister Plot",
+   "Way of the Turtle"
+  ]
+ },
+ {
+  "name": "Villager Madness",
+  "source": "menagerie",
+  "sets": [
+   "menagerie",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Cardinal",
+   "Groom",
+   "Kiln",
+   "Livery",
+   "Wayfarer",
+   "Border Guard",
+   "Flag Bearer",
+   "Patron",
+   "Silk Merchant",
+   "Spices"
+  ],
+  "landscapes": [
+   "Demand",
+   "Academy"
+  ]
+ },
+ {
+  "name": "Decisions, Decisions",
+  "source": "allies",
+  "sets": [
+   "allies"
+  ],
+  "kingdom": [
+   "Townsfolk",
+   "Royal Galley",
+   "Modify",
+   "Merchant Camp",
+   "Marquis",
+   "Innkeeper",
+   "Hunter",
+   "Highwayman",
+   "Courier",
+   "Bauble"
+  ],
+  "landscapes": [],
+  "ally": "City-state"
+ },
+ {
+  "name": "Foresight",
+  "source": "allies",
+  "sets": [
+   "allies"
+  ],
+  "kingdom": [
+   "Underling",
+   "Town",
+   "Specialist",
+   "Skirmisher",
+   "Sentinel",
+   "Galleria",
+   "Emissary",
+   "Carpenter",
+   "Barbarian",
+   "Augurs"
+  ],
+  "landscapes": [],
+  "ally": "Order of Astrologers"
+ },
+ {
+  "name": "Allies for Beginners",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Vassal",
+   "Remodel",
+   "Market",
+   "Harbinger",
+   "Gardens",
+   "Sycophant",
+   "Odysseys",
+   "Galleria",
+   "Capital City",
+   "Broker"
+  ],
+  "landscapes": [],
+  "ally": "Crafters' Guild"
+ },
+ {
+  "name": "Warring Shopkeepers",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "dominion2ndEdition"
+  ],
+  "kingdom": [
+   "Moneylender",
+   "Moat",
+   "Merchant",
+   "Laboratory",
+   "Bandit",
+   "Town",
+   "Royal Galley",
+   "Guildmaster",
+   "Emissary",
+   "Clashes"
+  ],
+  "landscapes": [],
+  "ally": "League of Shopkeepers"
+ },
+ {
+  "name": "Dark Dealings",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Steward",
+   "Secret Passage",
+   "Nobles",
+   "Lurker",
+   "Courtier",
+   "Townsfolk",
+   "Hunter",
+   "Courier",
+   "Contract",
+   "Broker"
+  ],
+  "landscapes": [],
+  "ally": "Circle of Witches"
+ },
+ {
+  "name": "Pawns and Underlings",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "intrigue2ndEdition"
+  ],
+  "kingdom": [
+   "Replace",
+   "Pawn",
+   "Patrol",
+   "Conspirator",
+   "Baron",
+   "Wizards",
+   "Underling",
+   "Swap",
+   "Merchant Camp",
+   "Innkeeper"
+  ],
+  "landscapes": [],
+  "ally": "Plateau Shepherds"
+ },
+ {
+  "name": "Forward Thinking",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Warehouse",
+   "Tactician",
+   "Smugglers",
+   "Native Village",
+   "Cutpurse",
+   "Sentinel",
+   "Royal Galley",
+   "Odysseys",
+   "Highwayman",
+   "Guildmaster"
+  ],
+  "landscapes": [],
+  "ally": "Cave Dwellers"
+ },
+ {
+  "name": "Treasure Hunt",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "seaside1stEdition"
+  ],
+  "kingdom": [
+   "Treasury",
+   "Treasure Map",
+   "Outpost",
+   "Lookout",
+   "Haven",
+   "Town",
+   "Swap",
+   "Marquis",
+   "Forts",
+   "Emissary"
+  ],
+  "landscapes": [],
+  "ally": "Market Towns"
+ },
+ {
+  "name": "Recursion",
+  "source": "allies",
+  "sets": [
+   "alchemy",
+   "allies"
+  ],
+  "kingdom": [
+   "Wizards",
+   "Modify",
+   "Merchant Camp",
+   "Importer",
+   "Galleria",
+   "Barbarian",
+   "Scrying Pool",
+   "Golem",
+   "Apprentice",
+   "Alchemist"
+  ],
+  "landscapes": [],
+  "ally": "Coastal Haven"
+ },
+ {
+  "name": "Inventing Mania",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Talisman",
+   "Rabble",
+   "Quarry",
+   "King's Court",
+   "Expand",
+   "Importer",
+   "Carpenter",
+   "Capital City",
+   "Bauble",
+   "Augurs"
+  ],
+  "landscapes": [],
+  "ally": "Family of Inventors"
+ },
+ {
+  "name": "Bank of Toadies",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "prosperity1stEdition"
+  ],
+  "kingdom": [
+   "Vault",
+   "Trade Route",
+   "Mint",
+   "City",
+   "Bank",
+   "Town",
+   "Sycophant",
+   "Odysseys",
+   "Marquis",
+   "Broker"
+  ],
+  "landscapes": [],
+  "ally": "League of Bankers"
+ },
+ {
+  "name": "Huge Collections",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "cornucopia1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Plaza",
+   "Advisor",
+   "Menagerie",
+   "Hunting Party",
+   "Fairgrounds",
+   "Sentinel",
+   "Galleria",
+   "Forts",
+   "Contract",
+   "Clashes"
+  ],
+  "landscapes": [],
+  "ally": "Woodworkers' Guild"
+ },
+ {
+  "name": "Forest Scouts",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "cornucopia1stEdition",
+   "guilds1stEdition"
+  ],
+  "kingdom": [
+   "Journeyman",
+   "Candlestick Maker",
+   "Baker",
+   "Jester",
+   "Farming Village",
+   "Sentinel",
+   "Royal Galley",
+   "Innkeeper",
+   "Emissary",
+   "Augurs"
+  ],
+  "landscapes": [],
+  "ally": "Forest Dwellers"
+ },
+ {
+  "name": "Longest Tunnel",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Tunnel",
+   "Margrave",
+   "Jack of All Trades",
+   "Haggler",
+   "Farmland",
+   "Innkeeper",
+   "Contract",
+   "Carpenter",
+   "Capital City",
+   "Bauble"
+  ],
+  "landscapes": [],
+  "ally": "Fellowship of Scribes"
+ },
+ {
+  "name": "Expertise",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "hinterlands1stEdition"
+  ],
+  "kingdom": [
+   "Spice Merchant",
+   "Inn",
+   "Highway",
+   "Crossroads",
+   "Border Village",
+   "Underling",
+   "Townsfolk",
+   "Specialist",
+   "Highwayman",
+   "Barbarian"
+  ],
+  "landscapes": [],
+  "ally": "Order of Masons"
+ },
+ {
+  "name": "Grave Matters",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Poor House",
+   "Graverobber",
+   "Forager",
+   "Beggar",
+   "Bandit Camp",
+   "Wizards",
+   "Highwayman",
+   "Contract",
+   "Broker",
+   "Barbarian"
+  ],
+  "landscapes": [],
+  "ally": "Cave Dwellers"
+ },
+ {
+  "name": "Rat Traders",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Squire",
+   "Rats",
+   "Knights",
+   "Death Cart",
+   "Count",
+   "Townsfolk",
+   "Swap",
+   "Skirmisher",
+   "Importer",
+   "Emissary"
+  ],
+  "landscapes": [],
+  "ally": "Desert Guides"
+ },
+ {
+  "name": "Adventures in Pickpocketing",
+  "source": "allies",
+  "sets": [
+   "adventures",
+   "allies"
+  ],
+  "kingdom": [
+   "Specialist",
+   "Modify",
+   "Innkeeper",
+   "Bauble",
+   "Augurs",
+   "Treasure Trove",
+   "Miser",
+   "Lost City",
+   "Duplicate",
+   "Artificer"
+  ],
+  "landscapes": [
+   "Mission"
+  ],
+  "ally": "Gang of Pickpockets"
+ },
+ {
+  "name": "Future Perfect",
+  "source": "allies",
+  "sets": [
+   "adventures",
+   "allies"
+  ],
+  "kingdom": [
+   "Sycophant",
+   "Skirmisher",
+   "Sentinel",
+   "Marquis",
+   "Forts",
+   "Transmogrify",
+   "Port",
+   "Haunted Woods",
+   "Gear",
+   "Caravan Guard"
+  ],
+  "landscapes": [
+   "Seaway"
+  ],
+  "ally": "Market Towns"
+ },
+ {
+  "name": "Island Empire",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "empires"
+  ],
+  "kingdom": [
+   "Wild Hunt",
+   "Settlers - Bustling Village",
+   "Farmers' Market",
+   "Enchantress",
+   "City Quarter",
+   "Sycophant",
+   "Swap",
+   "Specialist",
+   "Forts",
+   "Contract"
+  ],
+  "landscapes": [
+   "Orchard"
+  ],
+  "ally": "Island Folk"
+ },
+ {
+  "name": "Castle Wars",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "empires"
+  ],
+  "kingdom": [
+   "Patrician - Emporium",
+   "Crown",
+   "Charm",
+   "Catapult - Rocks",
+   "Castles",
+   "Importer",
+   "Hunter",
+   "Clashes",
+   "Carpenter",
+   "Capital City"
+  ],
+  "landscapes": [
+   "Triumph"
+  ],
+  "ally": "Trappers' Lodge"
+ },
+ {
+  "name": "Love and Death",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Necromancer",
+   "Idol",
+   "Faithful Hound",
+   "Den of Sin",
+   "Conclave",
+   "Sycophant",
+   "Hunter",
+   "Carpenter",
+   "Bauble",
+   "Augurs"
+  ],
+  "landscapes": [],
+  "ally": "Peaceful Cult"
+ },
+ {
+  "name": "Play It Again, Sam",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "nocturne"
+  ],
+  "kingdom": [
+   "Tracker",
+   "Tormentor",
+   "Skulk",
+   "Leprechaun",
+   "Blessed Village",
+   "Wizards",
+   "Swap",
+   "Royal Galley",
+   "Hunter",
+   "Courier"
+  ],
+  "landscapes": [],
+  "ally": "Woodworkers' Guild"
+ },
+ {
+  "name": "Production Line",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Treasurer",
+   "Spices",
+   "Patron",
+   "Mountain Village",
+   "Experiment",
+   "Wizards",
+   "Townsfolk",
+   "Modify",
+   "Importer",
+   "Courier"
+  ],
+  "landscapes": [
+   "Exploration"
+  ],
+  "ally": "Band of Nomads"
+ },
+ {
+  "name": "Age of Scribes",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Villain",
+   "Research",
+   "Old Witch",
+   "Inventor",
+   "Acting Troupe",
+   "Underling",
+   "Specialist",
+   "Odysseys",
+   "Galleria",
+   "Capital City"
+  ],
+  "landscapes": [
+   "Sinister Plot"
+  ],
+  "ally": "Fellowship of Scribes"
+ },
+ {
+  "name": "Wise Owls",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Hunting Lodge",
+   "Hostelry",
+   "Bounty Hunter",
+   "Black Cat",
+   "Animal Fair",
+   "Wizards",
+   "Town",
+   "Merchant Camp",
+   "Marquis",
+   "Barbarian"
+  ],
+  "landscapes": [
+   "Way of the Owl"
+  ],
+  "ally": "Architects' Guild"
+ },
+ {
+  "name": "Mountain Kings",
+  "source": "allies",
+  "sets": [
+   "allies",
+   "menagerie"
+  ],
+  "kingdom": [
+   "Supplies",
+   "Snowy Village",
+   "Scrap",
+   "Coven",
+   "Barge",
+   "Skirmisher",
+   "Guildmaster",
+   "Forts",
+   "Courier",
+   "Broker"
+  ],
+  "landscapes": [
+   "Toil"
+  ],
+  "ally": "Mountain Folk"
+ },
+ {
+  "name": "Flotsam",
+  "source": "plunder",
+  "sets": [
+   "plunder"
+  ],
+  "kingdom": [
+   "Abundance",
+   "Crucible",
+   "First Mate",
+   "Fortune Hunter",
+   "Jewelled Egg",
+   "Landing Party",
+   "Mining Road",
+   "Secluded Shrine",
+   "Silver Mine",
+   "Wealthy Village"
+  ],
+  "landscapes": [
+   "Hasty"
+  ],
+  "traits": [
+   {
+    "trait": "Hasty",
+    "pile": "First Mate"
+   }
+  ]
+ },
+ {
+  "name": "Jetsam",
+  "source": "plunder",
+  "sets": [
+   "plunder"
+  ],
+  "kingdom": [
+   "Crew",
+   "Cutthroat",
+   "Gondola",
+   "Grotto",
+   "Longship",
+   "Pickaxe",
+   "Quartermaster",
+   "Search",
+   "Siren",
+   "Stowaway"
+  ],
+  "landscapes": [
+   "Prepare",
+   "Pious"
+  ],
+  "traits": [
+   {
+    "trait": "Pious",
+    "pile": "Siren"
+   }
+  ]
+ },
+ {
+  "name": "Basic Looting",
+  "source": "plunder",
+  "sets": [
+   "dominion2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Cellar",
+   "Market",
+   "Mine",
+   "Moat",
+   "Vassal",
+   "Frigate",
+   "Harbor Village",
+   "Maroon",
+   "Pilgrim",
+   "Sack of Loot"
+  ],
+  "landscapes": [
+   "Tireless"
+  ],
+  "traits": [
+   {
+    "trait": "Tireless",
+    "pile": "Harbor Village"
+   }
+  ]
+ },
+ {
+  "name": "Voodoo",
+  "source": "plunder",
+  "sets": [
+   "dominion2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Artisan",
+   "Bureaucrat",
+   "Festival",
+   "Moneylender",
+   "Remodel",
+   "Buried Treasure",
+   "First Mate",
+   "Flagship",
+   "Gondola",
+   "Shaman"
+  ],
+  "landscapes": [
+   "Maelstrom",
+   "Cursed"
+  ],
+  "traits": [
+   {
+    "trait": "Cursed",
+    "pile": "Festival"
+   }
+  ]
+ },
+ {
+  "name": "Breaking Eggs",
+  "source": "plunder",
+  "sets": [
+   "intrigue2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Courtier",
+   "Harem",
+   "Mining Village",
+   "Nobles",
+   "Replace",
+   "Buried Treasure",
+   "Jewelled Egg",
+   "Mapmaker",
+   "Maroon",
+   "Quartermaster"
+  ],
+  "landscapes": [
+   "Reckless"
+  ],
+  "traits": [
+   {
+    "trait": "Reckless",
+    "pile": "Maroon"
+   }
+  ]
+ },
+ {
+  "name": "Landlubbers",
+  "source": "plunder",
+  "sets": [
+   "intrigue2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Mill",
+   "Pawn",
+   "Secret Passage",
+   "Wishing Well",
+   "Cutthroat",
+   "Fortune Hunter",
+   "Pendant",
+   "Pilgrim",
+   "Wealthy Village"
+  ],
+  "landscapes": [
+   "Avoid",
+   "Friendly"
+  ],
+  "traits": [
+   {
+    "trait": "Friendly",
+    "pile": "Conspirator"
+   }
+  ]
+ },
+ {
+  "name": "Wine-dark Seas",
+  "source": "plunder",
+  "sets": [
+   "plunder",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Cabin Boy",
+   "Cage",
+   "Enlarge",
+   "Frigate",
+   "Rope",
+   "Astrolabe",
+   "Caravan",
+   "Fishing Village",
+   "Sailor",
+   "Sea Witch"
+  ],
+  "landscapes": [
+   "Cheap"
+  ],
+  "traits": [
+   {
+    "trait": "Cheap",
+    "pile": "Frigate"
+   }
+  ]
+ },
+ {
+  "name": "Treasure Island",
+  "source": "plunder",
+  "sets": [
+   "plunder",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Abundance",
+   "Buried Treasure",
+   "Crew",
+   "Longship",
+   "Stowaway",
+   "Corsair",
+   "Island",
+   "Lookout",
+   "Sea Chart",
+   "Treasure Map"
+  ],
+  "landscapes": [
+   "Launch",
+   "Inherited"
+  ],
+  "traits": [
+   {
+    "trait": "Inherited",
+    "pile": "Treasure Map"
+   }
+  ]
+ },
+ {
+  "name": "Special Delivery",
+  "source": "plunder",
+  "sets": [
+   "alchemy",
+   "plunder"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Apothecary",
+   "Golem",
+   "Transmute",
+   "Flagship",
+   "Jewelled Egg",
+   "Mining Road",
+   "Swamp Shacks",
+   "Tools",
+   "Trickster"
+  ],
+  "landscapes": [
+   "Deliver",
+   "Cursed"
+  ],
+  "traits": [
+   {
+    "trait": "Cursed",
+    "pile": "Golem"
+   }
+  ]
+ },
+ {
+  "name": "Pretty Trinkets",
+  "source": "plunder",
+  "sets": [
+   "plunder",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Figurine",
+   "Jewelled Egg",
+   "King's Cache",
+   "Rope",
+   "Silver Mine",
+   "Bank",
+   "Crystal Ball",
+   "Investment",
+   "Tiara",
+   "War Chest"
+  ],
+  "landscapes": [
+   "Fated"
+  ],
+  "traits": [
+   {
+    "trait": "Fated",
+    "pile": "Rope"
+   }
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Buying Happiness",
+  "source": "plunder",
+  "sets": [
+   "plunder",
+   "prosperity2ndEdition"
+  ],
+  "kingdom": [
+   "Cage",
+   "Mining Road",
+   "Pendant",
+   "Stowaway",
+   "Swamp Shacks",
+   "Anvil",
+   "Bishop",
+   "Clerk",
+   "Magnate",
+   "Worker's Village"
+  ],
+  "landscapes": [
+   "Looting",
+   "Fawning"
+  ],
+  "traits": [
+   {
+    "trait": "Fawning",
+    "pile": "Magnate"
+   }
+  ],
+  "colonies": true
+ },
+ {
+  "name": "Of Heralds and Hunters",
+  "source": "plunder",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Fairgrounds",
+   "Doctor",
+   "Herald",
+   "Soothsayer",
+   "Stonemason",
+   "Cabin Boy",
+   "Flagship",
+   "Fortune Hunter",
+   "Pendant",
+   "Pickaxe"
+  ],
+  "landscapes": [
+   "Inspiring"
+  ],
+  "traits": [
+   {
+    "trait": "Inspiring",
+    "pile": "Fortune Hunter"
+   }
+  ]
+ },
+ {
+  "name": "Through the Swamp",
+  "source": "plunder",
+  "sets": [
+   "cornucopia1stEdition",
+   "guilds1stEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Hamlet",
+   "Horn of Plenty",
+   "Menagerie",
+   "Baker",
+   "Merchant Guild",
+   "Cage",
+   "Pilgrim",
+   "Swamp Shacks",
+   "Taskmaster",
+   "Tools"
+  ],
+  "landscapes": [
+   "Journey",
+   "Patient"
+  ],
+  "traits": [
+   {
+    "trait": "Patient",
+    "pile": "Pilgrim"
+   }
+  ]
+ },
+ {
+  "name": "Desert Dreams",
+  "source": "plunder",
+  "sets": [
+   "hinterlands2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Haggler",
+   "Nomads",
+   "Oasis",
+   "Souk",
+   "Weaver",
+   "Enlarge",
+   "Grotto",
+   "Harbor Village",
+   "Mapmaker",
+   "Pendant"
+  ],
+  "landscapes": [
+   "Reckless"
+  ],
+  "traits": [
+   {
+    "trait": "Reckless",
+    "pile": "Nomads"
+   }
+  ]
+ },
+ {
+  "name": "Viking Schemes",
+  "source": "plunder",
+  "sets": [
+   "hinterlands2ndEdition",
+   "plunder"
+  ],
+  "kingdom": [
+   "Berserker",
+   "Cauldron",
+   "Fool's Gold",
+   "Scheme",
+   "Stables",
+   "Cabin Boy",
+   "Crew",
+   "Crucible",
+   "Frigate",
+   "Wealthy Village"
+  ],
+  "landscapes": [
+   "Scrounge",
+   "Rich"
+  ],
+  "traits": [
+   {
+    "trait": "Rich",
+    "pile": "Berserker"
+   }
+  ]
+ },
+ {
+  "name": "Dad's Rats",
+  "source": "plunder",
+  "sets": [
+   "darkAges",
+   "plunder"
+  ],
+  "kingdom": [
+   "Death Cart",
+   "Poor House",
+   "Rats",
+   "Squire",
+   "Vagrant",
+   "First Mate",
+   "Maroon",
+   "Rope",
+   "Search",
+   "Shaman"
+  ],
+  "landscapes": [
+   "Inherited"
+  ],
+  "traits": [
+   {
+    "trait": "Inherited",
+    "pile": "Rats"
+   }
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Ravagers",
+  "source": "plunder",
+  "sets": [
+   "darkAges",
+   "plunder"
+  ],
+  "kingdom": [
+   "Counterfeit",
+   "Forager",
+   "Ironmonger",
+   "Pillage",
+   "Storeroom",
+   "Cutthroat",
+   "Enlarge",
+   "Grotto",
+   "King's Cache",
+   "Trickster"
+  ],
+  "landscapes": [
+   "Invasion",
+   "Tireless"
+  ],
+  "traits": [
+   {
+    "trait": "Tireless",
+    "pile": "Forager"
+   }
+  ],
+  "shelters": true
+ },
+ {
+  "name": "Set Sail",
+  "source": "plunder",
+  "sets": [
+   "adventures",
+   "plunder"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Distant Lands",
+   "Port",
+   "Ratcatcher",
+   "Treasure Trove",
+   "Figurine",
+   "First Mate",
+   "Fortune Hunter",
+   "Mapmaker",
+   "Search"
+  ],
+  "landscapes": [
+   "Ferry",
+   "Patient"
+  ],
+  "traits": [
+   {
+    "trait": "Patient",
+    "pile": "Artificer"
+   }
+  ]
+ },
+ {
+  "name": "Rush Job",
+  "source": "plunder",
+  "sets": [
+   "adventures",
+   "plunder"
+  ],
+  "kingdom": [
+   "Coin of the Realm",
+   "Gear",
+   "Haunted Woods",
+   "Hireling",
+   "Wine Merchant",
+   "Quartermaster",
+   "Secluded Shrine",
+   "Stowaway",
+   "Swamp Shacks",
+   "Tools"
+  ],
+  "landscapes": [
+   "Rush",
+   "Shy"
+  ],
+  "traits": [
+   {
+    "trait": "Shy",
+    "pile": "Wine Merchant"
+   }
+  ]
+ },
+ {
+  "name": "City Builders",
+  "source": "plunder",
+  "sets": [
+   "empires",
+   "plunder"
+  ],
+  "kingdom": [
+   "City Quarter",
+   "Farmers' Market",
+   "Groundskeeper",
+   "Patrician - Emporium",
+   "Wild Hunt",
+   "Abundance",
+   "Crucible",
+   "Frigate",
+   "Taskmaster",
+   "Tools"
+  ],
+  "landscapes": [
+   "Museum",
+   "Nearby"
+  ],
+  "traits": [
+   {
+    "trait": "Nearby",
+    "pile": "Patrician - Emporium"
+   }
+  ]
+ },
+ {
+  "name": "Plenty",
+  "source": "plunder",
+  "sets": [
+   "empires",
+   "plunder"
+  ],
+  "kingdom": [
+   "Charm",
+   "Crown",
+   "Enchantress",
+   "Gladiator - Fortune",
+   "Sacrifice",
+   "Figurine",
+   "Landing Party",
+   "Mining Road",
+   "Rope",
+   "Wealthy Village"
+  ],
+  "landscapes": [
+   "Prosper",
+   "Friendly"
+  ],
+  "traits": [
+   {
+    "trait": "Friendly",
+    "pile": "Figurine"
+   }
+  ]
+ },
+ {
+  "name": "Night of the Loot",
+  "source": "plunder",
+  "sets": [
+   "nocturne",
+   "plunder"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Crypt",
+   "Faithful Hound",
+   "Tragic Hero",
+   "Werewolf",
+   "Cabin Boy",
+   "Figurine",
+   "Pendant",
+   "Sack of Loot",
+   "Taskmaster"
+  ],
+  "landscapes": [
+   "Pious"
+  ],
+  "traits": [
+   {
+    "trait": "Pious",
+    "pile": "Taskmaster"
+   }
+  ]
+ },
+ {
+  "name": "Skeleton Isle",
+  "source": "plunder",
+  "sets": [
+   "nocturne",
+   "plunder"
+  ],
+  "kingdom": [
+   "Devil's Workshop",
+   "Ghost Town",
+   "Idol",
+   "Skulk",
+   "Tracker",
+   "Cutthroat",
+   "King's Cache",
+   "Longship",
+   "Pilgrim",
+   "Secluded Shrine"
+  ],
+  "landscapes": [
+   "Foray",
+   "Hasty"
+  ],
+  "traits": [
+   {
+    "trait": "Hasty",
+    "pile": "Idol"
+   }
+  ]
+ },
+ {
+  "name": "Circle of Life",
+  "source": "plunder",
+  "sets": [
+   "plunder",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Frigate",
+   "Jewelled Egg",
+   "Pickaxe",
+   "Search",
+   "Shaman",
+   "Acting Troupe",
+   "Experiment",
+   "Patron",
+   "Scholar",
+   "Swashbuckler"
+  ],
+  "landscapes": [
+   "Citadel",
+   "Inspiring"
+  ],
+  "traits": [
+   {
+    "trait": "Inspiring",
+    "pile": "Scholar"
+   }
+  ]
+ },
+ {
+  "name": "Mirror Masters",
+  "source": "plunder",
+  "sets": [
+   "plunder",
+   "renaissance"
+  ],
+  "kingdom": [
+   "Crucible",
+   "Gondola",
+   "Quartermaster",
+   "Taskmaster",
+   "Trickster",
+   "Border Guard",
+   "Cargo Ship",
+   "Flag Bearer",
+   "Seer",
+   "Spices"
+  ],
+  "landscapes": [
+   "Mirror",
+   "Fated"
+  ],
+  "traits": [
+   {
+    "trait": "Fated",
+    "pile": "Spices"
+   }
+  ]
+ },
+ {
+  "name": "Going Home",
+  "source": "plunder",
+  "sets": [
+   "menagerie",
+   "plunder"
+  ],
+  "kingdom": [
+   "Barge",
+   "Gatekeeper",
+   "Kiln",
+   "Snowy Village",
+   "Supplies",
+   "Gondola",
+   "Landing Party",
+   "Mapmaker",
+   "Secluded Shrine",
+   "Silver Mine"
+  ],
+  "landscapes": [
+   "Way of the Squirrel",
+   "Cheap"
+  ],
+  "traits": [
+   {
+    "trait": "Cheap",
+    "pile": "Gatekeeper"
+   }
+  ]
+ },
+ {
+  "name": "Going Big",
+  "source": "plunder",
+  "sets": [
+   "menagerie",
+   "plunder"
+  ],
+  "kingdom": [
+   "Animal Fair",
+   "Camel Train",
+   "Mastermind",
+   "Sanctuary",
+   "Sheepdog",
+   "Enlarge",
+   "Grotto",
+   "Harbor Village",
+   "Sack of Loot",
+   "Siren"
+  ],
+  "landscapes": [
+   "Peril",
+   "Nearby"
+  ],
+  "traits": [
+   {
+    "trait": "Nearby",
+    "pile": "Animal Fair"
+   }
+  ]
+ },
+ {
+  "name": "Shipmates",
+  "source": "plunder",
+  "sets": [
+   "allies",
+   "plunder"
+  ],
+  "kingdom": [
+   "Broker",
+   "Forts",
+   "Innkeeper",
+   "Modify",
+   "Sycophant",
+   "Crew",
+   "Flagship",
+   "Harbor Village",
+   "Sack of Loot",
+   "Shaman"
+  ],
+  "landscapes": [
+   "Fawning"
+  ],
+  "traits": [
+   {
+    "trait": "Fawning",
+    "pile": "Sycophant"
+   }
+  ],
+  "ally": "Cave Dwellers"
+ },
+ {
+  "name": "Buried and Sunk",
+  "source": "plunder",
+  "sets": [
+   "allies",
+   "plunder"
+  ],
+  "kingdom": [
+   "Courier",
+   "Highwayman",
+   "Merchant Camp",
+   "Odysseys",
+   "Skirmisher",
+   "Abundance",
+   "Buried Treasure",
+   "King's Cache",
+   "Landing Party",
+   "Maroon"
+  ],
+  "landscapes": [
+   "Bury",
+   "Shy"
+  ],
+  "traits": [
+   {
+    "trait": "Shy",
+    "pile": "Merchant Camp"
+   }
+  ]
+ },
+ {
+  "name": "Heading East",
+  "source": "risingsun",
+  "sets": [
+   "risingSun"
+  ],
+  "kingdom": [
+   "Alley",
+   "Artist",
+   "Craftsman",
+   "Fishmonger",
+   "Litter",
+   "Rice",
+   "River Shrine",
+   "Rustic Village",
+   "Samurai",
+   "Tea House"
+  ],
+  "landscapes": [],
+  "prophecy": "Progress"
+ },
+ {
+  "name": "Dawn of an Era",
+  "source": "risingsun",
+  "sets": [
+   "risingSun"
+  ],
+  "kingdom": [
+   "Aristocrat",
+   "Change",
+   "Daimyo",
+   "Gold Mine",
+   "Imperial Envoy",
+   "Kitsune",
+   "Mountain Shrine",
+   "Ninja",
+   "Rice Broker",
+   "Ronin"
+  ],
+  "landscapes": [
+   "Practice"
+  ],
+  "prophecy": "Kind Emperor"
+ },
+ {
+  "name": "Spring Forward",
+  "source": "risingsun",
+  "sets": [
+   "dominion2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Smithy",
+   "Throne Room",
+   "Workshop",
+   "Artisan",
+   "Harbinger",
+   "Gold Mine",
+   "Mountain Shrine",
+   "Riverboat",
+   "Root Cellar",
+   "Tanuki"
+  ],
+  "landscapes": [],
+  "prophecy": "Rapid Expansion",
+  "riverboat": "Market"
+ },
+ {
+  "name": "Money to Burn",
+  "source": "risingsun",
+  "sets": [
+   "dominion2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Bureaucrat",
+   "Cellar",
+   "Festival",
+   "Merchant",
+   "Poacher",
+   "Change",
+   "Craftsman",
+   "Poet",
+   "Ronin",
+   "Snake Witch"
+  ],
+  "landscapes": [
+   "Gather"
+  ],
+  "prophecy": "Panic"
+ },
+ {
+  "name": "Solving the Puzzle",
+  "source": "risingsun",
+  "sets": [
+   "intrigue2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Ironworks",
+   "Wishing Well",
+   "Courtier",
+   "Lurker",
+   "Artist",
+   "Gold Mine",
+   "Mountain Shrine",
+   "Riverboat",
+   "Ronin"
+  ],
+  "landscapes": [],
+  "prophecy": "Enlightenment",
+  "riverboat": "Upgrade"
+ },
+ {
+  "name": "Cold Calculation",
+  "source": "risingsun",
+  "sets": [
+   "intrigue2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Baron",
+   "Duke",
+   "Shanty Town",
+   "Diplomat",
+   "Secret Passage",
+   "Craftsman",
+   "Ninja",
+   "Snake Witch",
+   "Tanuki",
+   "Tea House"
+  ],
+  "landscapes": [
+   "Amass"
+  ],
+  "prophecy": "Harsh Winter"
+ },
+ {
+  "name": "Invasion Fleet",
+  "source": "risingsun",
+  "sets": [
+   "risingSun",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Kitsune",
+   "Ninja",
+   "Rice Broker",
+   "Riverboat",
+   "Alley",
+   "Outpost",
+   "Salvager",
+   "Treasure Map",
+   "Blockade",
+   "Sea Chart"
+  ],
+  "landscapes": [],
+  "prophecy": "Approaching Army",
+  "riverboat": "Bazaar"
+ },
+ {
+  "name": "Island People",
+  "source": "risingsun",
+  "sets": [
+   "risingSun",
+   "seaside2ndEdition"
+  ],
+  "kingdom": [
+   "Craftsman",
+   "Imperial Envoy",
+   "Rice",
+   "River Shrine",
+   "Snake Witch",
+   "Caravan",
+   "Haven",
+   "Pirate",
+   "Sea Witch",
+   "Tide Pools"
+  ],
+  "landscapes": [
+   "Kintsugi"
+  ],
+  "prophecy": "Great Leader"
+ },
+ {
+  "name": "Fast Track",
+  "source": "risingsun",
+  "sets": [
+   "alchemy",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Alchemist",
+   "Golem",
+   "University",
+   "Vineyard",
+   "Fishmonger",
+   "Imperial Envoy",
+   "Riverboat",
+   "Root Cellar",
+   "Rustic Village",
+   "Samurai"
+  ],
+  "landscapes": [],
+  "prophecy": "Progress",
+  "riverboat": "Apprentice"
+ },
+ {
+  "name": "Lazy Mischief",
+  "source": "risingsun",
+  "sets": [
+   "alchemy",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Apothecary",
+   "Familiar",
+   "Herbalist",
+   "Transmute",
+   "Alley",
+   "Aristocrat",
+   "Change",
+   "Kitsune",
+   "Litter",
+   "Ninja"
+  ],
+  "landscapes": [
+   "Receive Tribute"
+  ],
+  "prophecy": "Biding Time"
+ },
+ {
+  "name": "River Trade",
+  "source": "risingsun",
+  "sets": [
+   "prosperity2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Grand Market",
+   "Anvil",
+   "Collection",
+   "Crystal Ball",
+   "War Chest",
+   "Craftsman",
+   "Litter",
+   "Riverboat",
+   "River Shrine",
+   "Root Cellar"
+  ],
+  "landscapes": [],
+  "prophecy": "Flourishing Trade",
+  "riverboat": "City",
+  "colonies": true
+ },
+ {
+  "name": "Autumn Harvest",
+  "source": "risingsun",
+  "sets": [
+   "prosperity2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Bank",
+   "Quarry",
+   "Watchtower",
+   "Investment",
+   "Magnate",
+   "Aristocrat",
+   "Change",
+   "Imperial Envoy",
+   "Ninja",
+   "Rustic Village"
+  ],
+  "landscapes": [
+   "Continue"
+  ],
+  "prophecy": "Good Harvest",
+  "colonies": true
+ },
+ {
+  "name": "Winter Solstice",
+  "source": "risingsun",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Hunting Party",
+   "Jester",
+   "Advisor",
+   "Baker",
+   "Farrier",
+   "Change",
+   "Daimyo",
+   "Gold Mine",
+   "Snake Witch",
+   "Tea House"
+  ],
+  "landscapes": [],
+  "prophecy": "Harsh Winter"
+ },
+ {
+  "name": "From the Shadows",
+  "source": "risingsun",
+  "sets": [
+   "cornucopiaAndGuilds2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Horn of Plenty",
+   "Carnival",
+   "Farmhands",
+   "Infirmary",
+   "Shop",
+   "Alley",
+   "Artist",
+   "Fishmonger",
+   "Poet",
+   "Tanuki"
+  ],
+  "landscapes": [
+   "Gather"
+  ],
+  "prophecy": "Rapid Expansion"
+ },
+ {
+  "name": "Swift Hands",
+  "source": "risingsun",
+  "sets": [
+   "hinterlands2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Haggler",
+   "Oasis",
+   "Scheme",
+   "Cauldron",
+   "Weaver",
+   "Alley",
+   "Ronin",
+   "Rustic Village",
+   "Samurai",
+   "Snake Witch"
+  ],
+  "landscapes": [],
+  "prophecy": "Progress"
+ },
+ {
+  "name": "aperwork",
+  "source": "risingsun",
+  "sets": [
+   "hinterlands2ndEdition",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Border Village",
+   "Crossroads",
+   "Spice Merchant",
+   "Tunnel",
+   "Wheelwright",
+   "Craftsman",
+   "Imperial Envoy",
+   "Riverboat",
+   "River Shrine",
+   "Tanuki"
+  ],
+  "landscapes": [
+   "Foresight"
+  ],
+  "prophecy": "Bureaucracy",
+  "riverboat": "Witch's Hut"
+ },
+ {
+  "name": "Pandemic",
+  "source": "risingsun",
+  "sets": [
+   "darkAges",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Catacombs",
+   "Procession",
+   "Rogue",
+   "Scavenger",
+   "Vagrant",
+   "Aristocrat",
+   "Fishmonger",
+   "Litter",
+   "Mountain Shrine",
+   "Rice Broker"
+  ],
+  "landscapes": [],
+  "prophecy": "Sickness",
+  "shelters": true
+ },
+ {
+  "name": "Distant Hordes",
+  "source": "risingsun",
+  "sets": [
+   "darkAges",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Armory",
+   "Forager",
+   "Hermit",
+   "Hunting Grounds",
+   "Squire",
+   "Poet",
+   "Rice",
+   "Ronin",
+   "Samurai",
+   "Snake Witch"
+  ],
+  "landscapes": [
+   "Asceticism"
+  ],
+  "prophecy": "Approaching Army",
+  "shelters": true
+ },
+ {
+  "name": "Wanderers",
+  "source": "risingsun",
+  "sets": [
+   "adventures",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Amulet",
+   "Caravan Guard",
+   "Guide",
+   "Hireling",
+   "Miser",
+   "Imperial Envoy",
+   "Litter",
+   "Poet",
+   "Ronin",
+   "Tanuki"
+  ],
+  "landscapes": [
+   "Ball"
+  ],
+  "prophecy": "Flourishing Trade"
+ },
+ {
+  "name": "Hero's Journey",
+  "source": "risingsun",
+  "sets": [
+   "adventures",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Artificer",
+   "Distant Lands",
+   "Dungeon",
+   "Duplicate",
+   "Page",
+   "Aristocrat",
+   "Artist",
+   "Kitsune",
+   "Root Cellar",
+   "Samurai"
+  ],
+  "landscapes": [
+   "Kintsugi"
+  ],
+  "prophecy": "Biding Time"
+ },
+ {
+  "name": "Summer Castles",
+  "source": "risingsun",
+  "sets": [
+   "empires",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Capital",
+   "Castles",
+   "City Quarter",
+   "Forum",
+   "Patrician - Emporium",
+   "Aristocrat",
+   "Change",
+   "Rice",
+   "River Shrine",
+   "Snake Witch"
+  ],
+  "landscapes": [
+   "Museum"
+  ],
+  "prophecy": "Kind Emperor"
+ },
+ {
+  "name": "Swept Clean",
+  "source": "risingsun",
+  "sets": [
+   "empires",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Chariot Race",
+   "Charm",
+   "Crown",
+   "Overlord",
+   "Temple",
+   "Artist",
+   "Kitsune",
+   "Mountain Shrine",
+   "Rice Broker",
+   "Root Cellar"
+  ],
+  "landscapes": [
+   "Sea Trade"
+  ],
+  "prophecy": "Divine Wind"
+ },
+ {
+  "name": "Priceless Rice",
+  "source": "risingsun",
+  "sets": [
+   "nocturne",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Blessed Village",
+   "Cursed Village",
+   "Devil's Workshop",
+   "Faithful Hound",
+   "Shepherd",
+   "Alley",
+   "Daimyo",
+   "Rice",
+   "Samurai",
+   "Tea House"
+  ],
+  "landscapes": [],
+  "prophecy": "Growth"
+ },
+ {
+  "name": "Dark Corners",
+  "source": "risingsun",
+  "sets": [
+   "nocturne",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Changeling",
+   "Conclave",
+   "Sacred Grove",
+   "Skulk",
+   "Werewolf",
+   "Artist",
+   "Gold Mine",
+   "Litter",
+   "River Shrine",
+   "Tanuki"
+  ],
+  "landscapes": [
+   "Amass"
+  ],
+  "prophecy": "Sickness"
+ },
+ {
+  "name": "Mountain of Money",
+  "source": "risingsun",
+  "sets": [
+   "renaissance",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Ducat",
+   "Experiment",
+   "Hideout",
+   "Scholar",
+   "Treasurer",
+   "Alley",
+   "Gold Mine",
+   "Kitsune",
+   "Rice Broker",
+   "Riverboat"
+  ],
+  "landscapes": [
+   "Guildhall"
+  ],
+  "prophecy": "Bureaucracy",
+  "riverboat": "Seer"
+ },
+ {
+  "name": "Fresh Start",
+  "source": "risingsun",
+  "sets": [
+   "renaissance",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Border Guard",
+   "Cargo Ship",
+   "Inventor",
+   "Patron",
+   "Sculptor",
+   "Change",
+   "Daimyo",
+   "Ninja",
+   "Poet",
+   "Tea House"
+  ],
+  "landscapes": [
+   "Receive Tribute"
+  ],
+  "prophecy": "Divine Wind"
+ },
+ {
+  "name": "Become the Ox",
+  "source": "risingsun",
+  "sets": [
+   "menagerie",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Animal Fair",
+   "Camel Train",
+   "Destrier",
+   "Livery",
+   "Wayfarer",
+   "Aristocrat",
+   "Artist",
+   "Fishmonger",
+   "Poet",
+   "Samurai"
+  ],
+  "landscapes": [],
+  "prophecy": "Enlightenment"
+ },
+ {
+  "name": "Alternatives",
+  "source": "risingsun",
+  "sets": [
+   "menagerie",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Bounty Hunter",
+   "Coven",
+   "Paddock",
+   "Sleigh",
+   "Supplies",
+   "Alley",
+   "Craftsman",
+   "Daimyo",
+   "Ronin",
+   "Rustic Village"
+  ],
+  "landscapes": [
+   "Sea Trade"
+  ],
+  "prophecy": "Panic"
+ },
+ {
+  "name": "Expert Traders",
+  "source": "risingsun",
+  "sets": [
+   "allies",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Augurs",
+   "Contract",
+   "Courier",
+   "Hunter",
+   "Swap",
+   "Daimyo",
+   "Fishmonger",
+   "Rice Broker",
+   "Riverboat",
+   "Rustic Village"
+  ],
+  "landscapes": [],
+  "ally": "Crafters' Guild",
+  "prophecy": "Enlightenment",
+  "riverboat": "Barbarian"
+ },
+ {
+  "name": "Feverish Crafting",
+  "source": "risingsun",
+  "sets": [
+   "allies",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Capital City",
+   "Clashes",
+   "Innkeeper",
+   "Marquis",
+   "Skirmisher",
+   "Aristocrat",
+   "Craftsman",
+   "Fishmonger",
+   "Snake Witch",
+   "Tea House"
+  ],
+  "landscapes": [
+   "Credit"
+  ],
+  "prophecy": "Rapid Expansion"
+ },
+ {
+  "name": "Buried in Booty",
+  "source": "risingsun",
+  "sets": [
+   "plunder",
+   "risingSun"
+  ],
+  "kingdom": [
+   "First Mate",
+   "Flagship",
+   "King's Cache",
+   "Pendant",
+   "Taskmaster",
+   "Gold Mine",
+   "Ninja",
+   "Poet",
+   "Rice Broker",
+   "Tanuki"
+  ],
+  "landscapes": [
+   "Prosper"
+  ],
+  "prophecy": "Growth"
+ },
+ {
+  "name": "Shiny Things",
+  "source": "risingsun",
+  "sets": [
+   "plunder",
+   "risingSun"
+  ],
+  "kingdom": [
+   "Cabin Boy",
+   "Cutthroat",
+   "Jewelled Egg",
+   "Pilgrim",
+   "Tools",
+   "Daimyo",
+   "Litter",
+   "Rice",
+   "River Shrine",
+   "Root Cellar"
+  ],
+  "landscapes": [
+   "Credit"
+  ],
+  "prophecy": "Good Harvest"
+ },
+ {
+  "name": "Mad scientist",
+  "source": "promos",
+  "sets": [
+   "dominion1stEdition",
+   "intrigue1stEdition",
+   "cornucopia1stEdition",
+   "prosperity1stEdition",
+   "alchemy"
+  ],
+  "kingdom": [
+   "Conspirator",
+   "Duke",
+   "Great Hall",
+   "Market",
+   "Young Witch",
+   "Tournament",
+   "Alchemist",
+   "Transmute",
+   "University",
+   "Vineyard"
+  ],
+  "landscapes": [],
+  "bane": "Trade Route"
+ },
+ {
+  "name": "Thief hidden in the fortress",
+  "source": "promos",
+  "sets": [
+   "intrigue1stEdition",
+   "prosperity1stEdition",
+   "hinterlands1stEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Nobles",
+   "Rabble",
+   "Grand Market",
+   "Hoard",
+   "Crossroads",
+   "Rogue",
+   "Fortress",
+   "Scavenger",
+   "Procession",
+   "Vagrant"
+  ],
+  "landscapes": []
+ },
+ {
+  "name": "silk or silver",
+  "source": "promos",
+  "sets": [
+   "intrigue1stEdition",
+   "hinterlands1stEdition",
+   "darkAges"
+  ],
+  "kingdom": [
+   "Great Hall",
+   "Scout",
+   "Crossroads",
+   "Silk Road",
+   "Margrave",
+   "Farmland",
+   "Jack of All Trades",
+   "Trader",
+   "Tunnel",
+   "Feodum"
+  ],
+  "landscapes": []
+ }
+]

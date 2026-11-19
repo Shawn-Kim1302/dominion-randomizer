@@ -4,7 +4,8 @@ import type { Card } from '../data/types'
 import { ARTIFACTS, COMPONENT_RULES, HEIRLOOMS, REFERENCED_IDS, SETUP_NOTES } from './components'
 import { dealKingdom, kingdomPool, landscapePool, promoKey } from './kingdom'
 import { createRng } from './rng'
-import { resolveSetup, type SetupContext } from './setup'
+import { recommended } from '../data/recommended'
+import { loadSetup, resolveSetup, saveSetup, setupFromRecommended, type SetupContext } from './setup'
 
 const byId = new Map(cards.map((c) => [c.id, c]))
 const card = (id: string): Card => {
@@ -163,5 +164,41 @@ describe('landscape limits and promos', () => {
     expect(kingdomPool(cards, only).map((c) => c.id)).toEqual(['Captain'])
     expect(landscapePool(cards, only).map((c) => c.id)).toEqual(['Summon'])
     expect(kingdomPool(cards, new Set(['promo']))).toEqual([])
+  })
+})
+
+describe('recommended kingdoms', () => {
+  it('every recommended Kingdom loads with 10 Kingdom piles', () => {
+    const failed = recommended.filter((r) => {
+      const s = setupFromRecommended(r, cards, 3)
+      return !s || s.kingdom.length !== 10
+    })
+    expect(failed.map((r) => r.name)).toEqual([])
+    expect(recommended.length).toBeGreaterThan(400)
+  })
+
+  it('uses the Bane and Traits the rulebook names', () => {
+    const r = recommended.find((k) => k.bane)!
+    const s = setupFromRecommended(r, cards, 3)!
+    expect(s.extraPiles.find((e) => e.role === 'bane')?.card.id).toBe(r.bane)
+    const t = recommended.find((k) => k.traits)!
+    expect(setupFromRecommended(t, cards, 3)!.traits.map((x) => x.pile.id)).toEqual(t.traits!.map((x) => x.pile))
+  })
+})
+
+describe('saveSetup / loadSetup', () => {
+  it('round-trips a drawn setup through storage', () => {
+    const k = [card('Young Witch'), card('Bauble'), ...filler(8)]
+    const traits = cards.filter((c) => c.landscape === 'Trait').slice(0, 1)
+    const s = resolveSetup(k, traits, ctx(5))
+    const back = loadSetup(JSON.parse(JSON.stringify(saveSetup(s))), cards, 3)!
+    expect(saveSetup(back)).toEqual(saveSetup(s))
+    expect(back.components.map((c) => c.id)).toEqual(s.components.map((c) => c.id))
+  })
+
+  it('returns null when a stored card no longer exists', () => {
+    const saved = saveSetup(resolveSetup(filler(10), [], ctx()))
+    saved.kingdom[0] = 'No Such Card'
+    expect(loadSetup(saved, cards, 3)).toBeNull()
   })
 })
