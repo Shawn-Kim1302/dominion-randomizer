@@ -10,7 +10,7 @@ import { cards, getCard, sets } from './data'
 import type { Card } from './data/types'
 import { lang, primaryName } from './lang'
 import { drawConstrainedKingdom, drawLandscapes, rerollSlot } from './randomizer/constraints'
-import { PROMO_SET, compareByCost, compareByName, isAvailable, kingdomPool, landscapePool, promoKey, type LandscapeRule } from './randomizer/kingdom'
+import { PROMO_SET, compareByCost, compareByName, compareBySet, isAvailable, kingdomPool, landscapePool, promoKey, type LandscapeRule } from './randomizer/kingdom'
 import type { RecommendedKingdom } from './data/recommended'
 import { loadSetup, resolveSetup, saveSetup, setupFromRecommended, withPlayers, type GameSetup, type SavedSetup } from './randomizer/setup'
 import { constraintsFromStored, constraintsToStored, loadState, saveState } from './storage'
@@ -34,7 +34,8 @@ const selected = ref<Set<string>>(new Set((prefs.selected ?? ['dominion2ndEditio
 const players = ref(prefs.players && prefs.players >= 2 && prefs.players <= 6 ? prefs.players : 2)
 const landscapeChoice = ref(prefs.landscapeChoice && prefs.landscapeChoice in LANDSCAPE_RULES ? prefs.landscapeChoice : 'shuffled')
 /** How the 10 Kingdom piles are ordered on screen. */
-const sortMode = ref<'cost' | 'name'>(prefs.sortMode === 'name' ? 'name' : 'cost')
+const SORTS = { cost: compareByCost, name: compareByName, set: compareBySet }
+const sortMode = ref<keyof typeof SORTS>(prefs.sortMode && prefs.sortMode in SORTS ? prefs.sortMode : 'cost')
 const constraints = ref(constraintsFromStored(prefs.constraints, knownCard))
 lang.value = prefs.lang === 'en' ? 'en' : 'ko'
 
@@ -83,7 +84,7 @@ const supply = computed(() => {
   }
   const piles = s.kingdom
     .slice()
-    .sort(sortMode.value === 'name' ? compareByName : compareByCost)
+    .sort(SORTS[sortMode.value])
     .map((card) => ({ card, tag: tagFor(card), rerollable: !constraints.value.require.has(card.id) }))
   for (const e of s.extraPiles.filter((x) => x.inSupply)) {
     piles.push({ card: e.card, tag: tagFor(e.card, e.role === 'bane' ? 'Bane' : '공격 더미 추가'), rerollable: false })
@@ -254,6 +255,7 @@ onBeforeUnmount(() => document.removeEventListener('fullscreenchange', onFullscr
             <div class="seg" role="group" aria-label="왕국 카드 정렬">
               <button type="button" :aria-pressed="sortMode === 'cost'" @click="sortMode = 'cost'">비용순</button>
               <button type="button" :aria-pressed="sortMode === 'name'" @click="sortMode = 'name'">가나다순</button>
+              <button type="button" :aria-pressed="sortMode === 'set'" @click="sortMode = 'set'">확장순</button>
             </div>
             <button v-if="shown" type="button" class="ghost" :aria-pressed="tableMode" @click="toggleTableMode">
               {{ tableMode ? '크게 보기 끄기' : '크게 보기' }}

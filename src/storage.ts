@@ -11,7 +11,7 @@ export interface StoredPrefs {
   selected: string[]
   players: number
   landscapeChoice: string
-  sortMode: 'cost' | 'name'
+  sortMode: 'cost' | 'name' | 'set'
   lang: 'ko' | 'en'
   constraints: {
     exclude: string[]

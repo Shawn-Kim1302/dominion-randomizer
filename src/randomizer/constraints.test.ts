@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { cards } from '../data'
 import { drawConstrainedKingdom, drawLandscapes, emptyConstraints, groupsOf, rerollSlot, violations } from './constraints'
-import { compareByName, kingdomPool, landscapePool, promoKey } from './kingdom'
+import { compareByName, compareBySet, kingdomPool, landscapePool, promoKey } from './kingdom'
 import { createRng } from './rng'
 
 const selected = new Set(['dominion2ndEdition', 'intrigue2ndEdition', 'seaside2ndEdition', promoKey('Captain')])
@@ -70,6 +70,14 @@ describe('compareByName', () => {
     const names = ['Witch', 'Moat', 'Village', 'Chapel'].map((id) => cards.find((c) => c.id === id)!)
     const sorted = names.slice().sort(compareByName).map((c) => c.ko)
     expect(sorted).toEqual(['마녀', '마을', '예배당', '해자'])
+  })
+})
+
+describe('compareBySet', () => {
+  it('orders by expansion release order, then cost', () => {
+    const byId = (id: string) => cards.find((c) => c.id === id)!
+    const sorted = ['Lighthouse', 'Witch', 'Courtyard', 'Village', 'Chapel'].map(byId).sort(compareBySet).map((c) => c.id)
+    expect(sorted).toEqual(['Chapel', 'Village', 'Witch', 'Courtyard', 'Lighthouse'])
   })
 })
 

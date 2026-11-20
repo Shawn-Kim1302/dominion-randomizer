@@ -1,3 +1,4 @@
+import { sets } from '../data'
 import type { Card } from '../data/types'
 import { shuffle, type Rng } from './rng'
 
@@ -117,4 +118,13 @@ export function compareByCost(a: Card, b: Card): number {
 /** Sort key: Korean name in 가나다 order (English name when there is no Korean name). */
 export function compareByName(a: Card, b: Card): number {
   return (a.ko ?? a.en).localeCompare(b.ko ?? b.en, 'ko')
+}
+
+/** Box release order (sets.json is listed in release order, promos last). */
+const SET_ORDER = new Map(sets.map((s, i) => [s.id, i]))
+const setRank = (c: Card) => Math.min(...c.sets.map((id) => SET_ORDER.get(id) ?? sets.length))
+
+/** Sort key: expansion in release order (a card in both editions counts as its earliest box), then cost. */
+export function compareBySet(a: Card, b: Card): number {
+  return setRank(a) - setRank(b) || compareByCost(a, b)
 }
