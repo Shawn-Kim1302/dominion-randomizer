@@ -15,11 +15,11 @@ import type { RecommendedKingdom } from './data/recommended'
 import { loadSetup, resolveSetup, saveSetup, setupFromRecommended, withPlayers, type GameSetup, type SavedSetup } from './randomizer/setup'
 import { constraintsFromStored, constraintsToStored, loadState, saveState } from './storage'
 
-const LANDSCAPE_RULES: Record<string, { label: string; rule: LandscapeRule }> = {
-  shuffled: { label: '랜더마이저에 섞기 · 최대 2장 (공식 기본)', rule: { mode: 'shuffled', max: 2 } },
-  fixed1: { label: '따로 섞어 항상 1장', rule: { mode: 'fixed', count: 1 } },
-  fixed2: { label: '따로 섞어 항상 2장', rule: { mode: 'fixed', count: 2 } },
-  none: { label: '사용 안 함', rule: { mode: 'fixed', count: 0 } },
+const LANDSCAPE_RULES: Record<string, { label: string; hint: string; rule: LandscapeRule }> = {
+  shuffled: { label: '섞어서 0~2장 (공식 기본)', hint: '왕국 카드와 함께 섞어 뽑고, 나온 만큼 최대 2장까지 써요.', rule: { mode: 'shuffled', max: 2 } },
+  fixed1: { label: '항상 1장', hint: '랜드스케이프만 따로 섞어 항상 1장 써요.', rule: { mode: 'fixed', count: 1 } },
+  fixed2: { label: '항상 2장', hint: '랜드스케이프만 따로 섞어 항상 2장 써요.', rule: { mode: 'fixed', count: 2 } },
+  none: { label: '사용 안 함', hint: '랜드스케이프를 쓰지 않아요.', rule: { mode: 'fixed', count: 0 } },
 }
 const LANDSCAPE_KO: Record<string, string> = { Event: '이벤트', Landmark: '랜드마크', Project: '프로젝트', Way: 'Way', Trait: '특성' }
 const HISTORY_SIZE = 20
@@ -226,6 +226,7 @@ onBeforeUnmount(() => document.removeEventListener('fullscreenchange', onFullscr
               <option v-for="(v, k) in LANDSCAPE_RULES" :key="k" :value="k">{{ v.label }}</option>
             </select>
           </label>
+          <p class="field-hint">{{ LANDSCAPE_RULES[landscapeChoice].hint }}</p>
         </section>
 
         <section class="panel" aria-labelledby="sets-h">
@@ -303,6 +304,7 @@ h2 { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color
   min-width: 0; max-width: 220px; font: inherit; font-size: 0.85rem; color: var(--fg);
   background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px; padding: 4px 8px;
 }
+.field-hint { margin: 6px 0 0; color: var(--muted); font-size: 0.8rem; }
 .quick { display: flex; gap: 10px; }
 .link { background: none; border: 0; padding: 0; color: var(--gold); cursor: pointer; font-size: 0.85rem; }
 .result { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
